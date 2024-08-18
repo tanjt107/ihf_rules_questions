@@ -8,6 +8,8 @@ This project manages rules and questions in multiple languages. The GetRule01 me
 
 The rules are defined in a RuleDto object that contains a list of QuestionDto objects, which in turn hold AnswerDto objects. Each of these DTOs supports multilingual text for the properties Phrase, PhraseNl, PhraseFr, PhraseSvn, PhraseDe, etc.
 
+Translations for the UI are stored in JSON files (`en.json`, `nl.json` `fr.json`, `de.json`, etc.).
+
 ## Adding a New Language
 
 ### Define the New Language Property:
@@ -48,6 +50,71 @@ PhraseFr = "Quelles sont les mesures du terrain de jeu selon les règles?",
 ### Review the Entire Rule:
 
 Make sure all questions and answers have the translations filled in for all supported languages.
+
+## JSON Translation Files
+
+The JSON files (en.json, nl.json, fr.json, de.json, etc.) contain translations for various parts of the UI. Each file includes a structure for different sections like "home", "navigation", "questions", etc.
+
+### Filling in Missing Translations in JSON Files
+
+#### Open the JSON Files:
+
+The JSON files are organized with keys and values where each value corresponds to a text string in a specific language.
+
+#### Identify Empty Fields:
+
+Look for keys with empty string values ("") in the JSON files. For example, in the de.json file:
+
+```json
+"home": {
+  "alert": "",
+  "all_questions_card": {
+    "button": "",
+    "content": "",
+    "title": ""
+  }
+}
+```
+
+#### Add the Missing Translation:
+
+Replace the empty strings with the appropriate translations. For example, in de.json:
+
+```json
+"home": {
+  "alert": "Derzeit sind nur die englische und niederländische Version verfügbar. Sobald die Versionen in anderen Sprachen (Französisch, Deutsch, Slowenisch, ...) verfügbar sind, werden sie veröffentlicht.",
+  "all_questions_card": {
+    "button": "Alle Fragen beantworten",
+    "content": "Gehe zur Liste aller Fragen.",
+    "title": "Alle Fragen"
+  }
+}
+```
+
+### Adding a New Language in JSON Files
+
+#### Duplicate an Existing JSON File:
+
+If you are adding a new language, start by copying one of the existing JSON files (e.g., en.json).
+
+#### Translate Each Key:
+
+Translate each value in the JSON file to the new language. For example, if creating a Spanish (es.json) file:
+
+```json
+"home": {
+    "alert": "Por ahora, solo están disponibles las versiones en inglés y holandés. Tan pronto como estén disponibles las versiones en otros idiomas (francés, alemán, esloveno,...), se publicarán.",
+    "all_questions_card": {
+        "button": "Responder todas las preguntas",
+        "content": "Ve a la lista de todas las preguntas.",
+        "title": "Todas las preguntas"
+    }
+}
+```
+
+#### Add the New Language to the Language Switcher:
+
+Update the languages section in each JSON file to include the new language.
 
 ## Creating a Pull Request
 
