@@ -129,7 +129,7 @@ If you haven't already, fork the repository to your own GitHub account.
 Clone your fork to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/KristofGilis/ihf_rules_questions.git
 ```
 
 Replace your-username with your GitHub username and repository-name with the repository's name.
