@@ -13,6 +13,7 @@ public static partial class Rules
             NameFr = "La Remise en jeu",
             NameSvn = "Stranski Met",
             NameDe = "Der Einwurf",
+            NameSrb = "Аут",
             RuleNumber = "11",
             Questions =
             [
@@ -24,6 +25,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "БЕЛИ 3 изводи аут, са места које је 2 метра удаљено од аут линије. Исправна одлука?",
                     QuestionNumber = "11.1",
                     Answers =
                     [
@@ -34,6 +36,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Ништа, јер је то дозвољено",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -43,6 +46,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -52,6 +56,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Понављање извођења аута без звучног сигнала",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -61,6 +66,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Понављање извођења аута после звучног сигнала",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -75,6 +81,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "ЦРНИ 4 стоји једном ногом на аут линији, а другом у пољу за игру. Изводећи аут директно постиже гол. Исправна одлука?",
                     QuestionNumber = "11.2",
                     Answers =
                     [
@@ -85,6 +92,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Гол за ЦРНУ екипу",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -95,6 +103,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Понављање извођења аута за ЦРНУ екипу после звучног сигнала",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -104,6 +113,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -113,6 +123,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Голманово бацање за БЕЛУ екипу",
                             AnswerNumber = "d"
                         }
                     ]
@@ -126,6 +137,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "БЕЛИ 6 изводи аут стојећи једном ногом унутар поља за игру, а другом ногом метар изван аут линије. Убацује лопту у гол ЦРНЕ екипе. Исправна одлука?",
                     QuestionNumber = "11.3",
                     Answers =
                     [
@@ -136,6 +148,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Понављање извођења аута за БЕЛУ екипу А после звучног сигнала",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -146,6 +159,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -155,6 +169,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Гол за БЕЛУ екипу",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -164,6 +179,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Голманово бацање за ЦРНУ екипу",
                             AnswerNumber = "d"
                         }
                     ]
@@ -177,6 +193,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "БЕЛИ 11 шутира на гол екипе. Лопта се одбије од пречке и погоди део опреме која виси са плафона изнад голмановог простора ЦРНЕ екипе. Лопта падне у руке голмана ЦРНОГ 1. Исправна одлука?",
                     QuestionNumber = "11.4",
                     Answers =
                     [
@@ -187,6 +204,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Голманово бацање за ЦРНУ екипу",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -196,6 +214,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Аут за ЦРНУ екипу",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -206,6 +225,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу после звучног сигнала",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -215,6 +235,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Аут за ЦРНУ екипу после звучног сигнала",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -224,6 +245,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Обавезан тајм-аут",
                             AnswerNumber = "e"
                         }
                     ]
@@ -237,6 +259,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "Када је играчима екипе која се брани дозвољено да приђу ближе од три метра код извођења бацања након прекида игре?",
                     QuestionNumber = "11.5",
                     Answers =
                     [
@@ -247,6 +270,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Чим судија да знак за извођење бацања",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -256,6 +280,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Када лопта напусти руку играча који изводи бацање",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -268,6 +293,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "У случају слободног бацања или аута, кад су играчи распоређени уз линију властитог голмановог простора",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -280,6 +306,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Током извођења голмановог или почетног бацања када су одбрамбени играчи изван голмановог простора, односно изван простора за почетно бацање",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -294,6 +321,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "БЕЛИ 5 не успева да ухвати лопту. Он је потрчао за њом и зауставио је пре него што је прешла аут линију, али се сам није могао зауставити и прешао је аут линију. Исправна одлука?",
                     QuestionNumber = "11.6",
                     Answers =
                     [
@@ -304,6 +332,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Игра се наставља без прекида",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -314,6 +343,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -323,6 +353,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Аут за ЦРНУ екипу",
                             AnswerNumber = "c"
                         }
                     ]

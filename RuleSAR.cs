@@ -13,6 +13,7 @@ public static partial class Rules
             NameFr = "Règlement des Zones de Changement",
             NameSvn = "Pravilnik O Prostoru Za Menjave",
             NameDe = "Auswechselraum-Reglement (ARR)",
+            NameSrb = "Правила о простору за замену играча",
             RuleNumber = "SAR",
             Questions =
             [
@@ -24,6 +25,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "Колико би требало да буде и растојање између средишње линије и почетка клупе за резервне играче?",
                     QuestionNumber = "SAR1",
                     Answers =
                     [
@@ -34,6 +36,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "1 метар",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -43,6 +46,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "2 метра",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -52,6 +56,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "3 метра",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -61,6 +66,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "3,5 метра",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -75,6 +81,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "Званичник А БЕЛЕ екипе је већ имао опомену док је седео на клупи. Он сада напушта простор за замену играча и седа у публику. Са ове позиције он наставља да протестује на одлуке судија. Исправна одлука?",
                     QuestionNumber = "SAR2",
                     Answers =
                     [
@@ -85,6 +92,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Даља акција није могућа",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -94,6 +102,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "2 минута искључења за званичника А БЕЛЕ екипе",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -105,6 +114,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Дисквалификација званичника А БЕЛЕ екипе (црвени картон показан од стране судија)",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -116,6 +126,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Дисквалификација званичника А БЕЛЕ екипе, писани извештај (црвени и плави картон показани од стране судија)",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -125,6 +136,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "БЕЛА екипа ће бити редукована за једног играча у пољу на 2 минута",
                             AnswerNumber = "e",
                             Correct = true
                         }

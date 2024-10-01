@@ -13,6 +13,7 @@ public static partial class Rules
             NameFr = "L’Engagement",
             NameSvn = "Začetni Met",
             NameDe = "Der Anwurf",
+            NameSrb = "Почетно бацање",
             RuleNumber = "10",
             Questions =
             [
@@ -25,6 +26,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "БЕЛА екипа добија жреб и одлучује да прва изведе почетно бацање. Представник ЦРНЕ екипе жели да промени стране. Исправна одлука?",
                     QuestionNumber = "10.1",
                     Answers =
                     [
@@ -35,6 +37,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Промена страна",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -45,6 +48,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Промена страна ако се БЕЛА екипа сагласи",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -54,6 +58,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Поновно жребање",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -63,6 +68,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Стране се не мењају",
                             AnswerNumber = "d"
                         }
                     ]
@@ -76,6 +82,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "БЕЛА екипа добија жреб и жели да промени стране. ЦРНА екипа жели да БЕЛА екипа изведе почетно бацање. Исправна одлука?",
                     QuestionNumber = "10.2",
                     Answers =
                     [
@@ -86,6 +93,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Почетно бацање за БЕЛУ екипу",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -95,6 +103,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Промена страна и почетно бацање за ЦРНУ екипу",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -105,6 +114,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Поновно жребање",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -114,6 +124,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Представници екипа се морају договорити",
                             AnswerNumber = "d"
                         }
                     ]
@@ -125,6 +136,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "(Без простора за почетно бацање) Одакле се може извести почетно бацање?",
                     QuestionNumber = "10.3",
                     Answers =
                     [
@@ -135,6 +147,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "До 3 метра иза средишње линије, на половини екипе која има лопту",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -144,6 +157,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "До 3 метра преко средишње линије на половини противника",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -155,6 +169,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "На средини игралишта једном ногом на средишњој линији, са толеранцијом са сваке стране, отприлике 1,5 метар",
                             AnswerNumber = "c",
                             Correct = true
                         }
@@ -169,6 +184,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "(Без простора за почетно бацање) При резултатту 15:15, мало пре завршетка утакмице, ЦРНА екипа постиже гол за 15:16. БЕЛА екипа жели да брзо изведе почетно бацање. Играч са лоптом стоји на средини игралишта, једном ногом испред средишње линије, а другом иза ње. Исправна одлука?",
                     QuestionNumber = "10.4",
                     Answers =
                     [
@@ -179,6 +195,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Исправка положаја; звучни сигнал за извођење почетног бацања",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -189,6 +206,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Положај је исправан; звучни сигнал за извођење почетног бацања",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -198,6 +216,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Тајм-аут; исправка положаја; звучни сигнал за извођење почетног бацања",
                             AnswerNumber = "c"
                         }
                     ]
@@ -211,6 +230,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "БЕЛА екипа треба да изведе почетно бацање. Голман ЦРНИ 1 још није свом голмановом простору. Судија у пољу, ипак, свира за почетак утакмице, а БЕЛИ 9 одмах постиже гол. Исправна одлука?",
                     QuestionNumber = "10.5",
                     Answers =
                     [
@@ -221,6 +241,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу А са средишње линије",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -230,6 +251,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Понављање почетног бацања",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -239,6 +261,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Гол за БЕЛУ екипу",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -249,6 +272,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу",
                             AnswerNumber = "d"
                         }
                     ]
@@ -261,6 +285,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "(Без простора за почетно бацање) Које тврдње о поласку са центра су тачне?",
                     QuestionNumber = "10.6",
                     Answers =
                     [
@@ -273,6 +298,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Почетно бацање се мора извести у року од 3 секунде после звучног сигнала, са средине игралишта, и то тако да се лопта баци у правцу противничке половине",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -282,6 +308,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Гол се противнику може дати директно при поласку са центра",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -293,6 +320,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "У поласку са центра, неправилни положаји одбрамбене екипе се морају кориговати",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -304,6 +332,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Ако извођач води лопту после звучног сигнала за извођење почетног бацања, слободно бацање мора бити досуђено за противника",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -316,6 +345,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Саиграчи извођача бацања могу прећи средишњу линију пре него што је бацање изведено",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -330,6 +360,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "(Без простора за почетно бацање) ЦРНИ 6 стоји на центру терена, да би извео почетно бацање, једном ногом на средишњој линији, док му је друга на својој половини терена. Судија свира. Пре него што је лопта напустила његову руку, извођач потрчи преко средишње линије. За време звиждука, још је било играча БЕЛЕ екипе на половини терена која припада ЦРНОЈ екипи. Исправна одлука?",
                     QuestionNumber = "10.7",
                     Answers =
                     [
@@ -340,6 +371,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Игра се наставља без прекида",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -349,6 +381,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -361,6 +394,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Исправка позиције БЕЛЕ екипе и понављање почетног бацања после звучног сигнала",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -372,6 +406,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Корекција позиције ЦРНОГ 6 и понављање почетног бацања после звучног сигнала",
                             AnswerNumber = "d"
                         }
                     ]
@@ -385,6 +420,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "(Са простором за почетно бацање) БЕЛА екипа постиже гол. ЦРНА екипа жели брзо да изведе почетно бацање. ЦРНИ 9 је у исправној позицији унутар простора за почетно бацање. Након звиждука за извођење бацања, ЦРНИ 9 прави 6 корака са лоптом унутар простора за почетно бацање. У року од 3 секунде након звиждука за извођење, ЦРНИ 9 баца лопту у празан гол БЕЛЕ екипе. Која је исправна одлука?",
                     QuestionNumber = "10.8",
                     Answers =
                     [
@@ -395,6 +431,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Гол за ЦРНУ екипу",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -405,6 +442,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -414,6 +452,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Корекција, понављање почетног бацања након звиждука",
                             AnswerNumber = "c"
                         }
                     ]
@@ -427,6 +466,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "(Са простором за почетно бацање) БЕЛА екипа постиже гол. ЦРНА екипа жели брзо да изведе почетно бацање. ЦРНИ 9 хвата лопту. ЦРНИ 9 је са једним стопалом и лоптом унутар простора за почетно бацање. Друго стопало је ван простора за почетно бацање. Судије дају знак за ивођење бацања. Пре него што ЦРНИ 9 помери друго стопало унутар простора за почетно бацање, он баца лопту у празан гол БЕЛЕ екипе. Која је исправна одлука?",
                     QuestionNumber = "10.9",
                     Answers =
                     [
@@ -437,6 +477,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Гол за ЦРНУ екипу",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -446,6 +487,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -457,6 +499,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Корекција, понављање почетног бацања након звиждука",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -468,6 +511,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Бацање је исправно изведено зато што су судије својим звиждуком одобрили правилну позицију играча за извођење бацања",
                             AnswerNumber = "d"
                         }
                     ]
@@ -481,6 +525,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "(Са простором за почетно бацање) ЦРНА екипа жели брзо да изведе почетно бацање. У исто време док ЦРНИ 8 трчи са једним стопалом и лоптом потпуно унутар простора за почетно бацање, БЕЛИ 7 се такође налази у простору за почетно бацање и трчи у правцу свог гола. Без саиграча у правцу БЕЛОГ 7 а након знака за извођење, ЦРНИ 8 баца лопту у леђа БЕЛОГ 7 који се налази у простору за почетно бацање у том тренутку. Која је исправна одлука?",
                     QuestionNumber = "10.10",
                     Answers =
                     [
@@ -491,6 +536,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -501,6 +547,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -510,6 +557,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Седмерац за ЦРНУ екипу",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -519,6 +567,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Прогресивна казна за БЕЛОГ 7",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -528,6 +577,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Прогресивна казна за ЦРНОГ 8",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -537,6 +587,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Искључење на 2 минута за ЦРНОГ 8",
                             AnswerNumber = "f",
                             Correct = true
                         }
@@ -551,6 +602,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "(Са простором за почетно бацање) Које од наведених тврдњи везаних за простор за почетно бацање нису тачне?",
                     QuestionNumber = "10.11",
                     Answers =
                     [
@@ -563,6 +615,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Знак за извођење почетног бацања може бити дат када извођач има неки део тела унутар простора за почетно бацање",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -575,6 +628,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Нема ограничења код позиција саиграча извођача током извођења почетног бацања",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -587,6 +641,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Извођачу је дозвољено да закорачи ван простора за почетно бацање током извођења бацања",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -599,6 +654,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Играчу одбрамбене екипе је дозвољено да пресече додавање након извођења чак и ако је лопта још увек унутар простора за почетно бацање",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -611,6 +667,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Извођачу није дозвољено да води лопту након знака за иозвођење почетног бацања",
                             AnswerNumber = "e"
                         }
                     ]
@@ -624,6 +681,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "(Са простором за почетно бацање) БЕЛА екипа игра са 7 играча у пољу и постиже гол. ЦРНА екипа жели брзо да изведе почетно бацање. ЦРНИ 6 има једно стопало и лопту потпуно унутар простора за почетно бацање. Судије дају знак за извођење. БЕЛИ 8 видно улази у простор за почетно бацање и са рукама активно жели да спречи извођење бацања. Упркос томе, ЦРНИ 6, који има цело тело и лопту потпуно унутар простора за почетно бацање, изводи бацање као директан шут на празан гол. Лопта након тога прелази спољашњу гол аут линију. Која је исправна одлука?",
                     QuestionNumber = "10.12",
                     Answers =
                     [
@@ -634,6 +692,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Голманово бацање за БЕЛУ екипу",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -643,6 +702,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Ново почетно бацање након звиждука",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -652,6 +712,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -661,6 +722,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Седмерац за ЦРНУ екипу",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -671,6 +733,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Тајм-аут",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -681,6 +744,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Прогресивна казна за БЕЛОГ 8",
                             AnswerNumber = "f"
                         },
                         new AnswerDto
@@ -690,6 +754,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Искључење на 2 минута за БЕЛОГ 8",
                             AnswerNumber = "g",
                             Correct = true
                         },
@@ -700,6 +765,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Дисквалификација за БЕЛОГ 8 (црвени картон)",
                             AnswerNumber = "h"
                         }
                     ]
@@ -713,6 +779,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "(Са простором за почетно бацање) Које од наведених тврдњи везаних за почетно бацање су исправне?",
                     QuestionNumber = "10.13",
                     Answers =
                     [
@@ -725,6 +792,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Почетно бацање се мора извести у року од 3 секунде од знака за извођење",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -735,6 +803,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Могуће је постићи гол из почетног бацања",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -747,6 +816,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "У вези са почетним бацањем, погрешне позиције одбрамбених играча морају бити кориговане",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -758,6 +828,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Уколико извођач скочи након сигнала за извођење, исправна одлука је слободно бацање за противника",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -770,6 +841,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Саиграчима извођача није дозвољено да пређу средишњу линију пре сигнала за извођење бацања",
                             AnswerNumber = "e"
                         }
                     ]
@@ -782,6 +854,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "(Са простором за почетно бацање) Када судија може дати знак за извођење почетног бацања?",
                     QuestionNumber = "10.14",
                     Answers =
                     [
@@ -794,6 +867,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Када извођач има бар једно стопало и лопту унутар простора за почетно бацање, а друго стопало није ван простора и на противничкој половини терена",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -806,6 +880,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Када извођач има бар једно стопало унутар простора за почетно бацање, друго стопало није ван простора нити на противничкој половини терена, али је лопта ван простора за почетно бацање",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -817,6 +892,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Када извођач има бар једно стопало и лопту унутар простора за почетно бацање а друго стопало је ван простора и на противничкој половини терена",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -828,6 +904,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Када извођач има бар једно стопало и лопту унутар простора за почетно бацање, друго стопало није ван простора нити на противничкој половини терена, али су саиграчи извођача унутар простора за почетно бацање на противничкој половини терена",
                             AnswerNumber = "d",
                             Correct = true
                         }
