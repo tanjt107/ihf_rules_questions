@@ -219,7 +219,8 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "Простор за почетно бацање може бити простор другачије боје у односу на терен за игру",
+                            PhraseSrb =
+                                "Простор за почетно бацање може бити простор другачије боје у односу на терен за игру",
                             AnswerNumber = "c",
                             Correct = true
                         },

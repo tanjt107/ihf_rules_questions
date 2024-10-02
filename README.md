@@ -224,3 +224,14 @@ var rule = new RuleDto
 ## Conclusion
 
 By following these instructions, you can easily add new languages, fill in missing translations, and submit your changes for review via a pull request. Alternatively, you can email your changes directly for review. Ensure all changes are consistent across the project to maintain the integrity of the multilingual support.
+
+## Special thanks to our contributors
+
+<table>
+  <tbody>
+    <tr>
+    <td align="center" valign="top" width="14.28%"><a href="https://github.com/KristofGilis"><img src="https://avatars.githubusercontent.com/u/2454275?v=4?s=100" width="100px;" alt="Kristof Gilis"/><br /><sub><b>Kristof Gilis</b></sub></a><br /><a href="https://github.com/KristofGilis/ihf_rules_questions/commits?author=KristofGilis" title="Code"> En / Nl</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/branislavrt4316"><img src="https://avatars.githubusercontent.com/u/55112798?v=4?s=100" width="100px;" alt="Branislav Vujanovic"/><br /><sub><b>Branislav Vujanovic</b></sub></a><br /><a href="https://github.com/KristofGilis/ihf_rules_questions/commits?author=branislavrt4316" title="Code">Srb</a></td>
+    </tr>
+  </tbody>
+</table>
