@@ -10,6 +10,7 @@ public class RuleDto
     public string? NameSvn { get; init; }
     public string? NameDe { get; init; }
     public string? NameSrb { get; init; }
+    public string? NameHk { get; init; }
     public string RuleNumber { get; init; } = default!;
     internal List<QuestionDto> Questions { get; init; } = [];
 }
