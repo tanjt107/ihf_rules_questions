@@ -14,6 +14,7 @@ public static partial class Rules
             NameSvn = "Vratarjev Met",
             NameDe = "Der Abwurf",
             NameSrb = "Голманово бацање",
+            NameZhHk = "守門員球",
             RuleNumber = "12",
             Questions =
             [
@@ -28,6 +29,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Изводећи голманово бацање, голман БЕЛИ 1 додирује линију свог голмановог простора. Исправна одлука?",
+                    PhraseZhHk = "擲守門員球時，白隊守門員1號一隻腳踏在禁區線上(未有踏出禁區線)，如何判決？",
                     QuestionNumber = "12.1",
                     Answers =
                     [
@@ -39,6 +41,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање се понавља после звучног сигнала",
+                            PhraseZhHk = "鳴哨後重擲守門員球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -49,6 +52,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -59,6 +63,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља без прекида",
+                            PhraseZhHk = "比賽繼續",
                             AnswerNumber = "c",
                             Correct = true
                         }
@@ -75,6 +80,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "После звиждука за извођење седмерца, голман БЕЛИ 12 стане једном ногом на линију четверца (ограничавајућа линија за голмана) . Лопта одлази преко пречке. Исправна одлука?",
+                    PhraseZhHk = "在鳴哨執行七米球時，白隊守門員12號一隻腳踏在守門員限制線(四米線)上防守(未有踏出四米線)。該七米球從球門橫樑上方越過(不入)。如何判決？",
                     QuestionNumber = "12.2",
                     Answers =
                     [
@@ -86,6 +92,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац ће бити поновљен после звучног сигнала",
+                            PhraseZhHk = "鳴哨後重擲七米球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -96,6 +103,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Није гол, игра се наставља голмановим бацањем",
+                            PhraseZhHk = "由於球未射進球門，比賽以守門員球繼續進行",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -107,6 +115,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Позиција голмана је исправна",
+                            PhraseZhHk = "守門員的位置是正確的",
                             AnswerNumber = "c",
                             Correct = true
                         }
@@ -123,6 +132,8 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голман БЕЛИ 1 зауставља шут и баца се за лоптом која се котрља према пољу за игру. ЦРНИ 7 стоји неометан и спреман да узме лопту. У последњем тренутку БЕЛИ 1 успева руком да избије лопту преко гол-аут линије изван гола. Исправна одлука?",
+                    PhraseZhHk =
+                        "白隊守門員1號擋了一個射門的球後，球滾動向比賽場區方向，黑隊7號正處於無人防守的情況下等候拾得此球，在最後關頭，守門員1號用手把球打出己方的外底線。如何判決？",
                     QuestionNumber = "12.3",
                     Answers =
                     [
@@ -134,6 +145,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -144,6 +156,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Аут за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊界外球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -154,6 +167,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊守門員球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -165,6 +179,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "d"
                         }
                     ]
@@ -180,6 +195,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Изводећи голманово бацање, голман БЕЛИ 12 испусти лопту и она га погоди у ногу. Лопта пређе преко линије голмановог простора и оде у поље за игру. БЕЛИ 12 трчи за лоптом, ухвати је и врати се у свој голманов простор да понови голманово бацање. Исправна одлука?",
+                    PhraseZhHk = "白隊守門員12號擲守門員球時，球不慎脫手並碰到腳，接著球從禁區滾動到比賽場內。白隊12號追上去並將球拾起帶回禁區，準備重擲守門員球。如何判決？"
                     QuestionNumber = "12.4",
                     Answers =
                     [
@@ -191,6 +207,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -201,6 +218,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -211,6 +229,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -221,6 +240,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Корекција, голманово бацање после звучног сигнала",
+                            PhraseZhHk = "更正後，鳴哨重擲守門員球",
                             AnswerNumber = "d",
                             Correct = true
                         }

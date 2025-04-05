@@ -14,6 +14,7 @@ public static partial class Rules
             NameSvn = "Žoga",
             NameDe = "Der Ball",
             NameSrb = "Лопта",
+            NameZhHk = "球",
             RuleNumber = "3",
             Questions =
             [
@@ -25,6 +26,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Колико боја може имати лопта?",
+                    PhraseZhHk = "手球可有多少種顔色?",
                     QuestionNumber = "3.1",
                     Answers =
                     [
@@ -36,6 +38,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "1",
+                            PhraseZhHk = "1",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -46,6 +49,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2",
+                            PhraseZhHk = "2",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -56,6 +60,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "3",
+                            PhraseZhHk = "3",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -66,6 +71,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "неограничено",
+                            PhraseZhHk = "無限",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -80,6 +86,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Коју од наведене четири лопте треба да одаберу судије за утакмицу мушкараца?",
+                    PhraseZhHk = "裁判應選用以下那一個球作為男子比賽用的球？",
                     QuestionNumber = "3.2",
                     Answers =
                     [
@@ -91,6 +98,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Обима 57 цм – тежине 450 грама",
+                            PhraseZhHk = "圓周57厘米，重450克",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -101,6 +109,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Обима 58 цм – тежине 400 грама",
+                            PhraseZhHk = "圓周58厘米，重400克",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -111,6 +120,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Обима 59 цм – тежине 425 грама",
+                            PhraseZhHk = "圓周59厘米，重425克",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -122,6 +132,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Обима 60 цм – тежине 500 грама",
+                            PhraseZhHk = "圓周60厘米，重500克",
                             AnswerNumber = "d"
                         }
                     ]
@@ -135,6 +146,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Коју од наведене четири лопте треба да одаберу судије за утакмицу жена?",
+                    PhraseZhHk = "裁判應選用以下那一個球作為女子比賽用的球？",
                     QuestionNumber = "3.3",
                     Answers =
                     [
@@ -146,6 +158,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Обима 53 цм – тежине 350 грама",
+                            PhraseZhHk = "圓周53厘米，重350克",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -156,6 +169,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Обима 54 цм – тежине 300 грама",
+                            PhraseZhHk = "圓周54厘米，重300克",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -166,6 +180,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Обима 55 цм – тежине 425 грама",
+                            PhraseZhHk = "圓周55厘米，重425克",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -176,6 +191,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Обима 56 цм – тежине 375 грама",
+                            PhraseZhHk = "圓周56厘米，重375克",
                             AnswerNumber = "d",
                             Correct = true
                         }

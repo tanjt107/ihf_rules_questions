@@ -28,6 +28,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Званичник Б БЕЛЕ екипе протестује и добија 2 минута искључења. Пре него што је утакмица настављена он поново протестује и бива дисквалификован. Исправна одлука?",
+                    PhraseZhHk = "白隊球隊職員B因抗議而被判退場兩分鐘。在恢復比賽前，他再次抗議而被判取消比賽資格。如何處理？"
                     QuestionNumber = "16.1",
                     Answers =
                     [
@@ -39,6 +40,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "БЕЛА екипа се редукује за два играча на терену на 2 минута",
+                            PhraseZhHk = "白隊兩名球員退場兩分鐘",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -49,6 +51,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "БЕЛА екипа се редукује за једног играча на терену на 4 минута",
+                            PhraseZhHk = "白隊一名球員退場四分鐘",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -59,6 +62,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "БЕЛА екипа се редукује за једног играча на терену на 2 минута",
+                            PhraseZhHk = "白隊一名球員退場兩分鐘",
                             AnswerNumber = "c",
                             Correct = true
                         }
@@ -75,6 +79,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 8 је искључен на 2 минута због гурања противника. Он одлази до судије и обраћа му се следећим речима: ''Ти си глуп, ти си идиот, никад ти нећеш научити''. Пре него што напусти поље за игру пљуне судију у лице. Исправна одлука?",
+                    PhraseZhHk = "白隊8號由於推人被判退場兩分鐘，他走過去辱駡裁判：“你這個蠢材、白痴，你唔識吹波的。”在離場前還向裁判臉上吐口水。如何判決？",
                     QuestionNumber = "16.2",
                     Answers =
                     [
@@ -89,6 +94,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација БЕЛОГ 8, БЕЛА екипа се редукује за једног играча на терену на 2 минута (црвени картон показан од стране судија)",
+                            PhraseZhHk = "取消白隊8號比賽資格，白隊場內減少一人兩分鐘（裁判出示紅牌）",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -102,6 +108,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација БЕЛОГ 8, БЕЛА екипа се редукује за два играча на терену на 2 минута (црвени картон показан од стране судија)",
+                            PhraseZhHk = "取消白隊8號比賽資格，白隊場內減少兩人兩分鐘（裁判出示紅牌）",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -115,6 +122,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација БЕЛОГ 8, БЕЛА екипа се редукује за једног играча на терену на 4 минута, писани извештај (црвени и плави картон показани од стране судија)",
+                            PhraseZhHk = "取消白隊8號比賽資格，A隊場內減少一人四分鐘，及需作出書面報告（裁判出示紅牌和藍牌）",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -129,6 +137,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација БЕЛОГ 8, БЕЛА екипа се редукује за два играча на терену на 2 минута, писани извештај (црвени и плави картон показани од стране судија)",
+                            PhraseZhHk = "取消白隊8號比賽資格，白隊場內減少兩人兩分鐘，及需作出書面報告（裁判出示紅牌和藍牌）",
                             AnswerNumber = "d"
                         }
                     ]

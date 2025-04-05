@@ -14,6 +14,7 @@ public static partial class Rules
             NameSvn = "Časomerilec In Zaposnikar",
             NameDe = "Zeitnehmer und Sekretär",
             NameSrb = "Мерилац времена и записничар",
+            NameZhHk = "計時員及記錄員",
             RuleNumber = "18",
             Questions =
             [
@@ -109,6 +110,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 5 је у јасној ситуацији за постизање гола. Званичник А БЕЛЕ екипе вређа мериоца времена. Мерилац времена свира баш када је БЕЛИ 5 спреман да шутира. Ову ситуацију је регистровао само мерилац времена. Исправна одлука?",
+                    PhraseZhHk = "白隊5號有一明顯得分機會，當白隊5號正準備射門時，計時員因被白隊球隊職員A侮辱而鳴哨。如何判決？",
                     QuestionNumber = "18.2",
                     Answers =
                     [
@@ -120,6 +122,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -130,6 +133,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Казна против званичника А БЕЛЕ екипе",
+                            PhraseZhHk = "漸進處罰白隊球隊職員A",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -140,6 +144,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -151,6 +156,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -161,6 +167,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Писани извештај",
+                            PhraseZhHk = "作出書面報告",
                             AnswerNumber = "e",
                             Correct = true
                         }

@@ -14,6 +14,7 @@ public static partial class Rules
             NameSvn = "Zadetek",
             NameDe = "Der Torgewinn",
             NameSrb = "Постизање гола",
+            NameZhHk = "得分",
             RuleNumber = "9",
             Questions =
             [
@@ -28,6 +29,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 7 стоји у средини одбране своје екипе. Када ЦРНИ 3 покуша да дода лопту одбијањем о тло. БЕЛИ 7 покуша да заустави лопту тако што видно подиже своју ногу. Након тога ногом шутне лопту која одлази у гол БЕЛЕ екипе. Исправна одлука?",
+                    PhraseZhHk = "白隊7號站在九米線前方防守，黑隊3號試圖作彈地傳球，白隊7號明顯用腳阻止其傳球，此舉使球碰到他的腳而進入白隊的球門。如何判决？",
                     QuestionNumber = "9.1",
                     Answers =
                     [
@@ -39,6 +41,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -49,6 +52,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за ЦРНУ",
+                            PhraseZhHk = "黑隊得分",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -60,6 +64,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -70,6 +75,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Искључење на 2 минута за БЕЛОГ 7",
+                            PhraseZhHk = "白隊7號退場兩分鐘",
                             AnswerNumber = "d",
                             Correct = true
                         }

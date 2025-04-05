@@ -14,6 +14,7 @@ public static partial class Rules
             NameSvn = "Igrišče",
             NameDe = "Die Spielfläche",
             NameSrb = "Игралиште",
+            NameZhHk = "球場",
             RuleNumber = "1",
             Questions =
             [
@@ -25,6 +26,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Које димензије игралишта прописују Правила игре?",
+                    PhraseZhHk = "根據球例規定，比賽場地的大小是：",
                     QuestionNumber = "1.1",
                     Answers =
                     [
@@ -36,6 +38,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "40 x 20 м",
+                            PhraseZhHk = "40 × 20米",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -47,6 +50,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "42 x 20 м",
+                            PhraseZhHk = "42 × 20米",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -57,6 +61,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "38 x 18 м",
+                            PhraseZhHk = "38 × 18米",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -67,6 +72,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Дужина између 38 и 42 метра, ширина између 18 и 22 метра",
+                            PhraseZhHk = "長38 - 42米，寬18 - 22米",
                             AnswerNumber = "d"
                         }
                     ]
@@ -79,6 +85,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Које су захтеване унутрашње димензије гола?",
+                    PhraseZhHk = "球門的內徑是：",
                     QuestionNumber = "1.2",
                     Answers =
                     [
@@ -90,6 +97,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "1,92 x 2,92 м",
+                            PhraseZhHk = "1.92 × 2.92米",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -100,6 +108,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2,00 x 3,00 м",
+                            PhraseZhHk = "2.00 × 3.00米",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -111,6 +120,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2,05 x 3,05 м",
+                            PhraseZhHk = "2.05 × 3.05米",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -121,6 +131,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2,08 x 3,08 м",
+                            PhraseZhHk = "2.08 × 3.08米",
                             AnswerNumber = "d"
                         }
                     ]
@@ -133,6 +144,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Колико је широка гол линија између статива?",
+                    PhraseZhHk = "球門柱間的球門線闊度是：",
                     QuestionNumber = "1.3",
                     Answers =
                     [
@@ -144,6 +156,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "5 цм",
+                            PhraseZhHk = "5厘米",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -154,6 +167,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "6 цм",
+                            PhraseZhHk = "6厘米",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -165,6 +179,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb = "8 цм",
                             AnswerNumber = "c",
+                            PhraseZhHk = "8厘米",
                             Correct = true
                         },
                         new AnswerDto
@@ -175,6 +190,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "10 цм",
+                            PhraseZhHk = "10厘米",
                             AnswerNumber = "d"
                         }
                     ]
