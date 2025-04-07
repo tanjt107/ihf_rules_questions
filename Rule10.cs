@@ -14,6 +14,7 @@ public static partial class Rules
             NameSvn = "Začetni Met",
             NameDe = "Der Anwurf",
             NameSrb = "Почетно бацање",
+            NameZhHk = "開球",
             RuleNumber = "10",
             Questions =
             [
@@ -28,6 +29,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа добија жреб и одлучује да прва изведе почетно бацање. Представник ЦРНЕ екипе жели да промени стране. Исправна одлука?",
+                    PhraseZhHk = "白隊擲毫得勝，選擇執行開球，黑隊代表要求轉換場區 (換邊)。如何判決？",
                     QuestionNumber = "10.1",
                     Answers =
                     [
@@ -39,6 +41,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Промена страна",
+                            PhraseZhHk = "轉換場區",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -50,6 +53,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Промена страна ако се БЕЛА екипа сагласи",
+                            PhraseZhHk = "如果白隊同意便轉換場區",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -60,6 +64,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Поновно жребање",
+                            PhraseZhHk = "重新擲毫",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -70,6 +75,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Стране се не мењају",
+                            PhraseZhHk = "不能轉換場區",
                             AnswerNumber = "d"
                         }
                     ]
@@ -85,6 +91,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа добија жреб и жели да промени стране. ЦРНА екипа жели да БЕЛА екипа изведе почетно бацање. Исправна одлука?",
+                    PhraseZhHk = "白隊擲毫得勝，要求轉換場區， 黑隊代表要求白隊開球。如何判決？"
                     QuestionNumber = "10.2",
                     Answers =
                     [
@@ -96,6 +103,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Почетно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊開球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -106,6 +114,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Промена страна и почетно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "轉換場區，黑隊開球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -117,6 +126,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Поновно жребање",
+                            PhraseZhHk = "重新擲毫",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -127,6 +137,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Представници екипа се морају договорити",
+                            PhraseZhHk = "兩隊代表必須達成一致意見",
                             AnswerNumber = "d"
                         }
                     ]
@@ -139,6 +150,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "(Без простора за почетно бацање) Одакле се може извести почетно бацање?",
+                    PhraseZhHk = "（沒有開球位置）什麼地方可執行開球？",
                     QuestionNumber = "10.3",
                     Answers =
                     [
@@ -150,6 +162,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "До 3 метра иза средишње линије, на половини екипе која има лопту",
+                            PhraseZhHk = "在己方比賽場區，距離中線三米內",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -160,6 +173,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "До 3 метра преко средишње линије на половини противника",
+                            PhraseZhHk = "在對方比賽場區，延伸中線三米內",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -173,6 +187,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "На средини игралишта једном ногом на средишњој линији, са толеранцијом са сваке стране, отприлике 1,5 метар",
+                            PhraseZhHk = "一隻腳踏在球場的中線，打橫延伸至離中央不多於1.5米處",
                             AnswerNumber = "c",
                             Correct = true
                         }
@@ -189,6 +204,8 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "(Без простора за почетно бацање) При резултатту 15:15, мало пре завршетка утакмице, ЦРНА екипа постиже гол за 15:16. БЕЛА екипа жели да брзо изведе почетно бацање. Играч са лоптом стоји на средини игралишта, једном ногом испред средишње линије, а другом иза ње. Исправна одлука?",
+                    PhraseZhHk =
+                        "（沒有開球位置）比賽快結束，比分是15：15。這時，黑隊得分以15：16領先，白隊欲迅速開球，擲球球員準備開球時一腳站在中線前方，另一腳站在中線後方。如何判決？",
                     QuestionNumber = "10.4",
                     Answers =
                     [
@@ -200,6 +217,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Исправка положаја; звучни сигнал за извођење почетног бацања",
+                            PhraseZhHk = "更正位置；然後鳴哨開球",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -211,6 +229,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Положај је исправан; звучни сигнал за извођење почетног бацања",
+                            PhraseZhHk = "位置正確，鳴哨開球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -221,6 +240,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут; исправка положаја; звучни сигнал за извођење почетног бацања",
+                            PhraseZhHk = "暫停；更正位置；然後鳴哨開球",
                             AnswerNumber = "c"
                         }
                     ]
@@ -236,6 +256,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа треба да изведе почетно бацање. Голман ЦРНИ 1 још није свом голмановом простору. Судија у пољу, ипак, свира за почетак утакмице, а БЕЛИ 9 одмах постиже гол. Исправна одлука?",
+                    PhraseZhHk = "（沒有開球位置）白隊準備開球，但黑隊守門員1號還未到達禁區內。場內裁判鳴哨開球，白隊9號直接將球擲入球門內。如何判決？",
                     QuestionNumber = "10.5",
                     Answers =
                     [
@@ -247,6 +268,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу А са средишње линије",
+                            PhraseZhHk = "白隊在中線擲自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -257,6 +279,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Понављање почетног бацања",
+                            PhraseZhHk = "重新開球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -267,6 +290,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за БЕЛУ екипу",
+                            PhraseZhHk = "白隊得分",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -278,6 +302,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊擲自由球",
                             AnswerNumber = "d"
                         }
                     ]

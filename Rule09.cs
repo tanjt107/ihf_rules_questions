@@ -92,6 +92,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Лопта се после шута БЕЛОГ 5 одбија од стативе гола ЦРНЕ екипе, погађа у ногу ЦРНОГ 3, који стоји пољу за игру и улази у гол ЦРНЕ екипе. Исправна одлука?",
+                    PhraseZhHk = "白隊5號射門，球中門柱彈中站在比賽場內黑隊3號的腳，接著球進入球門內。如何判決？",
                     QuestionNumber = "9.2",
                     Answers =
                     [
@@ -103,6 +104,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -113,6 +115,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за БЕЛУ екипу",
+                            PhraseZhHk = "白隊得分",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -124,6 +127,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -134,6 +138,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊守門員球",
                             AnswerNumber = "d"
                         }
                     ]
@@ -149,6 +154,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голман БЕЛИ 1 је одбранио шут, а лопта се одбија од одбрамбеног играча БЕЛОГ 3, који стоји два метра у голмановом простору, и уђе у гол БЕЛЕ екипе. Исправна одлука?",
+                    PhraseHk = "白隊守門員1號將球擋出，球擊中站在禁區內2米處的防守球員白隊3號後進入球門內。如何判決？"
                     QuestionNumber = "9.3",
                     Answers =
                     [
@@ -160,6 +166,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -170,6 +177,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -180,6 +188,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна против БЕЛОГ 3",
+                            PhraseZhHk = "漸進處罰白隊3號",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -190,6 +199,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊得分",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -206,6 +216,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голман БЕЛИ 1 држи лопту четири секунде у положају у којем је она са три четвртине свога обима прешла гол линију. Исправна одлука?",
+                    PhraseZhHk = "白隊守門員1號將一個四分之三已越過球門線的球，按在地上長達4秒之久。如何判決？",
                     QuestionNumber = "9.4",
                     Answers =
                     [
@@ -217,6 +228,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊得分",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -227,6 +239,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -237,6 +250,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊守門員球",
                             AnswerNumber = "c",
                             Correct = true
                         }
@@ -253,6 +267,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 3 уђе у голманов простор своје екипе и покуша да заустави лопту ногом, али се лопта одбија од његове ноге и уђе у гол БЕЛЕ екипе. Исправна одлука?",
+                    PhraseZhHk = "白隊3號進入己方禁區並試圖腳阻擋射門的球，球被擋後進入球門。如何判決？",
                     QuestionNumber = "9.5",
                     Answers =
                     [
@@ -264,6 +279,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -274,6 +290,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -284,6 +301,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊得分",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -295,6 +313,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊守門員球",
                             AnswerNumber = "d"
                         }
                     ]
@@ -310,6 +329,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 11 лобује голмана ЦРНОГ 1 који стоји далеко испред гола. Пре него што лопта пређе гол линију, директор ЦРНЕ екипе, који седи у првом реду гледалишта иза гола и није уписан у записник, избаци лопту. Исправна одлука?",
+                    PhraseZhHk = "黑隊守門員1號離開球門並站在較遠的地方，於是白隊11號高吊射門，在球越過球門線前，被坐在球門後方觀眾席第一排的黑隊經理擋了這球。如何判决？",
                     QuestionNumber = "9.6",
                     Answers =
                     [
@@ -321,6 +341,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -331,6 +352,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за БЕЛУ екипу",
+                            PhraseZhHk = "白隊得分",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -345,6 +367,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисвалификација директора ЦРНЕ екипе са писаним извештајем (црвени и плави картон показани од стране судија)",
+                            PhraseZhHk = "取消黑隊經理比賽資格及作出書面報告（裁判出示紅牌及藍牌）",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -355,6 +378,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Писани извештај",
+                            PhraseZhHk = "作出書面報告",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -371,6 +395,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "При резултату 25:25 и две секунде пре краја утакмице, званичник БЕЛЕ екипе (домаћа екипа) , који није уписан у записник утакмица, ухвати лопту која лети директно у празан гол и тиме спречи гол за ЦРНУ екипу. Одмах потом огласи се сигнал за крај утакмице. Исправна одлука?",
+                    PhraseZhHk = "現時比分爲25：25，比賽時間尚餘兩秒，白隊一名未在記錄表上登記的職員衝入場內攔截一個從空中飛向空門的球，破壤了黑隊的射門得分。隨即，比賽結束訊號響起。如何判决？",
                     QuestionNumber = "9.7",
                     Answers =
                     [
@@ -382,6 +407,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Коначан резултат 25:25",
+                            PhraseZhHk = "比賽結果25：25",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -392,6 +418,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -402,6 +429,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Коначан резултат 25:26",
+                            PhraseZhHk = "比賽結果25：26",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -416,6 +444,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација званичника са писаним извештајем (црвени и плави картон показани од стране судија)",
+                            PhraseZhHk = "取消該職員比賽資格及作出書面報告（裁判出示紅牌及藍牌）",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -426,6 +455,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Писани извештај",
+                            PhraseZhHk = "作出書面報告",
                             AnswerNumber = "e",
                             Correct = true
                         }

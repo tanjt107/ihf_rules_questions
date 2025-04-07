@@ -257,6 +257,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Када се сматра да је голманово бацање изведено тако да лоптом може да игра играч у пољу за игру?",
+                    PhraseZhHk = "什麼時候視為完成擲守門員球？ 場內球員何時可以觸球？",
                     QuestionNumber = "12.5",
                     Answers =
                     [
@@ -268,6 +269,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Кад је лопта још у ваздуху изнад голмановог простора",
+                            PhraseZhHk = "當球仍在禁區上空時",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -281,6 +283,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Кад је лопта напустила руку голмана, прешла линију голмановог простора и налази се изнад поља за игру",
+                            PhraseZhHk = "當球越過了禁區線進入比賽場區時",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -292,6 +295,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Кад је лопта напустила руку голмана",
+                            PhraseZhHk = "當球離開守門員的手時",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -302,6 +306,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Кад је саиграч голмана додирнуо лопту",
+                            PhraseZhHk = "在守門員的隊友接觸球後",
                             AnswerNumber = "d"
                         }
                     ]
@@ -317,6 +322,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голман БЕЛИ 12 изводи голманово бацање. ЦРНИ 10 стоји уз линију голмановог простора и покушава на исправан начин да освоји лопту. У томе успева и постиже гол. Исправна одлука?",
+                    PhraseZhHk = "白隊守門員12號擲守門員球時，黑隊10號站在禁區線外，合法地成功搶球，並把球射入白隊的球門內。如何判決？",
                     QuestionNumber = "12.6",
                     Answers =
                     [
@@ -328,6 +334,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -338,6 +345,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊得分",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -349,6 +357,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊守門員球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -359,6 +368,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна против ЦРНОГ 10",
+                            PhraseZhHk = "漸進處罰黑隊10號",
                             AnswerNumber = "d"
                         }
                     ]
@@ -374,6 +384,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голман БЕЛИ 12 одбрани шут, одбије лопту преко гол-аут линије поред гола; Који ручни сигнал/сигнале треба судија код гола да покаже?",
+                    PhraseZhHk = "白隊守門員12號擋了一次射門，球被打出外底線，底線裁判應做什麼手號？",
                     QuestionNumber = "12.7",
                     Answers =
                     [
@@ -385,6 +396,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Сигнал број 8: голманово бацање",
+                            PhraseZhHk = "手號8(守門員球)",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -396,6 +408,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Сигнал број 9: смер слободног бацања",
+                            PhraseZhHk = "手號9(自由球方向)",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -407,6 +420,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Прво сигнал број 9: смер слободног бацања, а затим сигнал број 8: голманово бацање",
+                            PhraseZhHk = "先做手號9(自由球方向)，然後做手號8(守門員球)",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -418,6 +432,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Прво сигнал број 8: голманово бацање, а затим сигнал броој 9: смер слободног бацања",
+                            PhraseZhHk = "先做手號8(守門員球)，然後做手號9(自由球方向)",
                             AnswerNumber = "d"
                         }
                     ]

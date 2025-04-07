@@ -14,6 +14,7 @@ public static partial class Rules
             NameSvn = "Sodnika",
             NameDe = "Die Schiedsrichter",
             NameSrb = "Судије",
+            NameZh = "裁判",
             RuleNumber = "17",
             Questions =
             [
@@ -26,6 +27,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Судије нису сагласне око тога која екипа треба да изведе аут. Исправна одлука?",
+                    PhraseZhHk = "兩名裁判判由哪隊擲界外球意見不一，如何處理？",
                     QuestionNumber = "17.1",
                     Answers =
                     [
@@ -37,6 +39,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Судија у пољу одлучује",
+                            PhraseZhHk = "由場內裁判决定",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -47,6 +50,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Судија код гола одлучује",
+                            PhraseZhHk = "由底線裁判决定",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -57,6 +61,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Двојица судија доносе заједничку одлуку после консултације",
+                            PhraseZhHk = "兩名裁判經協商後取得一致意見",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -68,6 +73,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -79,6 +85,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Нема тајм-аута, аут се изводи после звиждука",
+                            PhraseZhHk = "不用暫停，鳴哨後擲界外球",
                             AnswerNumber = "e"
                         }
                     ]

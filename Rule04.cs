@@ -1827,6 +1827,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 5 је сам са голманом ЦРНИМ 1 и има јасну ситуацију за постизање гола. ЦРНИ 11 прави погрешну замену, тако што улази на терен пре него што је ЦРНИ 9 изашао. Мерилац времена свира због овог прекршаја, тачно када је БЕЛИ 5 спреман да шутира. Исправна одлука?",
+                    PhraseZhHk = "白隊5號單獨面對黑隊守門員並有明顯得分機會。就在黑隊5號準備射門時，計時員鳴哨通知裁判黑隊11號替補犯規。如何判決？",
                     QuestionNumber = "4.27",
                     Answers =
                     [
@@ -1838,6 +1839,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења ЦРНОГ 11",
+                            PhraseZhHk = "黑隊11號退場兩分鐘",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1852,6 +1854,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација ЦРНОГ 11, писана пријава (црвени и плави картон показани од стране судија)",
+                            PhraseZhHk = "黑隊11號取消資格及作出書面報告（裁判出示紅牌及藍牌）",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1862,6 +1865,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1872,6 +1876,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -1888,6 +1893,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голман ЦРНИ 1 је одбранио шут и бацио лопту саиграчу ЦРНОМ 4. Сада голман ЦРНИ 1 иде ка аут линији, према простору за замену играча. Он јасно прелази аут линију, ван простора за замену, да би узео пешкир и попио воде. Он на терену није замењен другим голманом или играчем у пољу. Исправна одлука?",
+                    PhraseZhHk = "黑隊守門員1號擋出射門的球後，把球擲給他的隊友黑隊4號。隨即他跑往接近己方替補區的邊線，並明顯地越過邊線取毛巾及拿著水樽飲水。他未有被其他守門員替補。如何判決？",
                     QuestionNumber = "4.28",
                     Answers =
                     [
@@ -1899,6 +1905,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља, то је дозвољено",
+                            PhraseZhHk = "繼續比賽，這是容許的",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1910,6 +1917,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења за ЦРНОГ 1 због погрешне замене",
+                            PhraseZhHk = "黑隊1號替補犯規，被判退場兩分鐘",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1920,6 +1928,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу код простора за замену играча ЦРНЕ екипе",
+                            PhraseZhHk = "白隊在黑隊替補區擲自由球",
                             AnswerNumber = "c"
                         }
                     ]

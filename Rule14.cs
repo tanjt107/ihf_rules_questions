@@ -291,6 +291,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 9 изводи седмерац и лопта улази у гол, али пре него што је лопта напустила руку извођача БЕЛИ 4 пређе линију слободног бацања. Исправна одлука?",
+                    PhraseZhHk = "白隊9號擲七米球並射入球門，但在球離開擲球球員的手前，白隊4號越過了九米線。如何判決？"
                     QuestionNumber = "14.5",
                     Answers =
                     [
@@ -302,6 +303,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за БЕЛУ екипу",
+                            PhraseZhHk = "白隊得分",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -312,6 +314,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Понављање седмерца",
+                            PhraseZhHk = "重擲七米球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -322,6 +325,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -333,6 +337,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Понављање бацања и опомена за БЕЛОГ 4",
+                            PhraseZhHk = "重擲七米球，警告白隊4號",
                             AnswerNumber = "d"
                         }
                     ]
@@ -348,6 +353,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "ЦРНИ 2 је спреман да изведе седмерац после судијског звучног сигнала. У том тренутку БЕЛИ 5 пређе линију слободног бацања. Упркос томе, ЦРНИ 2 постиже гол. Исправна одлука?",
+                    PhraseZhHk = "裁判鳴哨後，黑隊2號準備擲七米球；這時，白隊5號越過九米線，黑隊2號射入球門。如何判決？",
                     QuestionNumber = "14.6",
                     Answers =
                     [
@@ -359,6 +365,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол и дисквалификација БЕЛОГ 5 (црвени картон показан од стране судија)",
+                            PhraseZhHk = "得分，取消白隊5號資格（裁判出示紅牌）",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -369,6 +376,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол и 2 минута искључења за БЕЛОГ 5",
+                            PhraseZhHk = "得分，白隊5號退場兩分鐘",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -379,6 +387,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊得分",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -390,6 +399,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Понављање седмерца и дисквалификација БЕЛОГ 5",
+                            PhraseZhHk = "重擲七米球，取消白隊5號資格",
                             AnswerNumber = "d"
                         }
                     ]
@@ -1024,6 +1034,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Док БЕЛИ 3 изводи седмерац, БЕЛИ 5 пређе линију слободног бацања, после судијског звучног сигнала, али пре него што је лопта напустила руку извођача. Голман ЦРНИ 1 одбрани шут. Исправна одлука?",
+                    PhraseZhHk = "白隊3號準備擲七米球，白隊5號在裁判鳴哨後，但在球離手前越過了九米線。黑隊守門員16號接住了球。如何判決？",
                     QuestionNumber = "14.17",
                     Answers =
                     [
@@ -1035,6 +1046,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Понављање седмерца за БЕЛУ екипу",
+                            PhraseZhHk = "重擲七米球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1045,6 +1057,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1055,6 +1068,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊守門員擲球",
                             AnswerNumber = "c",
                             Correct = true
                         }

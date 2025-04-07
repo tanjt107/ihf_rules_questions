@@ -461,6 +461,8 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Одбрамбени играч ЦРНИ 7 види да ће пивот БЕЛИ 9 примити лопту сам испред голмана. Стога, пошто је исту ствар учинио и раније, он трчи око играча БЕЛОГ 9, кроз голманов простор, тако да БЕЛИ 9 не може да прими лопту. ЦРНИ 7 је већ изван линије голмановог простора, када БЕЛИ 9 прима лопту. БЕЛИ 9 се окреће и натрчава на ЦРНОГ 7. Исправна одлука?",
+                    PhraseZhHk =
+                        "防守球員黑隊7號意識到若果白隊中鋒9號接球後將會單獨面對守門員，他再次越過禁區防守，他繞過禁區後防守白隊9號。此時，白隊9號接了球後轉身準備射門，並撞向黑隊7號。如何判決？",
                     QuestionNumber = "6.8",
                     Answers =
                     [
@@ -472,6 +474,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -483,6 +486,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -493,6 +497,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -503,6 +508,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна против ЦРНОГ 7",
+                            PhraseZhHk = "漸進處罰黑隊7號",
                             AnswerNumber = "d",
                             Correct = true
                         }

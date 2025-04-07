@@ -828,6 +828,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "До када судије могу поништити гол који је већ досуђен?",
+                    PhraseZhHk = "直至什麼時候，裁判可改判一個“入球”為無效？",
                     QuestionNumber = "2.13",
                     Answers =
                     [
@@ -839,6 +840,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Све до звиждука за почетно бацање",
+                            PhraseZhHk = "在開球的哨子吹響之前",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -850,6 +852,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Све до звиждука за крај утакмице",
+                            PhraseZhHk = "在比賽結束訊號發出之前",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -863,6 +866,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Гол мора бити поништен ако је постигнут након што је мерилац времена прекинуо игру, такође ако је почетно бацање изведено пре него што је констатован прекид",
+                            PhraseZhHk = "當計時員干擾比賽後之入球，而未有作出開球前，可改判入球無效",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -874,6 +878,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Не може се никад поништити",
+                            PhraseZhHk = "不可能更改判決",
                             AnswerNumber = "d"
                         }
                     ]

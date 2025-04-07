@@ -788,6 +788,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "ЦРНИ 3 изводи скок-шут, а БЕЛИ 9 блокира лопту. Лопта падне на под, БЕЛИ 9 је узме и крене да је води у контранапад, а затим је убаци у гол ЦРНЕ екипе. Исправна одлука?",
+                    PhraseZhHk = "黑隊3號跳起射門，球被白隊9號封擋落地。接著，白隊9號雙手把球拾起及開始運球反擊，並將球射入黑隊球門。如何判決？",
                     QuestionNumber = "7.14",
                     Answers =
                     [
@@ -799,6 +800,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол З БЕЛУ екипу",
+                            PhraseZhHk = "白隊得分",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -810,6 +812,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -820,6 +823,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против БЕЛОГ 9",
+                            PhraseZhHk = "白隊9號退場兩分鐘",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -830,6 +834,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "d"
                         }
                     ]

@@ -152,6 +152,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Колико се највише опомена може дати званичницима једне екипе за време утакмице?",
+                    PhraseZhHk = "一場比賽中，一隊球隊的職員最多可有多少次警告？",
                     QuestionNumber = "16.3",
                     Answers =
                     [
@@ -163,6 +164,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Ниједна",
+                            PhraseZhHk = "0次",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -174,6 +176,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb = "1",
                             AnswerNumber = "b",
+                            PhraseZhHk = "一次",
                             Correct = true
                         },
                         new AnswerDto
@@ -184,6 +187,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2",
+                            PhraseZhHk = "兩次",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -194,6 +198,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "3",
+                            PhraseZhHk = "三次",
                             AnswerNumber = "d"
                         }
                     ]
@@ -206,6 +211,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Када почиње да се мери временска казна играчима?",
+                    PhraseZhHk = "球員被罰退場兩分鐘，受罰時間是由何時開始計算？",
                     QuestionNumber = "16.4",
                     Answers =
                     [
@@ -217,6 +223,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Кад судија руком покаже знак за временску казну",
+                            PhraseZhHk = "裁判出示退場兩分鐘的手號時",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -227,6 +234,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Кад кажњени играч пређе аут линију",
+                            PhraseZhHk = "受罰球員離開邊線時",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -237,6 +245,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Кад судија да знак за наставак игре",
+                            PhraseZhHk = "裁判鳴哨恢復比賽時",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -248,6 +257,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Кад мерилац времена покрене штоперицу",
+                            PhraseZhHk = "計時員開計時器時",
                             AnswerNumber = "d"
                         }
                     ]
@@ -260,6 +270,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Коме се показује временска казна?",
+                    PhraseZhHk = "球員被罰退場時，裁判應向誰出示手號？",
                     QuestionNumber = "16.5",
                     Answers =
                     [
@@ -271,6 +282,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Кажњеном играчу, записничару/мериоцу времена",
+                            PhraseZhHk = "受罰球員、計時員和記錄員",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -282,6 +294,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Одговорном представнику екипе и мериоцу времена",
+                            PhraseZhHk = "“球隊職員代表”和計時員",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -292,6 +305,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Мериоцу времена/записничару",
+                            PhraseZhHk = "計時員和記錄員",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -303,6 +317,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Кажњеном играчу, одговорном представнику екипе и записничару",
+                            PhraseZhHk = "受罰球員、“球隊職員代表”和記錄員",
                             AnswerNumber = "d"
                         }
                     ]
