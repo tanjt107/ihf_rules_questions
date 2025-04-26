@@ -27,7 +27,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "БЕЛИ 3 изводи аут, са места које је 2 метра удаљено од аут линије. Исправна одлука?",
-                    PhraseZhHk = "白隊3號在邊線外2米處擲界外球。如何判決？"
+                    PhraseZhHk = "白隊3號在邊線外2米處擲界外球。如何判決？",
                     QuestionNumber = "11.1",
                     Answers =
                     [
@@ -286,6 +286,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Када је играчима екипе која се брани дозвољено да приђу ближе од три метра код извођења бацања након прекида игре?",
+                    PhraseZhHk = "比賽中斷後的擲球，在什麼情形下，容許防守隊離開擲球球員少於三米？",
                     QuestionNumber = "11.5",
                     Answers =
                     [
@@ -297,6 +298,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Чим судија да знак за извођење бацања",
+                            PhraseZhHk = "裁判員示意擲球後",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -307,6 +309,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Када лопта напусти руку играча који изводи бацање",
+                            PhraseZhHk = "當球離開擲球球員的手時",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -321,6 +324,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "У случају слободног бацања или аута, кад су играчи распоређени уз линију властитог голмановог простора",
+                            PhraseZhHk = "擲界外球，防守球員沿己方禁區線站立時",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -335,6 +339,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Током извођења голмановог или почетног бацања када су одбрамбени играчи изван голмановог простора, односно изван простора за почетно бацање",
+                            PhraseZhHk = "", // TODO 擲球或開球時，防守球員站在禁區外或開球區外?
                             AnswerNumber = "d",
                             Correct = true
                         }

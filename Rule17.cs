@@ -101,6 +101,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Аутоматски сигнал за крај утакмице на семафору не ради. Мерилац времена није видео проблем и не реагује, иако је време већ истекло. Ко у том случају треба да означи завршетак утакмице?",
+                    PhraseZhHk = "由於公開計時器故障無法自動發出完場訊號，雖然比賽時間已經結束，但計時員未注意到該故障而沒有做出任何反應。在這種情況下，應由誰人發出比賽結束訊號？",
                     QuestionNumber = "17.2",
                     Answers =
                     [
@@ -112,6 +113,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Само записничар",
+                            PhraseZhHk = "紀錄員",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -122,6 +124,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Само судија у пољу",
+                            PhraseZhHk = "場內裁判",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -132,6 +135,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Само делегат",
+                            PhraseZhHk = "技術委員",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -142,6 +146,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Само један од судија",
+                            PhraseZhHk = "兩位裁判中的任何一位",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -152,6 +157,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Само мерилац времена",
+                            PhraseZhHk = "計時員",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -162,6 +168,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Мерилац времена, делегат или један од судија",
+                            PhraseZhHk = "計時員、技術委員或兩位裁判中的任何一位",
                             AnswerNumber = "f",
                             Correct = true
                         }
@@ -178,6 +185,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "ЦРНИ 2 направи прекршај. Судија у пољу досуђује дисквалификацију ЦРНОГ 2 (црвени картон показан од стране судија)и слободно бацање. Судија код гола досуђује 2 минута искључења против ЦРНОГ 2 и седмерац. Како треба казнити играча и како наставити утакмицу?",
+                    PhraseZhHk = "黑隊2號犯規，埸內裁判判斷為取消資格和自由球，底線裁判判斷為退場兩分鐘和七米球。應如何執行罰則及如何恢復比賽？",
                     QuestionNumber = "17.3",
                     Answers =
                     [
@@ -189,6 +197,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута икључења против ЦРНОГ 2",
+                            PhraseZhHk = "黑隊2號退場兩分鐘",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -199,6 +208,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Дисквалификација ЦРНОГ 2 (црвени картон показан од стране судија)",
+                            PhraseZhHk = "取消黑隊2號資格（裁判出示紅牌）",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -210,6 +220,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање",
+                            PhraseZhHk = "自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -220,6 +231,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац",
+                            PhraseZhHk = "七米球",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -233,6 +245,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "У случају недоумице, ко одлучује о тачности мерења времена?",
+                    PhraseZhHk = "如對比賽計時有疑惑時，由誰確定時間？",
                     QuestionNumber = "17.4",
                     Answers =
                     [
@@ -244,6 +257,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Мерилац времена и записничар",
+                            PhraseZhHk = "計時員和紀錄員",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -254,6 +268,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Судије доносе заједничку одлуку",
+                            PhraseZhHk = "兩名裁判一同確定時間",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -265,6 +280,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Мерилац времена",
+                            PhraseZhHk = "計時員",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -275,6 +291,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Судије и мерилац времена доносе заједничку одлуку",
+                            PhraseZhHk = "兩名裁判和計時員一同確定時間",
                             AnswerNumber = "d"
                         }
                     ]
@@ -287,6 +304,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Које казне треба образложити у записник утакмице?",
+                    PhraseZhHk = "那些判罰要提交書面報告？",
                     QuestionNumber = "17.5",
                     Answers =
                     [
@@ -299,6 +317,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Све дисквалификације, осим оних након трећег искључења на 2 минута",
+                            PhraseZhHk = "所有被判取消比賽資格的判罰(被判三次退場除外)",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -309,6 +328,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Све казне, осим опомена",
+                            PhraseZhHk = "除警告外的所有處罰",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -319,6 +339,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Сва искључења и све дисквалификације",
+                            PhraseZhHk = "所有退場兩分鐘和取消比賽資格",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -332,6 +353,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификације за опасне прекршаје или грубо неспортско понашање у последњих 30 секунди утакмице, ако је то имало за циљ да спречи противника у стварању шансе за постизање гола",
+                            PhraseZhHk = "比賽至接近完場時，因危害性犯規或嚴重不君子行為被取消比賽資格者，其動作是阻止對方射門或獲得明顯得分機會時",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -342,6 +364,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Дисквалификације због екстремно неспортског понашања",
+                            PhraseZhHk = "因極端不君子行為而被判取消比賽資格時",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -356,6 +379,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Сваку прогресивну казну за време последњих 30 секунди утакмице, ако је прекршај имао за циљ да спречи противника у стварању шансе за постизање гола",
+                            PhraseZhHk = "比賽至接近完場時，因作不君子行為被判淅進處罰者，其動作是示圖阻止對方獲得明顯得分機會時",
                             AnswerNumber = "f"
                         }
                     ]
@@ -368,6 +392,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Коме је допуштено да се обраћа судијама за време игре?",
+                    PhraseZhHk = "比賽期間，誰可以向裁判表達意見？",
                     QuestionNumber = "17.6",
                     Answers =
                     [
@@ -379,6 +404,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Сваком играчу",
+                            PhraseZhHk = "每位參賽球員",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -389,6 +415,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Сваком званичнику",
+                            PhraseZhHk = "教練",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -399,6 +426,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Одговорном представнику екипе",
+                            PhraseZhHk = "“球隊職員代表”",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -410,6 +438,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Капитену екипе",
+                            PhraseZhHk = "隊長",
                             AnswerNumber = "d"
                         }
                     ]

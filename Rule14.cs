@@ -291,7 +291,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 9 изводи седмерац и лопта улази у гол, али пре него што је лопта напустила руку извођача БЕЛИ 4 пређе линију слободног бацања. Исправна одлука?",
-                    PhraseZhHk = "白隊9號擲七米球並射入球門，但在球離開擲球球員的手前，白隊4號越過了九米線。如何判決？"
+                    PhraseZhHk = "白隊9號擲七米球並射入球門，但在球離開擲球球員的手前，白隊4號越過了九米線。如何判決？",
                     QuestionNumber = "14.5",
                     Answers =
                     [
@@ -415,6 +415,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 6 има лопту и спреман је да изведе седмерац, тада званичник А ЦРНЕ екипе позива голмана ЦРНОГ 12 да изађе и буде замењен. ЦРНИ 12 је спреман да га послуша. Исправна одлука?",
+                    PhraseZhHk = "在白隊6號已經準備好擲七米球時，黑隊球隊職員A召回黑隊守門員12號進行替換，黑隊12號按要求作出替換。如何判決？",
                     QuestionNumber = "14.7",
                     Answers =
                     [
@@ -426,6 +427,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Ништа",
+                            PhraseZhHk = "替換後即執行七米球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -436,6 +438,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Опомена за званичника А ЦРНЕ екипе",
+                            PhraseZhHk = "警告黑隊職員A",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -446,6 +449,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Опомена за званичника А ЦРНЕ екипе и ЦРНОГ 12",
+                            PhraseZhHk = "警告黑隊職員A和黑隊12號",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -456,6 +460,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Опомена за ЦРНОГ 12",
+                            PhraseZhHk = "警告黑隊12號",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -472,6 +477,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 4 је извео шут на гол ЦРНЕ екипе. Лопта је погодила стативу и враћа се у правцу поља за игру. БЕЛИ 6 стоји сам испред линије голмановог простора спреман да ухвати лопту. ЦРНИ 4 јасно улази у голманов простор и избацује лопту преко гол аут-линије. Исправна одлука?",
+                    PhraseZhHk = "白隊3號射門，球擊中門柱向場內彈回，白隊6號在禁區線外準備接球，此時黑隊4號進入禁區內將球擊出外底線。如何判决？",
                     QuestionNumber = "14.8",
                     Answers =
                     [
@@ -483,6 +489,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -494,6 +501,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Аут за БЕЛУ екипу",
+                            PhraseZhHk = "白隊界外球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -504,6 +512,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -514,6 +523,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊守門員球",
                             AnswerNumber = "d"
                         }
                     ]

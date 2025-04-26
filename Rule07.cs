@@ -115,7 +115,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу са позиције ЦРНОГ 9",
-                            PhraseZhHk = "白隊在黑隊9號的位置擲自由球"
+                            PhraseZhHk = "白隊在黑隊9號的位置擲自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -153,7 +153,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 4 стоји и ухвати лопту. Он затим скочи и доскочи на десну ногу, затим скочи и доскочи на леву ногу и шутира. Колико је корака направио играч БЕЛИ 4?",
-                    PhraseZhHk = "白隊4號站著接球，跳起先以右腳著地，再以左腳起跳射門。白隊4號走了多少步？"
+                    PhraseZhHk = "白隊4號站著接球，跳起先以右腳著地，再以左腳起跳射門。白隊4號走了多少步？",
                     QuestionNumber = "7.3",
                     Answers =
                     [
@@ -565,7 +565,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 7 жели да дода лопту БЕЛОМ 5 након што ју је једном ударио о под, али БЕЛОГ 5 покрива противнички играч. БЕЛИ 7 се збуни, испусти лопту и поново је ухвати пре него што лопта дотакне тло. Исправна одлука?",
-                    PhraseZhHk = "白隊7號運球後想傳球給白隊5號，但白隊5號被對隊包圍著。白隊7號在慌亂中球脫手，但在球觸及地面前又把球接住。如何判決？"
+                    PhraseZhHk = "白隊7號運球後想傳球給白隊5號，但白隊5號被對隊包圍著。白隊7號在慌亂中球脫手，但在球觸及地面前又把球接住。如何判決？",
                     QuestionNumber = "7.10",
                     Answers =
                     [
@@ -726,7 +726,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа изводи аут. БЕЛИ 5 баца лопту у поље за игру која погађа судију и улази у гол ЦРНЕ екипе. Исправна одлука?",
-                    PhraseZhHk = "白隊5號擲界外球，球擊中站在場內的裁判後進入了黑隊的球門。如何判決？"
+                    PhraseZhHk = "白隊5號擲界外球，球擊中站在場內的裁判後進入了黑隊的球門。如何判決？",
                     QuestionNumber = "7.13",
                     Answers =
                     [
@@ -850,6 +850,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 5 води лопту дуж аут линије. ЦРНИ 2 га правилно омета. Да би прошао ЦРНОГ 2, БЕЛИ 5 прекорачи аут линију једном ногом, за време вођења. Исправна одлука?",
+                    PhraseZhHk = "白隊5號沿邊線運球，黑隊2號正確地阻擋他的路線；爲了繞過黑隊2號，白隊5號運球時腳越出了邊線。如何判決？",
                     QuestionNumber = "7.15",
                     Answers =
                     [
@@ -861,6 +862,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -871,6 +873,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Аут за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊界外球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -881,6 +884,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -892,6 +896,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља без прекида",
+                            PhraseZhHk = "比賽繼續",
                             AnswerNumber = "d"
                         }
                     ]
@@ -1219,6 +1224,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа води резултатом 24:23 у 57. минуту и има једног играча мање на терену него ЦРНА екипа. Судија у пољу досуђује слободно бацање у корист БЕЛОГ 3. БЕЛИ 6 покушава да изведе слободно бацање очигледно неколико метара даље од исправног места и поред тога што су судије јасно показале тачно место извођења бацања. Исправна одлука?",
+                    PhraseZhHk = "白隊在比賽至57分鐘時，比對方少一名場內球員下，暫以24:23領先。場內裁判判白隊得一自由球。裁判清晰地指出擲球位置，但白隊6號仍然在距離正確位置外數米處執行擲球。如何判決？",
                     QuestionNumber = "7.22",
                     Answers =
                     [
@@ -1231,6 +1237,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Корекција позиције, сигнал за наставак игре, без даљих одлука",
+                            PhraseZhHk = "更正位置，鳴哨恢復比賽，沒有其他動作",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1244,6 +1251,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Корекција позиције, сигнал за наставак игре, судије показују упозоравајући сигнал за пасивну игру",
+                            PhraseZhHk = "更正位置，鳴哨恢復比賽，出示消極進攻警告手號",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1258,6 +1266,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Корекција позиције, прогресивна казна против БЕЛОГ 6, сигнал за наставак игре, упозоравајући сигнал за пасивну игру",
+                            PhraseZhHk = "更正位置，漸進處罰白隊6號，鳴哨恢復比賽，出示消極進攻警告手號",
                             AnswerNumber = "c"
                         }
                     ]

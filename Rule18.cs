@@ -184,6 +184,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Одговорни представник БЕЛЕ екипе вређа записничара, а да то судије и делегат нису приметили. Када је игра следећи пут прекинута, записничар обавештава судије о томе што се догодило. Исправна одлука?",
+                    PhraseZhHk = "白隊“球隊職員代表”侮辱記錄員，但裁判沒有發覺；在接著的比賽中斷時，記錄員將事件知會了裁判。如何判決？",
                     QuestionNumber = "18.3",
                     Answers =
                     [
@@ -198,6 +199,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација одговорног представника БЕЛЕ екипе; Писани извештај (црвени и плави картон показани од стране судија)",
+                            PhraseZhHk = "取消白隊“球隊職員代表”資格，作出書面報告（裁判出示紅牌及藍牌）",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -208,6 +210,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против одговорног представника БЕЛЕ екипе",
+                            PhraseZhHk = "白隊“球隊職員代表”退場兩分鐘",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -218,6 +221,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Писани извештај",
+                            PhraseZhHk = "提交書面報告",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -229,6 +233,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Опомена одговорном представнику БЕЛЕ екипе",
+                            PhraseZhHk = "警告白隊“球隊職員代表”",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -239,6 +244,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Лична казна није могућа",
+                            PhraseZhHk = "不會進行個人處罰",
                             AnswerNumber = "e",
                             Correct = true
                         }

@@ -737,7 +737,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "БЕЛИ А11 се мора вратити у простор за замену играча, а играчу БЕЛОМ 8 или БЕЛОМ 9 је дозвољено да се врати на терен",
-                            PhraseZhHk = "白隊11號需返回替補區，白隊8號或白隊9號可返回場內"
+                            PhraseZhHk = "白隊11號需返回替補區，白隊8號或白隊9號可返回場內",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -754,7 +754,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Мало пре завршетка првог полувремена играч БЕЛИ 7 физички насрне на играча ЦРНОГ 5, и тиме спречи јасну ситуацију за постизање гола. Аутоматски сигнал за крај првог полувремена се огласи пре него што су судије стигле да свирају. Исправна одлука?",
-                    PhraseZhHk = "上半場完結前，白隊7號刻意襲擊黑隊5號以破壞其明顯得分機會。在裁判鳴哨前，自動結束訊號已經響了。如何判決？"
+                    PhraseZhHk = "上半場完結前，白隊7號刻意襲擊黑隊5號以破壞其明顯得分機會。在裁判鳴哨前，自動結束訊號已經響了。如何判決？",
                     QuestionNumber = "2.12",
                     Answers =
                     [
@@ -894,6 +894,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Судије су управо досудиле аут за БЕЛУ екипу. У том тренутку званичник БЕЛЕ екипе је затражио екипни тајм-аут. Која је од доле наведених тврдњи тачна?",
+                    PhraseZhHk = "裁判員判白隊得界外球；這時，白隊“球隊職員代表”要求隊暫停。下列那些句子是正確的？",
                     QuestionNumber = "2.14",
                     Answers =
                     [
@@ -905,6 +906,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Екипни тајм-аут се не може дати, док је лопта ван игре",
+                            PhraseZhHk = "由於球不是在比賽狀態，不可給予隊暫停",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -916,6 +918,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Мерилац времена сигнализира, зауставља мерење времена показује рукама знак (сигнализација) бр. 15",
+                            PhraseZhHk = "計時員鳴哨，停錶，展示手號15",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -927,6 +930,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Судије потврђују екипни тајм-аут за БЕЛУ екипу",
+                            PhraseZhHk = "裁判員確認白隊隊暫停",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -938,6 +942,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Записничар уноси у записник време екипног тајм-аута",
+                            PhraseZhHk = "紀錄員在記錄表上登記隊暫停",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -2344,6 +2349,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Ко може затражити екипни тајм-аут?",
+                    PhraseZhHk = "誰有資格要求“隊暫停”？",
                     QuestionNumber = "2.35",
                     Answers =
                     [
@@ -2355,6 +2361,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Једнан од званичника екипе",
+                            PhraseZhHk = "每一位球隊職員",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -2366,6 +2373,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Играч",
+                            PhraseZhHk = "球員",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -2376,6 +2384,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Само ''одговорни представник екипе''",
+                            PhraseZhHk = "只有“球隊職員代表”",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -2386,6 +2395,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Капитен екипе",
+                            PhraseZhHk = "隊長",
                             AnswerNumber = "d"
                         }
                     ]
