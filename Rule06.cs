@@ -525,6 +525,8 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Лопта се одбија од голмана ЦРНОГ 1 према нападачу БЕЛОМ 4 који чека уз линију голмановог простора. Да би спречио јасну прилику за гол, ЦРНИ 2 улази у голманов простор и спречава БЕЛОГ 4 да прими лопту. Исправна одлука?",
+                    PhraseZhHk =
+                        "黑隊守門員1號擋球後，球反彈向正在禁區外準備接球的白隊4號，爲阻擋這明顯得分機會，黑隊2號進入禁區阻礙白隊4號接球。如何判决？",
                     QuestionNumber = "6.9",
                     Answers =
                     [
@@ -536,6 +538,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -546,6 +549,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -557,6 +561,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна против ЦРНОГ 2",
+                            PhraseZhHk = "漸進處罰黑隊2號",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -567,6 +572,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Дисквалификација ЦРНОГ 2 (црвени картон показан од стране судија)",
+                            PhraseZhHk = "取消黑隊2號的比賽資格（裁判出示紅牌）",
                             AnswerNumber = "d"
                         }
                     ]
@@ -582,6 +588,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 10 баца лопту ка свом голмановом простору. Голман БЕЛИ 1 скаче из голмановог простора и хвата лопту у ваздуху. Чврсто држећи лопту БЕЛИ 1 доскаче изван голмановог простора. Исправна одлука?",
+                    PhraseZhHk = "白隊守門員1號在禁區內跳起，在空中接獲白隊10號回傳的球後，在禁區外著陸。如何判決？",
                     QuestionNumber = "6.10",
                     Answers =
                     [
@@ -593,6 +600,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља без прекида",
+                            PhraseZhHk = "比賽繼續",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -603,6 +611,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊守門員球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -613,6 +622,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -624,6 +634,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "d"
                         }
                     ]
@@ -639,6 +650,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Лопта додата од стране БЕЛОГ 11 враћа се у голманов простор, где голман БЕЛИ 1 скаче и хвата лопту док је у ваздуху. Чврсто држећи лопту БЕЛИ 1 доскаче једном ногом у голманов простор, а другом изван голмановог простора. Исправна одлука?",
+                    PhraseZhHk = "白隊守門員1號在禁區內跳起接了白隊11號回傳的球，白隊1號在空中接球後，一隻腳落在禁區內，一隻腳落在禁區外。如何判決？",
                     QuestionNumber = "6.11",
                     Answers =
                     [
@@ -650,6 +662,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља без прекида",
+                            PhraseZhHk = "比賽繼續",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -660,6 +673,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊守門員球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -670,6 +684,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -681,6 +696,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "d"
                         }
                     ]

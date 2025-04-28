@@ -339,7 +339,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Током извођења голмановог или почетног бацања када су одбрамбени играчи изван голмановог простора, односно изван простора за почетно бацање",
-                            PhraseZhHk = "", // TODO 擲球或開球時，防守球員站在禁區外或開球區外?
+                            PhraseZhHk = "擲守門員球或開球，防守球員於禁區外或開球位置外站立時",
                             AnswerNumber = "d",
                             Correct = true
                         }

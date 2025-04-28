@@ -2009,7 +2009,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Дат је тајм-аут због повреде БЕЛОГ 6, која је настала као последица прекршаја играча ЦРНЕ екипе, који није прогресивно кажњен. Судије дају дозволу да две особе уђу на терен и помогну БЕЛОМ 6. Званичник Ц БЕЛЕ екипе помаже БЕЛОМ 6, а званичник А БЕЛЕ екипе јури ЦРНОГ 5, који је према његовом мишљењу проузроковао повреду. Он прати ЦРНОГ 5 у простор за замену ЦРНЕ екипе и удари га у лице. Исправна одлука?",
-                    PhraseZhHk = "白隊6號受傷，比賽暫停；裁判作出允許進場的手號，白隊球隊職員C對白隊6號進行護理，白隊球隊職員A則走向他認爲是傷人的黑隊5號球員，一直尾隨走到黑隊替補席處，打了黑隊5號一巴。如何判決？", //TODO that did not lead to a progressive punishment against a player from BLACK team
+                    PhraseZhHk = "白隊6號受傷，比賽暫停；裁判作出允許進場的手號，並沒有處罰黑隊犯規球員。白隊球隊職員C對白隊6號進行護理，白隊球隊職員A則走向他認爲是傷人的黑隊5號球員，一直尾隨走到黑隊替補席處，打了黑隊5號一巴。如何判決？",
                     QuestionNumber = "4.30",
                     Answers =
                     [
@@ -2109,6 +2109,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Непосредно након изведеног почетног бацања ЦРНЕ екипе, судије су утврдиле да се у простору за замену играча ЦРНЕ екипе налази особа која није унесена у записник. Испоставило се да је он један од чланова клуба, али се установи да ЦРНА екипа већ има на клупи 4 званичника унешена у записник. Исправна одлука?",
+                    PhraseZhHk = "黑隊剛執行開球，裁判發現一名沒有登記在記錄表上的人，在黑隊的替補區出現。原來他是該球會的委員，但黑隊在記錄表上已登記了四名職員。如何判決？",
                     QuestionNumber = "4.31",
                     Answers =
                     [
@@ -2120,6 +2121,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Особа мора напустити простор за замену играча",
+                            PhraseZhHk = "該人必須離開替補區",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -2132,6 +2134,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Одговорни представник ЦРНЕ екипе добија личну казну",
+                            PhraseZhHk = "黑隊“球隊職員代表” 須接受個人處罰",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -2143,6 +2146,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Додатно још један званичник мора напустити простор за замену",
+                            PhraseZhHk = "另一球隊職員必須離開替補區",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -2153,6 +2157,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља слободним бацањем за БЕЛУ екипу",
+                            PhraseZhHk = "由白隊擲自由球恢復比賽",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -2164,6 +2169,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља слободним бацањем за ЦРНУ екипу",
+                            PhraseZhHk = "由黑隊擲自由球恢復比賽",
                             AnswerNumber = "e"
                         }
                     ]

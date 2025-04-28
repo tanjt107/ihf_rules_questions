@@ -261,6 +261,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа има лопту на линији 9 метара ЦРНЕ екипе. Технички делегат прекида игру и објашњава судијама да га је званичник А ЦРНЕ екипе вређао. Исправна одлука?",
+                    PhraseZhHk = "白隊在黑隊自由球線處控球；這時，技術代表中斷比賽，並告訴裁判黑隊球隊職員A辱罵他。如何判決？",
                     QuestionNumber = "18.4",
                     Answers =
                     [
@@ -272,6 +273,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Упозорење званичнику А ЦРНЕ екипе, писани извештај",
+                            PhraseZhHk = "警告黑隊球隊職員A，提交書面報告",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -285,6 +287,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација званичника А ЦРНЕ екипе, писани извештај (црвени и плави картон показани од стране судија)",
+                            PhraseZhHk = "取消黑隊球隊職員A資格，提交書面報告（裁判出示紅牌及藍牌）",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -299,6 +302,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Игра се наставља слободним бацањем за БЕЛУ екипу код простора за замену играча ЦРНЕ екипе",
+                            PhraseZhHk = "由白隊在黑隊替補區擲自由球恢復比賽",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -312,6 +316,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Игра се наставља слободним бацањем за БЕЛУ екипу са линије слободног бацања ЦРНЕ екипе",
+                            PhraseZhHk = "由白隊在黑隊自由球線擲自由球恢復比賽",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -328,6 +333,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа има лопту на линији слободног бацања ЦРНЕ екипе. Мерилац времена прекида утакмицу и каже судијама да га је званичник А БЕЛЕ екипе вређао. Ову ситуацију је регистровао само мерилац времена. Исправна одлука?",
+                    PhraseZhHk = "白隊在黑隊自由球線處控球，計時員鳴哨中斷比賽，並告訴裁判白隊球隊職員A侮辱他，但這個行為只有計時員本人注意到。如何判決？",
                     QuestionNumber = "18.5",
                     Answers =
                     [
@@ -339,6 +345,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Писани извештај",
+                            PhraseZhHk = "提交書面報告",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -350,6 +357,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против званичника А БЕЛЕ екипе, писани извештај",
+                            PhraseZhHk = "白隊球隊職員A被判退場兩分鐘，提交書面報告",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -363,6 +371,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Игра се наставља слободним бацањем за ЦРНУ екипу, код простора за замену играча БЕЛЕ екипе",
+                            PhraseZhHk = "由黑隊在白隊替補區擲自由球恢復比賽",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -376,6 +385,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Игра се наставља слободним бацањем за БЕЛУ екипу, са линије слободног бацања ЦРНЕ екипе",
+                            PhraseZhHk = "由白隊在黑隊自由球線擲自由球恢復比賽",
                             AnswerNumber = "d",
                             Correct = true
                         }

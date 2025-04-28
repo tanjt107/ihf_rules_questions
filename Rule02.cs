@@ -956,6 +956,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "У којој од ових ситуација је обавезан тајм-аут?",
+                    PhraseZhHk = "下列那些情況，裁判必須鳴哨暫停比賽？",
                     QuestionNumber = "2.15",
                     Answers =
                     [
@@ -967,6 +968,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац",
+                            PhraseZhHk = "七米球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -977,6 +979,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења",
+                            PhraseZhHk = "退場兩分鐘",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -988,6 +991,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Спољашњи утицај",
+                            PhraseZhHk = "外來的影響",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -998,6 +1002,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Дисквалификација",
+                            PhraseZhHk = "取消比賽資格時",
                             AnswerNumber = "d",
                             Correct = true
                         }

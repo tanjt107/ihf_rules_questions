@@ -2106,7 +2106,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Играч који трчи у контранапад је повучен и оборен. Ситуација није нарочито опасна.",
-                            PhraseZhHk = "拉倒正在快速反擊跑動中的持球球員", // TODO The situation is not particularly dangerous.
+                            PhraseZhHk = "拉倒正在快速反擊跑動中的持球球員，這種情況並不是特別危險",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -2327,6 +2327,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Шта се сматра неспортским понашањем?",
+                    PhraseZhHk = "下列那些情况被視爲不君子行爲？",
                     QuestionNumber = "8.32",
                     Answers =
                     [
@@ -2340,6 +2341,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Бацање лопте у главу одбрамбеног играча који се не креће у правцу лопте",
+                            PhraseZhHk = "擲球擊中未有移動的防守球員的頭部",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -2353,6 +2355,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Пасиван став голмана током извођења седмерца, када је очито да он не покушава да брани шут",
+                            PhraseZhHk = "擲七米球時，守門員態度消極，明顯不悅地防守",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -2363,6 +2366,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Покушај обмане судије симулирањем",
+                            PhraseZhHk = "作出假動作，以誤導裁判",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -2374,6 +2378,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Активно блокирање шута на гол коришћењем ноге или потколенице",
+                            PhraseZhHk = "主動地用腳封阻射門",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -2385,6 +2390,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Поновљени улазак у голманов простор, из тактичких разлога",
+                            PhraseZhHk = "由於戰術原因重覆進入禁區",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -2396,6 +2402,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Реванш после прекршаја",
+                            PhraseZhHk = "被犯規後的報復行為",
                             AnswerNumber = "f"
                         }
                     ]
@@ -2411,6 +2418,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "У којим ситуацијама уз дисквалификацију мора следити писани извештај (црвени и плави картон показани од стране судија)?",
+                    PhraseZhHk = "下列那些情況需要判取消比賽資格及提交書面報告（裁判出示紅牌和藍牌）？",
                     QuestionNumber = "8.33",
                     Answers =
                     [
@@ -2422,6 +2430,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Физички напад на терену, за време паузе између два полувремена",
+                            PhraseZhHk = "中場休息時，在比賽場內發生歐鬥事件",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -2433,6 +2442,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Нарочито несмотрена и опасна акција",
+                            PhraseZhHk = "特別魯莽或特別危險的動作",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -2444,6 +2454,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Реванш после прекршаја",
+                            PhraseZhHk = "被犯規後的報復行為",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -2455,6 +2466,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Злонамерна акција која никако није у вези са ситуацијом у игри",
+                            PhraseZhHk = "有預謀或惡意的動作，而這行為與比賽並無關連",
                             AnswerNumber = "d",
                             Correct = true
                         }

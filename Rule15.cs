@@ -858,7 +858,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Мало пре краја утакмице резултат је 24:23 у корист БЕЛЕ екипе. Слободно бацање за БЕЛУ екипу око једног метра изван линије слободног бацања ЦРНЕ екипе. Сви играчи одмах заузимају исправан положај и судија даје знак за извођење слободног бацања. БЕЛИ 10 који изводи слободно бацање направи један корак пре него што лопта напусти његову руку. Исправна одлука?",
-                    PhraseZhHk = "比賽即將結束，比分是24：23 (白:黑)。白隊在黑隊九米線前一米處擲自由球，當所有球員都在正確的位置時，裁判鳴哨擲球，白隊10號持球向黑隊方向踏出一步。應如何處理？", // TODO WHITE team is leading / 明顯越過了九米線
+                    PhraseZhHk = "比賽即將結束，比分是白隊以24：23領先。白隊在黑隊九米線前一米處擲自由球，當所有球員都在正確的位置時，裁判鳴哨擲球，白隊10號持球向黑隊方向踏出一步。應如何處理？",
                     QuestionNumber = "15.14",
                     Answers =
                     [
@@ -983,6 +983,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голман ЦРНИ 1 изводи голманово бацање. Лопта погоди судију и врати се ЦРНОМ 1, који је у међувремену изашао из голмановог простора. Исправна одлука?",
+                    PhraseZhHk = "黑隊守門員1號擲守門員球後，球觸及裁判並彈回被黑隊1號接住。此時，黑隊1號已經離開禁區。如何判決？",
                     QuestionNumber = "15.16",
                     Answers =
                     [
@@ -994,6 +995,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља без прекида",
+                            PhraseZhHk = "比賽繼續",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1004,6 +1006,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Понављање голмановог бацања после звучног сигнала",
+                            PhraseZhHk = "鳴哨後重擲守門員球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1014,6 +1017,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -1025,6 +1029,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу, после звучног сигнала",
+                            PhraseZhHk = "鳴哨後，黑隊擲自由球",
                             AnswerNumber = "d"
                         }
                     ]
