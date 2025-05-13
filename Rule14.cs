@@ -539,6 +539,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 3 изводи седмерац. БЕЛИ 5 пређе линију слободног бацања после судијског звиждука, али пре него што је лопта напустила руку извођача БЕЛОГ 3. Исправна одлука?",
+                    PhraseZhHk = "白隊3號擲七米球時，白隊5號在裁判鳴哨後，球未離開白隊3號的手前，進入了九米線。如何判決？",
                     QuestionNumber = "14.9",
                     Answers =
                     [
@@ -550,6 +551,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Понављање седмерца",
+                            PhraseZhHk = "重擲七米球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -560,6 +562,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -571,6 +574,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊守門員球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -581,6 +585,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна против БЕЛОГ 5",
+                            PhraseZhHk = "漸進處罰白隊5號",
                             AnswerNumber = "d"
                         }
                     ]

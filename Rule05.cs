@@ -442,6 +442,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голман ЦРНИ 12 скочи увис у свом голмановом простору да ухвати дуго додавање према играчу БЕЛОМ 7. ЦРНИ 12 хвата лопту док је у ваздуху и доскаче једном ногом у голманов простор, а другом у поље за игру, држећи лопту у рукама. Из те позиције дода лопту до играча ЦРНОГ 3. Исправна одлука?",
+                    PhraseZhHk = "黑隊守門員12號在禁區內跳起截取對隊長傳給白隊7號的球，他在空中接球後落地，一腳落在禁區內，另一腳落在禁區外，在該位置上傳球給黑隊3號。如何判決？",
                     QuestionNumber = "5.8",
                     Answers =
                     [
@@ -453,6 +454,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екупу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -463,6 +465,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља без прекида",
+                            PhraseZhHk = "比賽繼續",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -473,6 +476,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -483,6 +487,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Корекција голмановог бацања после звучног сигнала",
+                            PhraseZhHk = "更正位置，鳴哨後擲守門員球",
                             AnswerNumber = "d",
                             Correct = true
                         }

@@ -507,6 +507,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Које су тврдње у вези са голмановим бацањам тачне?",
+                    PhraseZhHk = "下列那些有關守門員球的說法是正確的？",
                     QuestionNumber = "12.9",
                     Answers =
                     [
@@ -520,6 +521,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање се сматра изведеним кад лопта напусти голманову руку",
+                            PhraseZhHk = "擲守門員球時，球離開守門員的手即視為擲球完成",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -530,6 +532,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Противници морају бити на одстојању од 3 метра",
+                            PhraseZhHk = "對隊隊員必須保持離球三米",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -543,6 +546,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Голманово бацање се сматра изведеним кад лопта напусти руку голмана и пређе линију голмановог простора",
+                            PhraseZhHk = "當球離開守門員的手，並已越過禁區線時，即視為擲球完成",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -555,6 +559,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Противницима је дозвољено да стоје непосредно испред линије голмановог простора",
+                            PhraseZhHk = "容許對方隊員站立在禁區線外防守",
                             AnswerNumber = "d",
                             Correct = true
                         }

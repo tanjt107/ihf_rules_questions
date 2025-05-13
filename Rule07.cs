@@ -912,6 +912,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "После нетачног додавања БЕЛОГ 3 ка БЕЛОМ 9, лопта се котрља према аут линији близу клупе за резервне играче БЕЛЕ екипе. ЦРНИ 10 је један метар удаљен и спреман да узме лопту, када се БЕЛИ 9 баца за лоптом и избоксује је у правцу средине терена, према играчу БЕЛОМ 3. БЕЛИ 9 затим, услед инерције, проклиже преко аут линије. Исправна одлука?",
+                    PhraseZhHk = "白隊3號傳球給白隊9號，由於傳得差，球滾向白隊替補席附近的邊線，球員黑隊10號距離球1米，準備要拾球時，白隊9號飛身撲球，用拳頭將球擊向球場中央的白隊3號，因衝力過大，白隊9號隨後飛出邊線。如何判決？",
                     QuestionNumber = "7.16",
                     Answers =
                     [
@@ -923,6 +924,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља без прекида",
+                            PhraseZhHk = "比賽繼續",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -934,6 +936,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -944,6 +947,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна против БЕЛОГ 9",
+                            PhraseZhHk = "漸進處罰白隊9號",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -954,6 +958,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Аут за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊界外球",
                             AnswerNumber = "d"
                         }
                     ]

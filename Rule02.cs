@@ -2227,6 +2227,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа је постигла гол, а ЦРНА екипа жели брзо да изведе почетно бацање. ЦРНИ 5 брзо води лопту према средишњој линији. Притом пролази поред БЕЛОГ 3 који му отвореним дланом избије лопту тако да лопта погоди ЦРНОГ 5 у стопало и откотрља се преко средишње линије на половину БЕЛЕ екипе. Исправна одлука?",
+                    PhraseZhHk = "白隊射門得分後，黑隊想儘快開球；因此，黑隊5號快速地運球跑向中線，當運球經過白隊3號時，白隊3號用手撥走黑隊5號的球，使球擊中黑隊5號的腳，滾向對方的半場。如何判決？",
                     QuestionNumber = "2.33",
                     Answers =
                     [
@@ -2238,6 +2239,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -2249,6 +2251,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Почетно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊開球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -2260,6 +2263,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивно кажњавање за играча БЕЛОГ 3",
+                            PhraseZhHk = "漸進處罰白隊3號",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -2270,6 +2274,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -2280,6 +2285,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Искључење на 2 минута за БЕЛОГ 3",
+                            PhraseZhHk = "白隊3號退場2分鐘",
                             AnswerNumber = "e",
                             Correct = true
                         }

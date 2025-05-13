@@ -472,6 +472,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "ЦРНИ 9 постиже гол из седмерац. БЕЛА екипа одмах изводи почетно бацање, после судијског звиждука. После два додавања БЕЛИ 4 постиже гол. У том тренутку мерилац времена свира и информише да је ЦРНОМ 9, који се вратио на клупу, остало још 20 секунди од искључења на 2 минута, у време извођења седмерца. Исправна одлука?",
+                    PhraseZhHk = "黑隊9號擲七米球得分，白隊在裁判鳴哨後，立即開球。傳球兩次後，白隊4號射門得分。就在得分的同時，計時員鳴哨告知裁判， 黑隊9號在擲七米球時，其退場兩分鐘的時間還剩下20秒。此時黑隊9號已坐在替補席上。如何判決？",
                     QuestionNumber = "9.8",
                     Answers =
                     [
@@ -483,6 +484,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу се мора поновити",
+                            PhraseZhHk = "黑隊重擲七米球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -493,6 +495,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "ЦРНИ 9 добија додатну казну",
+                            PhraseZhHk = "黑隊9號被判另一次退場兩分鐘",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -504,6 +507,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Оба гола су исправна",
+                            PhraseZhHk = "兩隊得分都有效",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -515,6 +519,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Оба гола нису исправна",
+                            PhraseZhHk = "兩隊得分都無效",
                             AnswerNumber = "d"
                         }
                     ]
