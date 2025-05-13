@@ -827,6 +827,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "(Са простором за почетно бацање) Које од наведених тврдњи везаних за почетно бацање су исправне?",
+                    PhraseZhHk = "（有開球位置）下列關於開球的說法，那些是正確的？",
                     QuestionNumber = "10.13",
                     Answers =
                     [
@@ -840,6 +841,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Почетно бацање се мора извести у року од 3 секунде од знака за извођење",
+                            PhraseZhHk = "開球必須在裁判鳴哨後3秒內擲出",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -851,6 +853,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Могуће је постићи гол из почетног бацања",
+                            PhraseZhHk = "開球可以直接射門得分",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -865,6 +868,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "У вези са почетним бацањем, погрешне позиције одбрамбених играча морају бити кориговане",
+                            PhraseZhHk = "開球時，如果對方球員位置不正確，裁判必需予以糾正",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -878,6 +882,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Уколико извођач скочи након сигнала за извођење, исправна одлука је слободно бацање за противника",
+                            PhraseZhHk = "擲開球的球員，如在裁判鳴哨後跳起開球，應判對隊自由球",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -892,6 +897,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Саиграчима извођача није дозвољено да пређу средишњу линију пре сигнала за извођење бацања",
+                            PhraseZhHk = "開球隊的其他球員，在裁判鳴哨前不能越過中線",
                             AnswerNumber = "e"
                         }
                     ]

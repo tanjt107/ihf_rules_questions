@@ -1019,6 +1019,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Играч БЕЛИ 9 шутира на гол. Голман ЦРНЕ екипе хвата лопту. У том тренутку мерилац времена свира завршетак утакмице. Судије показују мериоцу времена да је остало још 30 секунди другог полувремена. Сви играчи остали су у пољу за игру. Како треба наставити утакмицу?",
+                    PhraseZhHk = "白隊9號射門，黑隊守門員12號把球接住。這時，計時員鳴哨結束比賽。裁判向計時員指出下半場比賽時間還有30秒，雙方所有隊員還在場內。比賽應如何繼續？",
                     QuestionNumber = "2.16",
                     Answers =
                     [
@@ -1030,6 +1031,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободним бацањем за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1040,6 +1042,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голмановим бацањем за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊守門員球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1051,6 +1054,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободним бацањем за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1061,6 +1065,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "После знака пиштаљком",
+                            PhraseZhHk = "需要鳴哨擲球",
                             AnswerNumber = "d",
                             Correct = true
                         }

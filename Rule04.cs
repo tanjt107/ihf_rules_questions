@@ -2183,6 +2183,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Шта се примењује везано за изглед дреса?",
+                    PhraseZhHk = "球員的制服有何規定？",
                     QuestionNumber = "4.32",
                     Answers =
                     [
@@ -2196,6 +2197,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Сви играчи који играју на месту голмана морају носити дрес у идентичној боји",
+                            PhraseZhHk = "同一隊所有守門員的球衣顏色必須相同",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -2208,6 +2210,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Играчи морају носити бројеве висине најмање 20цм на грудима и леђима",
+                            PhraseZhHk = "球衣前、後的號碼必須有至少20公分高",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -2221,6 +2224,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Голмани смеју носити заштиту за главу ако је она израђена од меканог материјала",
+                            PhraseZhHk = "守門員容許佩戴以軟性材料製成的頭部防護物",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -2231,6 +2235,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Играчи, укључујући голмане, могу користити бројеве од 1 до 100",
+                            PhraseZhHk = "球員及守門員可以使用號碼1-100",
                             AnswerNumber = "d"
                         }
                     ]
