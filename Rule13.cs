@@ -602,6 +602,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Погрешна замена од стране БЕЛОГ 5, након што су судије досудиле седмерац за БЕЛУ екипу. Исправна одлука?",
+                    PhraseZhHk = "當裁判判白隊得七米球後，白隊5號出現替補犯規。如何判決？",
                     QuestionNumber = "13.9",
                     Answers =
                     [
@@ -613,6 +614,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -623,6 +625,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -634,6 +637,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против БЕЛОГ 5",
+                            PhraseZhHk = "白隊5號退場兩分鐘",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -645,6 +649,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Опомена за одговорног представника БЕЛЕ екипе",
+                            PhraseZhHk = "警告白隊“球隊職員代表”",
                             AnswerNumber = "d"
                         }
                     ]

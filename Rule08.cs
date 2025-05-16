@@ -2483,6 +2483,8 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Почетно бацање за БЕЛУ екипу. Судија је дао звучни сигнал и лопта још увек није напустила руку извођача БЕЛОГ 9. Након звучног сигнала, БЕЛИ 3 трчи преко средишње линије и бива оборен с леђа од стране ЦРНОГ 5 и тотално губи контролу над телом. Исправна одлука?",
+                    PhraseZhHk =
+                        "比賽至最後一分鐘，由白隊開球，裁判鳴哨後，當球還沒有離開擲球球員的手前，隊友白隊3號就跑過了中線，但被他身後的黑隊5號拉倒，導致他完全失去平衡。如何處理？", // TODO 導致他, in a way
                     QuestionNumber = "8.34",
                     Answers =
                     [
@@ -2494,6 +2496,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Искључење на 2 минута за ЦРНОГ 5",
+                            PhraseZhHk = "黑隊5號退場兩分鐘",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -2507,6 +2510,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација без писаног извештаја ЦРНОГ 5 (црвени картон показан од стране судија)",
+                            PhraseZhHk = "取消黑隊5號比賽資格（裁判出示紅牌）",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -2518,6 +2522,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -2529,6 +2534,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -2539,6 +2545,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Почетно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊開球",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -2552,6 +2559,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација са писаним извештајем ЦРНОГ 5 (црвени и плави картон показани од стране судија)",
+                            PhraseZhHk = "取消黑隊5號比賽資格，提交書面報告（裁判出示紅牌和藍牌）",
                             AnswerNumber = "f"
                         }
                     ]
@@ -2567,6 +2575,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "ЦРНИ 8 је добио 2 минута искључења због погрешне замене. Две секунде после наставка игре, он протестује на неспортски начин, против судија, са клупе за резервне играче. Исправна одлука?",
+                    PhraseZhHk = "黑隊8號因替補犯規被罰退場兩分鐘，在比賽恢復兩秒後，他在替補席上以不君子行為的方式批評裁判。如何判決?",
                     QuestionNumber = "8.35",
                     Answers =
                     [
@@ -2578,6 +2587,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Додатна 2 минута искључења за ЦРНОГ 8",
+                            PhraseZhHk = "黑隊8號再被罰退場兩分鐘",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -2592,6 +2602,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација без писаног извештаја за ЦРНОГ 8 (црвени картон показан од стране судија)",
+                            PhraseZhHk = "取消黑隊8號比賽資格（裁判出示紅牌）",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -2605,6 +2616,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "ЦРНА екипа ће бити редукована за два играча на терену за наредних 1 минут и 58 секунди, а затим за једног играча на терену на две секунде",
+                            PhraseZhHk = "黑隊場內減少兩人比賽1分58秒，減少一人比賽2秒",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -2617,6 +2629,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "ЦРНА екипа ће бити редукована за два играча на терену за два наредна минута",
+                            PhraseZhHk = "黑隊場內減少兩人比賽2分鐘",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -2627,6 +2640,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -2638,6 +2652,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "f",
                             Correct = true
                         }

@@ -998,6 +998,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 7 је дисквалификован, јер је добио треће искључење на 2 минута. Он покушава да се расправља са судијама и не напушта поље за игру. Исправна одлука?",
+                    PhraseZhHk = "白隊7號剛剛因第三次被罰退場兩分鐘而被取消比賽資格，他立即與裁判理論，並不願離開比賽場地。如何判決?",
                     QuestionNumber = "16.16",
                     Answers =
                     [
@@ -1009,6 +1010,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Нема даљих поступака",
+                            PhraseZhHk = "無須進一步處理",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1019,6 +1021,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "БЕЛА екипа се редукује за једног играча на терену на 4 минута",
+                            PhraseZhHk = "白隊場內減少一名球員四分鐘",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1030,6 +1033,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "БЕЛА екипа се редукује за два играча на терену на 2 минута",
+                            PhraseZhHk = "白隊場內減少兩名球員兩分鐘",
                             AnswerNumber = "c"
                         }
                     ]

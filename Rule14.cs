@@ -601,6 +601,8 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 9 стоји потпуно сам испред линије голмановог простора противника, спреман да прими лопту. То је видео његов саиграч БЕЛИ 10, који му лопту додаје одбијањем кроз голманов простор. То је приметио ЦРНИ 3, који јасно улази у свој голманов простор и зауставља лопту, стојећи са обе ноге унутар голмановог простора. То је други пут у игри да он чини исту ствар. Исправна одлука?",
+                    PhraseZhHk =
+                        "白隊9號站在對方禁區線外準備接球，翼位白隊10號傳球給他，黑隊3號為了防守此球，故意進入禁區內，將球擋住，這是他在本場比賽中第二次作出這動作。如何判決？",
                     QuestionNumber = "14.10",
                     Answers =
                     [
@@ -612,6 +614,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -622,6 +625,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -633,6 +637,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна против ЦРНОГ 3",
+                            PhraseZhHk = "漸進處罰黑隊3號",
                             AnswerNumber = "c",
                             Correct = true
                         }

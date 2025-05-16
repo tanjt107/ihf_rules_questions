@@ -402,6 +402,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "За време утакмице одговорни представник БЕЛЕ екипе више пута долази скроз до записничког стола и одатле саветује своје играче на терену. Док то чини, он протестује против одлука судија. Услед буке у хали судије то нису приметиле. Исправна одлука?",
+                    PhraseZhHk = "比賽期間，白隊球隊職員A重覆地移向紀錄台旁教授其球員戰術，同時亦抗議裁判的判決。由於比賽場館嘈吵，裁判未有聽到有關抗議，如何判決？",
                     QuestionNumber = "18.6",
                     Answers =
                     [
@@ -416,6 +417,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Мерилац времена тренутно прекида игру и обавештава судије о лошем понашању одговорног представника БЕЛЕ екипе",
+                            PhraseZhHk = "計時員必需即時鳴哨暫停比賽，通知裁判有關白隊球隊職員A的行為",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -429,6 +431,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Мерилац времена чека следећи прекид игре и обавештава судије о лошем понашању одговорног представника БЕЛЕ екипе",
+                            PhraseZhHk = "計時員需等待下一次比賽中斷時，通知裁判有關白隊球隊職員A的行為",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -440,6 +443,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна против одговорног представника БЕЛЕ екипе",
+                            PhraseZhHk = "漸進處罰白隊球隊職員",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -450,6 +454,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Казна није могућа",
+                            PhraseZhHk = "不用判罰",
                             AnswerNumber = "d",
                             Correct = true
                         }

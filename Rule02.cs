@@ -1082,6 +1082,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "По заврштку регуларног тока утакмице, резултат је 20:20, утакмица мора бити настављена док се не добије победник. Исправна одлука?",
+                    PhraseZhHk = "常規比賽時間結束，比分為20:20，比賽必須定出勝負時，下到那些做法是正確的？",
                     QuestionNumber = "2.17",
                     Answers =
                     [
@@ -1093,6 +1094,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Један минут паузе пре него што почне продужетак",
+                            PhraseZhHk = "加時比賽前，休息一分鐘",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1103,6 +1105,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Пет минута паузе пре него што почне продужетак",
+                            PhraseZhHk = "加時比賽前，休息五分鐘",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1114,6 +1117,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Један минут паузе између два полувремена продужетка",
+                            PhraseZhHk = "加時半場時，休息一分鐘",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -1125,6 +1129,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Пет минута паузе између два полувремена продужетка",
+                            PhraseZhHk = "加時半場時，休息五分鐘",
                             AnswerNumber = "d"
                         }
                     ]
@@ -1137,6 +1142,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "У којој од ових ситуација је обавезан тајм-аут?",
+                    PhraseZhHk = "下列那些情況必須暫停?",
                     QuestionNumber = "2.18",
                     Answers =
                     [
@@ -1148,6 +1154,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења",
+                            PhraseZhHk = "退場兩分鐘",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1159,6 +1166,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање",
+                            PhraseZhHk = "自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1169,6 +1177,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Пасивна игра",
+                            PhraseZhHk = "消極比賽",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1179,6 +1188,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Погрешна замена",
+                            PhraseZhHk = "替補犯規",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -1190,6 +1200,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Опомена",
+                            PhraseZhHk = "警告",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -1200,6 +1211,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Аут",
+                            PhraseZhHk = "界外球",
                             AnswerNumber = "f"
                         }
                     ]
@@ -2424,6 +2436,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Која је од следећих констатација, које се односе на екипни тајм-аут исправна?",
+                    PhraseZhHk = "關於“隊暫停”，下列那些說法是正確的?",
                     QuestionNumber = "2.36",
                     Answers =
                     [
@@ -2435,6 +2448,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Екипни тајм-аут може да затражи само ''одговорни представник'' екипе",
+                            PhraseZhHk = "只能由球隊的“球隊職員代表”提出申請“隊暫停”",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -2448,6 +2462,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Ако је екипни тајм-аут затражен када је лопта у поседу противника, мерилац времена мора вратити “зелени картон“ назад званичнику екипе",
+                            PhraseZhHk = "當對隊控球時要求暫停，計時員必須將“綠牌”退還給申請暫停的職員",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -2461,6 +2476,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Време од једног минута за екипни тајм-аут почиње, када мерилац времена да знак пиштаљком",
+                            PhraseZhHk = "“隊暫停”的一分鐘時間由計時員鳴哨開始計算",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -2474,6 +2490,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Прекршаји правила игре у току екипног тајм–аута имају исте последице као за време трајања игре",
+                            PhraseZhHk = "“隊暫停”期間的犯規，與比賽進行時的犯規相同處理",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -2488,6 +2505,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "После екипног тајм-аута, утакмица се увек наставља “ бацањем“ за екипу која је тражила екипни тајм-аут",
+                            PhraseZhHk = "暫停後，比賽總是由提出暫停的隊伍擲球恢復比賽",
                             AnswerNumber = "e",
                             Correct = true
                         }

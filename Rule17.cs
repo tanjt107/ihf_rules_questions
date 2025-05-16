@@ -454,6 +454,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Судије имају различито мишљење о преосталом времену до краја утакмице. Судија код гола, који је првоименовани судија, мисли да је остало 50 секунди, док судија у пољу каже 42 секунде. Исправна одлука?",
+                    PhraseZhHk = "裁判對比賽的剩餘時間意見不一，底線裁判（分紙上填第一的裁判）認為還有50秒，場內裁判認為還有42秒。如何判決？",
                     QuestionNumber = "17.7",
                     Answers =
                     [
@@ -465,6 +466,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Примењује се дуже време - 50 секунди",
+                            PhraseZhHk = "以較長的時間為准，即50秒",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -475,6 +477,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Првоименовани судија одлучује - 50 секунди",
+                            PhraseZhHk = "由分紙上填第一的裁判決定，即50秒",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -485,6 +488,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Судија у пољу одлучује - 42 секунде",
+                            PhraseZhHk = "以場內裁判員為準，即42秒",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -495,6 +499,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Судије треба да донесу заједничку одлуку",
+                            PhraseZhHk = "兩名裁判員必須達成一致意見",
                             AnswerNumber = "d",
                             Correct = true
                         }

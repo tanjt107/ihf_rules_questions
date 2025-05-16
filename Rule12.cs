@@ -576,6 +576,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голманово бацање за ЦРНУ екипу. Голман ЦРНИ 1 жури, зато што његов тим резултатски заостаје. Док извод слободно бацање лопта клизне из његове руке и долази до ЦРНОГ 6, који стоји у голмановом простору. ЦРНИ 6 ногом врати лопту ЦРНОМ 1. Исправна одлука?",
+                    PhraseZhHk = "球越過底線，黑隊守門員1號擲守門員球，由於黑隊比賽成績落後，黑隊1號一時心急，使球甩手，向仍在禁區內的隊友黑隊6號方向滾去，黑隊6號用腳把球踢回黑隊1號。如何判決？",
                     QuestionNumber = "12.10",
                     Answers =
                     [
@@ -587,6 +588,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Поновљено голманово бацање после звучног сигнала",
+                            PhraseZhHk = "鳴哨後，黑隊擲守門員球",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -598,6 +600,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -608,6 +611,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "c"
                         }
                     ]

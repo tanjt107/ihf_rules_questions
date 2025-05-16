@@ -504,6 +504,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 9 додаје лопту своме голману БЕЛОМ 1, који стоји у пољу за игру. БЕЛИ 9 је на исправан начин ометан, зато баца лопту превише високо, тако да је голман БЕЛИ 1 принуђен да се врати назад и уђе у голманов простор једном ногом, у тренутку хватања лопте. Исправна одлука?",
+                    PhraseZhHk = "白隊9號傳球給站在比賽場內的白隊守門員1號，由於防守的壓迫，白隊9號將球傳得過高，白隊1號必須退後接球，以致一隻腳進入了禁區才能把球接住。如何判決?",
                     QuestionNumber = "5.9",
                     Answers =
                     [
@@ -515,6 +516,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља без прекида",
+                            PhraseZhHk = "比賽繼續",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -525,6 +527,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -535,6 +538,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -545,6 +549,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "d",
                             Correct = true
                         }

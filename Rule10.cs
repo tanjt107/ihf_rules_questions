@@ -396,6 +396,8 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "(Без простора за почетно бацање) ЦРНИ 6 стоји на центру терена, да би извео почетно бацање, једном ногом на средишњој линији, док му је друга на својој половини терена. Судија свира. Пре него што је лопта напустила његову руку, извођач потрчи преко средишње линије. За време звиждука, још је било играча БЕЛЕ екипе на половини терена која припада ЦРНОЈ екипи. Исправна одлука?",
+                    PhraseZhHk = 
+                        "（沒有開球位置）白隊得分後，由黑隊開球，黑隊1號迅速將球擲向中線，位於場地中央的黑隊6號接球後，一腳踩在球場中線的中央，另一腳站在己方的半場。此時，還有幾名白隊球員在黑隊的半場。裁判鳴哨開球後，球未離手前，黑隊6號越過中線。如何判決？",
                     QuestionNumber = "10.7",
                     Answers =
                     [
@@ -407,6 +409,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља без прекида",
+                            PhraseZhHk = "比賽繼續",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -417,6 +420,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -431,6 +435,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Исправка позиције БЕЛЕ екипе и понављање почетног бацања после звучног сигнала",
+                            PhraseZhHk = "更正白隊位置，鳴哨後重擲開球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -443,6 +448,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Корекција позиције ЦРНОГ 6 и понављање почетног бацања после звучног сигнала",
+                            PhraseZhHk = "更正黑隊6號位置，鳴哨後重擲開球",
                             AnswerNumber = "d"
                         }
                     ]
