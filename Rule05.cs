@@ -566,6 +566,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Судије досуђују слободно бацање за БЕЛУ екипу, испред линије голмановог простора БЕЛЕ екипе. Голман БЕЛИ 1 стоји једном ногом у голмановом простору, а другом у пољу за игру. Он додаје лопту играчу БЕЛОМ 8 који постиже гол. Исправна одлука?",
+                    PhraseZhHk = "裁判判由白隊在白隊禁區線處擲自由球。白隊守門員1號一腳站在禁區內，另一腳站在禁區外，將球傳給白隊8號並射門得分。如何判決？",
                     QuestionNumber = "5.10",
                     Answers =
                     [
@@ -577,6 +578,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за БЕЛУ екипу",
+                            PhraseZhHk = "白隊得分",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -588,6 +590,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Понављање слободног бацања изван голмановог простора БЕЛЕ екипе",
+                            PhraseZhHk = "在白隊禁區外重擲自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -598,6 +601,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу испред голмановог простора БЕЛЕ екипе",
+                            PhraseZhHk = "黑隊在白隊的禁區線處擲自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -608,6 +612,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊守門員球",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -618,6 +623,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "e"
                         }
                     ]

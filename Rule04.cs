@@ -2251,6 +2251,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 10 издржава прву казну искључења на 2 минута, које је почело у 21:00. Након што је утакмица настављена, он протествује толико енергично, да судије прекидају игру у 21:30 и дају БЕЛОМ 10 додатна 2 минута искључења. Које су последице за БЕЛУ екипу?",
+                    PhraseZhHk = "白隊10號在21:00被罰退場兩分鐘，在比賽恢復後，白隊10號提出強烈抗議，致使裁判於21:30暫停比賽，對白隊10號加判另一次退場兩分鐘。白隊的判罰應如何執行？",
                     QuestionNumber = "4.33",
                     Answers =
                     [
@@ -2262,6 +2263,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Искључење БЕЛОГ 10 на 2 минута",
+                            PhraseZhHk = "白隊10號退場兩分鐘",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -2273,6 +2275,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Дисквалификација БЕЛОГ 10",
+                            PhraseZhHk = "取消白隊10號比賽資格",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -2283,6 +2286,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "БЕЛА екипа се редукује за једног играча на терену до 25:00",
+                            PhraseZhHk = "白隊場內減少一人比賽直到25:00",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -2296,6 +2300,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "БЕЛА екипа се редукује за два играча на терену до 23:00, а затим за једног играча на терену до 23:30",
+                            PhraseZhHk = "白隊場內減少兩人比賽到23:00，然後場內減少一人到23:30",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -2312,6 +2317,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "У којој од наведених ситуација ће одговорни представник екипе добити прогресивну казну?",
+                    PhraseZhHk = "下列那些事項，“球隊職員代表”需接受個人處罰？",
                     QuestionNumber = "4.34",
                     Answers =
                     [
@@ -2326,6 +2332,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Када играч његове екипе напусти простор за замену играча а да се не јави мериоцу/записничару",
+                            PhraseZhHk = "當他的球員離開替補區而未有知會計時/記錄員時",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -2339,6 +2346,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Када је утакмица већ почела, а у простору за замену играча се налази особа која није уписана у записнику",
+                            PhraseZhHk = "比賽開始後，替補區出現尚未有登記在記錄表上的人仕",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -2350,6 +2358,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Када додатни играч уђе у терен",
+                            PhraseZhHk = "額外球員進場後(多於容許的人數)",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -2360,6 +2369,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Када играч који не може да учествује уђе у терен",
+                            PhraseZhHk = "未有參賽資格的球員進入球場後",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -2373,6 +2383,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Ако се неправилна опрема установи после почетка утакмице",
+                            PhraseZhHk = "", // TODO 比賽開始後，場上球員的裝備不正確
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -2387,6 +2398,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "У случају прекршаја у простору за замену играча, који се не могу лично определити",
+                            PhraseZhHk = "", // TODO 替補區出現違規行為，無法清楚歸責於個人
                             AnswerNumber = "f",
                             Correct = true
                         },
@@ -2401,6 +2413,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Ако се установи да играчи у простору за замену носе неисправну опрему након почетка утакмице.",
+                            PhraseZhHk = ""， // TODO
                             AnswerNumber = "g"
                         }
                     ]

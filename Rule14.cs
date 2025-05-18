@@ -654,6 +654,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Пивотмен ЦРНИ 10 правилно блокира БЕЛОГ 2. Када је ЦРНИ 10 спреман да крене, ЦРНИ 4 му баца лопту у празан простор, где би ЦРНИ 10 могао да се пробије. Пре него што ЦРНИ 10 ухвати лопту, БЕЛИ 2 га повлачи за дрес отпозади. Исправна одлука?",
+                    PhraseZhHk = "黑隊中鋒球員10號合法擋住防守球員白隊2號，在黑隊10號準備移位時，黑隊4號把球傳去黑隊10號將要突破射門的位置去，在黑隊10號正要接到球之前，白隊2號從後抓住黑隊10號的球衣影響其進攻。如何判決?",
                     QuestionNumber = "14.11",
                     Answers =
                     [
@@ -665,6 +666,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -675,6 +677,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу, без обзира на положај противника",
+                            PhraseZhHk = "黑隊七米球，無須考慮對方的位置",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -688,6 +691,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Седмерац за ЦРНУ екипу, ако ниједан играч БЕЛЕ екипе не може на дозвољен начин да спречи ЦРНОГ 10 да шутира",
+                            PhraseZhHk = "黑隊七米球，假如白隊沒有其他球員能合法地阻止黑隊10號的射門",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -699,6 +703,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна против БЕЛОГ 2",
+                            PhraseZhHk = "漸進處罰白隊2號",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -711,6 +716,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Обавезна дисквалификација БЕЛОГ 2 (црвени картон показан од стране судија)",
+                            PhraseZhHk = "必須取消白隊2號資格（裁判出示紅牌）",
                             AnswerNumber = "e"
                         }
                     ]

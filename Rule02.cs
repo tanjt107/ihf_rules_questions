@@ -1227,6 +1227,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Коме није дозвољено да учествује у извођењу седмераца, када је утакмица завршена нерешено, након продужетка?",
+                    PhraseZhHk = "在加時後仍是打和的情況下，誰沒有資格參與擲七米球決勝？",
                     QuestionNumber = "2.19",
                     Answers =
                     [
@@ -1239,6 +1240,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Играч који је увредио судије, одмах након завршетка продужетка",
+                            PhraseZhHk = "加時比賽剛結束時，侮辱裁判的球員",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1250,6 +1252,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голмани",
+                            PhraseZhHk = "守門員",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1261,6 +1264,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Играч који је искључен на 2 минута, а казна му није истекла након продужетка",
+                            PhraseZhHk = "加時結束時，還沒完成被判退場兩分鐘判罰的球員",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -1272,6 +1276,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Дисквалификовани играч",
+                            PhraseZhHk = "被取消比賽資格的球員",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -1286,6 +1291,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Играч којем је указана медицинска помоћ на терену, а још увек нису прошла 3 напада његове екипе",
+                            PhraseZhHk = "", // TODO 在場上接受醫療護理的球員，還未完成三次進攻
                             AnswerNumber = "e"
                         }
                     ]

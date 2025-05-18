@@ -2669,6 +2669,8 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голман БЕЛИ 1 упућује дугачко додавање према саиграчу БЕЛОМ 15, који трчи сам према противничком голу. Голман ЦРНИ 12 напушта свој голманов простор, скаче, хвата лопту и судари се са БЕЛИМ 15 док је у ваздуху. Оба играча падну на под и леже повређени. Исправна одлука?",
+                    PhraseZhHk =
+                        "白隊守門員1號長傳給正在跑向對隊龍門的隊友白隊15號，黑隊守門員12號離開禁區，跳起在空中截取傳球並與白隊15號發生碰撞後雙雙倒地，如何判決？",
                     QuestionNumber = "8.36",
                     Answers =
                     [
@@ -2680,6 +2682,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут, 2 минута искључења БЕЛОГ 15",
+                            PhraseZhHk = "暫停，白隊15號被判退場兩分鐘",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -2690,6 +2693,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут, 2 минута искључења ЦРНОГ 12",
+                            PhraseZhHk = "暫停，黑隊12號被判退場兩分鐘",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -2700,6 +2704,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут, дисквалификација ЦРНОГ 12",
+                            PhraseZhHk = "暫停，取消黑隊12號比賽資格",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -2711,6 +2716,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -2721,6 +2727,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -2731,6 +2738,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "f",
                             Correct = true
                         }
@@ -2747,6 +2755,8 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "ЦРНА екипа има лопту у поседу. Делегат прекида игру, јер је званичник А ЦРНЕ екипе бацио столицу у поље за игру, протестујући против одлуке судија. Претходно није било кажњавања званичника ЦРНЕ екипе. ЦРНИ 7 је у јасној ситуацији за постизање гола, када је игра прекинута. Исправна одлука?",
+                    PhraseZhHk =
+                        "黑隊持球時， 黑隊球隊職員A將椅子掉進場內以表示抗議裁判的判決；故此，技術代表中斷了比賽。在此之前，黑隊球隊職員沒有被判罰過，而比賽中斷時黑隊7號有明顯的得分機會。如何判決？",
                     QuestionNumber = "8.37",
                     Answers =
                     [
@@ -2758,6 +2768,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Опомена за званичника А ЦРНЕ екипе",
+                            PhraseZhHk = "警告黑隊球隊職員A",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -2768,6 +2779,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против званичника А ЦРНЕ екипе",
+                            PhraseZhHk = "黑隊球隊職員A被判退場兩分鐘",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -2781,6 +2793,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација без писаног извештаја за званичника А ЦРНЕ екипе (црвени картон показан од стране судија)",
+                            PhraseZhHk = "取消黑隊球隊職員A比賽資格（裁判出示紅牌）", 
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -2791,6 +2804,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -2802,6 +2816,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -2815,6 +2830,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација са писанимизвештајем за званичника А ЦРНЕ екипе (црвени и плави картон показани од стране судија)",
+                            PhraseZhHk = "取消黑隊球隊職員A比賽資格，提交書面報告（裁判出示紅牌和藍牌）",
                             AnswerNumber = "f",
                             Correct = true
                         }

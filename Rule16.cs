@@ -1049,6 +1049,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 11 је добио опомену за време трајања игре, уз то, он се неспортски понаша за време паузе између два полувремена. БЕЛА екипа је била комплетна на терену када је прво полувреме завршено. Исправна одлука?",
+                    PhraseZhHk = "白隊11號在比賽中已被警告；在中場休息時，他又違反不君子行為。如何判決?",
                     QuestionNumber = "16.17",
                     Answers =
                     [
@@ -1060,6 +1061,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Опомена за БЕЛОГ 11",
+                            PhraseZhHk = "警告白隊11號",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1070,6 +1072,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против БЕЛОГ 11",
+                            PhraseZhHk = "白隊11號退場兩分鐘",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1081,6 +1084,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Дисквалификација за БЕЛОГ 11",
+                            PhraseZhHk = "白隊11號取消比賽資格",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1094,6 +1098,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "БЕЛА екипа ће бити редукована за једног играча на терену на 2 минута на почетку другог полувремена",
+                            PhraseZhHk = "下半場首兩分鐘白隊場內球員人數比上半場結束時減少一人",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -1107,6 +1112,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "БЕЛА екипа неће бити редукована на почетку другог полувремена",
+                            PhraseZhHk = "下半場白隊出場球員人數與上半場結束時一樣",
                             AnswerNumber = "e"
                         }
                     ]

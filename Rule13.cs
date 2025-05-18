@@ -665,6 +665,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Које од следећих констатација, које се односе на место извођења слободног бацања, су исправне?",
+                    PhraseZhHk = "有關擲自由球的位置，下列那些說法是正確的?",
                     QuestionNumber = "13.10",
                     Answers =
                     [
@@ -679,6 +680,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Ако лопта није спуштена одмах, после одлуке о слободном бацању, противнику је дозвољено да изведе слободно бацање са места где се лопта налази у том тренутку",
+                            PhraseZhHk = "判自由球後，若球沒有立即放下，容許對隊在球所在的位置擲自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -692,6 +694,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "После погрешне замене, слободно бацање може бити изведено са места где се лопта налази, уместо из простора за замену играча, ако је то повољније за екипу која изводи бацање",
+                            PhraseZhHk = "替補犯規後，若在比賽中斷時球所在的位置比在替補區擲球更為有利時，擲球隊可在該位置擲自由球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -706,6 +709,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "После пасивне игре, слободно бацање се увек изводи са места где је лопта била, у тренутку када је слободно бацање досуђено",
+                            PhraseZhHk = "因消極比賽而判的自由球，總是在判罰時，球所在的位置執行擲球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -720,6 +724,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "За слободно бацање код средишње линије, бочна толеранција је приближно иста као у случају почетног бацања",
+                            PhraseZhHk = "在中線擲自由球的位置，其誤差範圍如同開球",
                             AnswerNumber = "d",
                             Correct = true
                         }

@@ -1287,6 +1287,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "ЦРНА екипа игра са једним играчем мање. Играчи ЦРНЕ екипе су већ заузели своје позиције у нападу и започињу припремну фазу напада. Тада ЦРНИ 6 и ЦРНИ 8 одлуче да напусте поље за игру и изврше замену. Исправна одлука?",
+                    PhraseZhHk = "黑隊場內減少一人比賽，當黑隊球員都已站在進攻位置，並開始組織進攻時，黑隊6號和黑隊8號決定離開場地進行替換。如何判決?",
                     QuestionNumber = "7.23",
                     Answers =
                     [
@@ -1298,6 +1299,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Упозоравајући сигнал",
+                            PhraseZhHk = "出示消極進攻警告手號",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1310,6 +1312,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Упозоравајући сигнал, ако они не повећају темпо игре у наредних 5 секунди",
+                            PhraseZhHk = "假如在5秒鐘內沒有加快進攻節奏，便出示消極進攻警告手號",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1320,6 +1323,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Одмах слободно бацање за БЕЛу А, због пасивне игре",
+                            PhraseZhHk = "立即判消極比賽，由白隊擲自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1330,6 +1334,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Опомена за ЦРНОМ 6 и ЦРНОМ 8 у случају понављања",
+                            PhraseZhHk = "因重覆替補則警告黑隊6號或黑隊8號",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -1340,6 +1345,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против ЦРНОГ 6 и ЦРНОГ 8 у случају понаваљања",
+                            PhraseZhHk = "因重覆替補則判黑隊6號或黑隊8號退場兩分鐘",
                             AnswerNumber = "e"
                         }
                     ]
@@ -1353,6 +1359,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "После чега упозоравајући сигнал за пасивну игру престаје да важи?",
+                    PhraseZhHk = "下列那些情況須取消「消極進攻警告手號」？",
                     QuestionNumber = "7.24",
                     Answers =
                     [
@@ -1367,6 +1374,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Враћање лопте у посед нападајуће екипе, после одбране седмерца од стране голмана",
+                            PhraseZhHk = "重新接回被守門員擋出的七米球時",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1381,6 +1389,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Враћање лопте у посед нападајуће екипе, после њеног одбијања од пречке или стативе",
+                            PhraseZhHk = "重新接回從球門橫楣或門柱彈回的球時",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1392,6 +1401,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Екипни тајм-аут",
+                            PhraseZhHk = "球隊暫停時",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1402,6 +1412,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Екипа убрзава игру, пре него што поново почиње да игра још спорије",
+                            PhraseZhHk = "在球隊出現更消極的進攻時",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -1412,6 +1423,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Сваки од поступака од а) до д)",
+                            PhraseZhHk = "以上所說明的a-d", // TODO None
                             AnswerNumber = "e"
                         }
                     ]

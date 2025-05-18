@@ -712,6 +712,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 7 из нападајуће екипе има лопту у поседу и са лоптом закорачи у голманов простор противника. Исправна одлука?",
+                    PhraseZhHk = "白隊7號持球並踏進對方禁區。如何判決？",
                     QuestionNumber = "6.12",
                     Answers =
                     [
@@ -723,6 +724,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -733,6 +735,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊守門員球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -744,6 +747,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за ЦРНУ екипу после звучног сигнала",
+                            PhraseZhHk = "鳴哨後，黑隊擲守門員球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -754,6 +758,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу после звучног сигнала",
+                            PhraseZhHk = "鳴哨後，由黑隊擲自由球",
                             AnswerNumber = "d"
                         }
                     ]
