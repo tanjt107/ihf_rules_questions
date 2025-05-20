@@ -741,6 +741,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "ЦРНИ 11 има лопту у нападу и покушава да заобиђе БЕЛОГ 2. Због звиждука из гледалишта, БЕЛИ 2 престаје да игра одбрану. ЦРНИ 11 је потом сам и спреман да шутира на гол. Исправна одлука?",
+                    PhraseZhHk = "黑隊11號持球進攻，並試圖擺脫防守球員白隊2號。由於觀眾席傳來哨子聲，白隊2號停了下來，沒有繼續防守，黑隊11號在無人防守下射門。如何判決？",
                     QuestionNumber = "13.11",
                     Answers =
                     [
@@ -752,6 +753,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -762,6 +764,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут; Консултација са мериоцем времена",
+                            PhraseZhHk = "暫停，詢問計時員",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -773,6 +776,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -783,6 +787,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "d",
                             Correct = true
                         }

@@ -535,6 +535,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Мало пре краја утакмице при резултату 22:21 за његову екипу, БЕЛИ 5 је исправно извео почетно бацање. Лопта је иде назад у правцу гола БЕЛЕ екипе. Голман БЕЛИ 1 не додирује лопту, мада је се налази у сопственом голмановом простору. Лопта улази у гол. Саиграчи БЕЛОГ 5 су прешли средишњу линију после судијског звиждука, али пре него што је лопта напустила руку извођача, трћечи у правцу гола ЦРНЕ екипе. Исправна одлука?",
+                    PhraseZhHk = "比賽即將結束，比分為22:21。白隊5號正確地執行開球，球擲向白隊球門方向，在禁區內的白隊守門員1號沒有觸球，球因此而進入球門。但是，在裁判鳴哨開球，球擲離手之前，白隊5號的隊友越過中線跑向黑隊球門的方向。如何判決?",
                     QuestionNumber = "9.9",
                     Answers =
                     [
@@ -546,6 +547,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊得分",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -557,6 +559,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -567,6 +570,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Понављање почетног бацања после звучног сигнала",
+                            PhraseZhHk = "重新執行開球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -577,6 +581,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна против БЕЛОГ 5",
+                            PhraseZhHk = "對白隊5號個人處罰",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -587,6 +592,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм - аут",
+                            PhraseZhHk = "暫停".
                             AnswerNumber = "e"
                         }
                     ]

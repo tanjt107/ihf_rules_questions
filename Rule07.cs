@@ -1423,7 +1423,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Сваки од поступака од а) до д)",
-                            PhraseZhHk = "以上所說明的a-d", // TODO None
+                            PhraseZhHk = "以上所說明的a-d皆非",
                             AnswerNumber = "e"
                         }
                     ]

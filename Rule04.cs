@@ -2383,7 +2383,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Ако се неправилна опрема установи после почетка утакмице",
-                            PhraseZhHk = "", // TODO 比賽開始後，場上球員的裝備不正確
+                            PhraseZhHk = "於開賽後發現場內球員的裝備不合符規則",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -2398,7 +2398,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "У случају прекршаја у простору за замену играча, који се не могу лично определити",
-                            PhraseZhHk = "", // TODO 替補區出現違規行為，無法清楚歸責於個人
+                            PhraseZhHk = "替補區出現違例，但未能確認犯規球員",
                             AnswerNumber = "f",
                             Correct = true
                         },
@@ -2413,7 +2413,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Ако се установи да играчи у простору за замену носе неисправну опрему након почетка утакмице.",
-                            PhraseZhHk = ""， // TODO
+                            PhraseZhHk = "於開賽後發現場內球員的裝備不合符規則"，
                             AnswerNumber = "g"
                         }
                     ]

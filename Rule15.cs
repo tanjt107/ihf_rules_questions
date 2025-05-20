@@ -1169,6 +1169,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа треба да изведе почетно бацање. Судија у пољу даје знак пиштаљком. БЕЛИ 13 узима лопту из руке БЕЛОГ 9, који стоји спреман да изведе бацање, зато што БЕЛИ 13 види да БЕЛИ 7 и БЕЛИ 3 трче на противничку половину и имају повољну позицију. БЕЛИ 13 баца лопту БЕЛОМ 7, који постиже гол. Исправна одлука?",
+                    PhraseZhHk = "白隊開球，場內裁判鳴哨，白隊9號站好準備擲球時，白隊13號看到白隊7號和白隊3號正跑進對方半場，並處於有利的位置時，他從白隊9號手中把球搶過來，傳給白隊7號，白隊7號將球射進球門內。如何判決？",
                     QuestionNumber = "15.19",
                     Answers =
                     [
@@ -1180,6 +1181,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за БЕЛУ екипу",
+                            PhraseZhHk = "白隊得分",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1190,6 +1192,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Корекција, понављање почетног бацања за БЕЛУ екипу",
+                            PhraseZhHk = "更正，由白隊重新擲開球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1200,6 +1203,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -1211,6 +1215,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Усмена опомена за БЕЛОГ 13",
+                            PhraseZhHk = "口頭警告白隊13號",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -1221,6 +1226,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Усмена опомена за БЕЛОГ 7 и БЕЛОГ 13",
+                            PhraseZhHk = "口頭警告白隊7號和白隊13號",
                             AnswerNumber = "e"
                         }
                     ]

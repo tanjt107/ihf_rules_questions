@@ -2484,7 +2484,7 @@ public static partial class Rules
                     PhraseSrb =
                         "Почетно бацање за БЕЛУ екипу. Судија је дао звучни сигнал и лопта још увек није напустила руку извођача БЕЛОГ 9. Након звучног сигнала, БЕЛИ 3 трчи преко средишње линије и бива оборен с леђа од стране ЦРНОГ 5 и тотално губи контролу над телом. Исправна одлука?",
                     PhraseZhHk =
-                        "比賽至最後一分鐘，由白隊開球，裁判鳴哨後，當球還沒有離開擲球球員的手前，隊友白隊3號就跑過了中線，但被他身後的黑隊5號拉倒，導致他完全失去平衡。如何處理？", // TODO 導致他, in a way
+                        "比賽至最後一分鐘，由白隊開球，裁判鳴哨後，當球還沒有離開擲球球員的手前，隊友白隊3號就跑過了中線，但被他身後的黑隊5號拉倒，並完全失去平衡。如何處理？",
                     QuestionNumber = "8.34",
                     Answers =
                     [
@@ -2847,6 +2847,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Званичник А БЕЛЕ екипе жучно протестује против одлуке судије против његове екипе, и изјављује: ''Ви сте идиоти''. Званичник Ц БЕЛЕ екипе већ је добио опомену 10 минута раније. Исправна одлука?",
+                    PhraseZhHk = "白隊球隊職員A大大聲抗議裁判的判決，並說“你正一白痴”。白隊球隊職員C在十分鐘前已被警告。如何判決？",
                     QuestionNumber = "8.38",
                     Answers =
                     [
@@ -2858,6 +2859,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Опомена за званичника А БЕЛЕ екипе због нестортског понашања",
+                            PhraseZhHk = "警告白隊球隊職員A因其不君子行為",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -2871,6 +2873,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "2 минута искључења за званичника А БЕЛЕ екипе; БЕЛА екипа се на терену редукује 2 минута за једног играча",
+                            PhraseZhHk = "白隊球隊職員A退場兩分鐘，白隊場內減少1名球員2分鐘",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -2884,6 +2887,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација званичника А БЕЛЕ екипе са писаним извештајем (црвени и плави картон показани од стране судија), једног играча",
+                            PhraseZhHk = "取消白隊球隊職員A比賽資格，白隊場內減少1名球員2分鐘，提交書面報告（裁判出示紅牌和藍牌）",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -2895,6 +2899,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "d",
                             Correct = true
                         }
