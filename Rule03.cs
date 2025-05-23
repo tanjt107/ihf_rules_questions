@@ -208,6 +208,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Судије су донеле одлуку да се унесе резреврна лопта у игру. Када ће прва лопта бити поново коришћена?",
+                    PhraseZhHk = "裁判決定使用備用球比賽後，何時應該再使用原來的球？",
                     QuestionNumber = "3.4",
                     Answers =
                     [
@@ -219,6 +220,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "За време следећег прекида",
+                            PhraseZhHk = "下一次比賽中斷時",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -232,6 +234,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Она не може бити поново коришћена, изузев ако је резервну лопту немогуће користити",
+                            PhraseZhHk = "不再使用，除非備用球不能被繼續使用",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -242,6 +245,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Када судије нађу потребу за њено поновно коришћење",
+                            PhraseZhHk = "裁判認為有必要再次使用時",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -253,6 +257,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Ако једна од екипа затражи њено поновно коришћење",
+                            PhraseZhHk = "若其中一隊提出要求時",
                             AnswerNumber = "d"
                         }
                     ]

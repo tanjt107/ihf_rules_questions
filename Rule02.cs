@@ -2363,6 +2363,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "У којим ситуацијама тајм-аут НИЈЕ обавезан?",
+                    PhraseZhHk = "下列那些情況不是必須暫停的？",
                     QuestionNumber = "2.34",
                     Answers =
                     [
@@ -2374,6 +2375,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Лопта одлази далеко изван поља за игру",
+                            PhraseZhHk = "球遠離比賽場地時",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -2385,6 +2387,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Звиждук мериоца времена",
+                            PhraseZhHk = "計時員鳴哨時",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -2395,6 +2398,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Играч симулира повреду",
+                            PhraseZhHk = "懷疑球員可能受傷時",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -2406,6 +2410,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Када судије покажу различите правце приликом доношења одлуке",
+                            PhraseZhHk = "當裁判出現不同方向的判決時",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -2416,6 +2421,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Када голман замени играча у пољу, да би извео голманово бацање",
+                            PhraseZhHk = "守門員替換一名場內球員擲守門員球",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -2704,6 +2710,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голман БЕЛИ 1 додаје лопту БЕЛОМ 8, који је сам испред голмановог простора ЦРНЕ екипе. Непосредно него што је лопта дошла до играча БЕЛОГ 8, чује се звиждук мериоца времена, јер је званичник А БЕЛЕ екипе затражио екипни тајм–аут у овом несрећном тренутку. Како ће се игра наставити?",
+                    PhraseZhHk = "白隊守門員1號將球傳給黑隊禁區前無人看守的白隊88號，就在白隊8號接球前，計時員鳴哨，因為白隊球隊職員A在這一刻要求“隊暫停”。應如何繼續比賽？",
                     QuestionNumber = "2.39",
                     Answers =
                     [
@@ -2715,6 +2722,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободним бацањем за БЕЛУ екипу, изван голмановог простора БЕЛЕ екипе",
+                            PhraseZhHk = "白隊在白隊禁區外擲自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -2725,6 +2733,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободним бацањем за БЕЛУ екипу, код простора за замену играча БЕЛЕ екипе",
+                            PhraseZhHk = "白隊在白隊替補區處擲自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -2735,6 +2744,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -2745,6 +2755,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу, са линије слободног бацања ЦРНЕ екипе",
+                            PhraseZhHk = "白隊在黑隊九米球線外擲自由球",
                             AnswerNumber = "d",
                             Correct = true
                         }

@@ -3054,6 +3054,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 7 је управо добио 2 минута искључења због неспортског понашања. Ово је његово прво искључење. Десет секунди након што је утакмица настављена, он енергично гестикулира на клупи, и даље показујући да се не слаже са судијама. Исправна одлука?",
+                    PhraseZhHk = "白隊7號因犯不君子行為第一次被罰退場兩分鐘，在比賽恢復後，他在替補席上以強烈的手勢來表示對裁判判罰的不滿。如何判決？",
                     QuestionNumber = "8.41",
                     Answers =
                     [
@@ -3068,6 +3069,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација без писаног извештаја за БЕЛОГ 7 (црвени картон показан од стране судија)",
+                            PhraseZhHk = "取消白隊7號比賽資格（裁判出示紅牌）",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -3080,6 +3082,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против БЕЛОГ 7; БЕЛИ 7 мора остати на клупи 4 минута",
+                            PhraseZhHk = "白隊7號退場兩分鐘，必須留在替補席上四分鐘",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -3093,6 +3096,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "БЕЛИ 7 добија додатна 2 минута искључења; БЕЛА екипа ће бити редукована за два играча у пољу за игру за 1 минут и 50 секунди, а затим за једног играча у пољу за игру за 10 секунди",
+                            PhraseZhHk = "白隊7號再罰退場兩分鐘。白隊場內減少2名球員1分50秒，然後減少1名球員10秒",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3106,6 +3110,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Опомена, зато што је кажњавање на клупи одвојено од кажњавања на терену",
+                            PhraseZhHk = "警告，因為替補席上的漸進處罰有別於場內的處罰",
                             AnswerNumber = "d"
                         }
                     ]
