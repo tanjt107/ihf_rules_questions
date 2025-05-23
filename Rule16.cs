@@ -1128,6 +1128,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 4 је повређен. Судије дају тајм-аут и сигнал којим дозвољавају двема особама БЕЛЕ екипе да уђу на терен и укажу помоћ играчу. Званичници А и Б БЕЛЕ екипе, али и званичник А ЦРНЕ екипе улазе на терен. Званичник А ЦРНЕ екипе већ има опомену. Исправна одлука?",
+                    PhraseZhHk = "白隊4號受傷，裁判暫停，並出示手號允許白隊職員進場援助受傷隊員，白隊球隊職員A和B及黑隊球隊職員A進入場內，隊球隊職員A曾經被警告。如何判決？",
                     QuestionNumber = "16.18",
                     Answers =
                     [
@@ -1139,6 +1140,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Нема интервенције",
+                            PhraseZhHk = "不作處理",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1152,6 +1154,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "ЦРНА екипа наставља утакмицу без редукције на терену, када игра буде била настављена",
+                            PhraseZhHk = "在比賽恢復後，黑隊場內不減少球員繼續比賽",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1162,6 +1165,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против званичника А ЦРНЕ екипе",
+                            PhraseZhHk = "黑隊球隊職員A退場兩分鐘",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -1175,6 +1179,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација званичника А ЦРНЕ екипе (црвени картон показан од стране судија)",
+                            PhraseZhHk = "取消黑隊球隊職員A比賽資格（裁判出示紅牌）",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -1188,6 +1193,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "ЦРНА екипа ће бити редукована за једног играча на терену на 2 минута, када игра буде била настављена",
+                            PhraseZhHk = "在比賽恢復後，黑隊場內減少一名球員比賽兩分鐘",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -1202,6 +1208,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "После указане медицинске помоћи на терену БЕЛИ 4 мора напустити терен и може се вратити после трећег напада своје екипе",
+                            PhraseZhHk = "於球場內接受治理後，白隊4號必須離開球場，並且於其球隊完成3次進攻後，才可以進場比賽",
                             AnswerNumber = "f",
                             Correct = true
                         }

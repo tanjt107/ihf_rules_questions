@@ -311,6 +311,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -321,6 +322,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -774,6 +776,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Лопта лежи на поду голмановог простора БЕЛЕ екипе. У том тренутку мерилац времена свира са стола и објашњава да је БЕЛИ 5 направио погрешну замену. Исправна одлука?",
+                    PhraseZhHk = "球停留在白隊的禁區地面上。這時，計時員鳴哨指白隊5號替補犯規。如何處理？",
                     QuestionNumber = "6.13",
                     Answers =
                     [
@@ -785,6 +788,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊守門員球",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -796,6 +800,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења за БЕЛОГ 5",
+                            PhraseZhHk = "白隊5號退場兩分鐘",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -807,6 +812,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу са линије слободног бацања БЕЛЕ екипе",
+                            PhraseZhHk = "黑隊在白隊九米線擲自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -817,6 +823,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу код простора за замену играча БЕЛЕ екипе",
+                            PhraseZhHk = "黑隊在白隊替補區擲自由球",
                             AnswerNumber = "d"
                         }
                     ]

@@ -1508,6 +1508,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "После аутоматског сигнала за крај утакмице, остало је још да се изведе слободно бацање. ЦРНИ 9 је заузео исправну позицију и шутира на гол БЕЛЕ екипе. Када је лопта напустила руку ЦРНОГ 9, чује се пиштаљка мериоца времена. Лопта улази у гол, тако да голман није имао шансе да одбрани шут. Мерилац времена обавештава судије о играчу БЕЛОМ 7, који је ушао у поље за игру да замени БЕЛОГ 6, непосредно пре него што је слободно бацање изведено. Исправна одлука?",
+                    PhraseZhHk = "比賽自動結束訊號響後要繼續執行自由球。黑隊9號站在正確位置上，將球射向白隊球門。當球離開黑隊9號的手後，計時員鳴哨，白隊守門員1號沒法擋球，球便進入球門內。計時員告知裁判，執行自由球時，在場內防守的白隊7號，是在自由球擲出之前，換人違例進場的。如何判決？",
                     QuestionNumber = "2.23",
                     Answers =
                     [
@@ -1519,6 +1520,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Искључење играча БЕЛОГ 7 на 2 минута",
+                            PhraseZhHk = "白隊7號退場兩分鐘",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1530,6 +1532,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Дисквалификација играча БЕЛОГ 7 (црвени картон показан од стране судија)",
+                            PhraseZhHk = "取消白隊7號比賽資格（裁判出示紅牌）",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1540,6 +1543,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊得分",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1550,6 +1554,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -1560,6 +1565,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Понављање слободног бацања за ЦРНУ екипу, после знака пиштаљком",
+                            PhraseZhHk = "鳴哨後黑隊重擲自由球",
                             AnswerNumber = "e",
                             Correct = true
                         }

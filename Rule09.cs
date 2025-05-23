@@ -608,6 +608,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 9 покуша да заустави низак шут потколеницом тако што видно подиже ногу, али то чини тако да скреће лопту у властити гол. Ово је други пут да он покушава да заустави шут ногом. Исправна одлука?",
+                    PhraseZhHk = "白隊9號明顯抬起小腿擋一個下手射門的球，但他將球擋入了己方的球門內。這是白隊9號第二次試圖用腳封擋對方射門的球。如何判決？",
                     QuestionNumber = "9.10",
                     Answers =
                     [
@@ -619,6 +620,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊得分",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -630,6 +632,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -640,6 +643,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Искључење на 2 минута за БЕЛОГ 9",
+                            PhraseZhHk = "白隊9號退場兩分鐘",
                             AnswerNumber = "c",
                             Correct = true
                         }

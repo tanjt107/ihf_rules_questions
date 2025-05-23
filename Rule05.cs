@@ -639,6 +639,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Судија је досудио кораке играчу ЦРНОМ 21. ЦРНИ 21 спушта лопту на тло, на линију голмановог простора БЕЛЕ екипе. Голман БЕЛИ 12 жели брзо да изведе бацање. Он се ослања једном руком о тло у пољу за игру, али истовремено је једним стопалом у голмановом простору. Из овог положаја он додаје лопту играчу БЕЛОМ 3 који почиње контранапад, који се завршава голом за БЕЛУ екипу. Исправна одлука?",
+                    PhraseZhHk = "裁判鳴哨判黑隊21號走步，球員將球放在白隊的禁區線旁。白隊守門員16號為了迅速擲球，他用一手支撐在禁區線外的地上，一腳仍在禁區內，把球擲給白隊3號發動反攻，並射進黑隊的球門內。如何判決？",
                     QuestionNumber = "5.11",
                     Answers =
                     [
@@ -650,6 +651,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Понављање слободног бацања за БЕЛУ екипу после звиждука",
+                            PhraseZhHk = "鳴哨後白隊重擲自由球",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -661,6 +663,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за БЕЛУ екипу",
+                            PhraseZhHk = "白隊得分",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -672,6 +675,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Слободно бацање за ЦРНУ екипу, јер је слободно бацање за БЕЛУ екипу изведено на неправилан начин",
+                            PhraseZhHk = "黑隊自由球，因為白隊12號擲自由球違規",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -682,6 +686,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "d"
                         }
                     ]
@@ -697,6 +702,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голман ЦРНИ 1 је напустио свој голманов простор. Он скаче у пољу за игру и хвата додавање од свог саиграча док је у ваздуху. Затим пада, са оба стопала, у свој голманов простор. Исправна одлука?",
+                    PhraseZhHk = "黑隊守門員1號離開了禁區，他從比賽場地跳起，在空中接住隊友回傳的球後，雙腳落在禁區內。如何判決？",
                     QuestionNumber = "5.12",
                     Answers =
                     [
@@ -708,6 +714,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља без прекида",
+                            PhraseZhHk = "比賽繼續",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -718,6 +725,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊守門員球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -728,6 +736,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -739,6 +748,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -749,6 +759,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "e"
                         }
                     ]

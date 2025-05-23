@@ -1111,6 +1111,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 2 стоји спреман да изведе седмерац. Судија у пољу даје знак, али БЕЛИ 2 испусти лопту на под. ЦРНИ 3 одмах ухвати лопту и дода је ЦРНОМ 2, који постиже гол у контранападу. Исправна одлука?",
+                    PhraseZhHk = "白隊2號站好位置準備擲七米球，場內裁判鳴哨後，白隊2號滑手使球掉落在地上。黑隊3號立即將球拾起，並傳給黑隊2號發動反擊，黑隊2號將球射入白隊球門內。如何判決？",
                     QuestionNumber = "14.18",
                     Answers =
                     [
@@ -1122,6 +1123,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊得分",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1133,6 +1135,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Понављање седмерца",
+                            PhraseZhHk = "重擲七米球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1143,6 +1146,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1153,6 +1157,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "d"
                         }
                     ]
