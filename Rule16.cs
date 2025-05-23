@@ -1225,6 +1225,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "ЦРНИ 9 је дисквалификован због грубог прекршаја над БЕЛИМ 9. Пре него што је игра настављена, ЦРНИ 9 удари званичника А БЕЛЕ екипе у лице. Исправна одлука?",
+                    PhraseZhHk = "黑隊9號對白隊9號作出嚴重犯規而被判取消比賽資格，在比賽恢復前，黑隊9號又打了白隊球隊職員A面部一下。如何判決？",
                     QuestionNumber = "16.19",
                     Answers =
                     [
@@ -1239,6 +1240,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација за ЦРНОГ 9, без писаног извештаја (црвени картон показан од стране судија), ЦРНА екипа ће бити редукована за два играча на терену на 2 минута",
+                            PhraseZhHk = "取消黑隊9號比賽資格（裁判出示紅牌），黑隊場內減少兩名球員比賽兩分鐘",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1252,6 +1254,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација за ЦРНОГ 9, без писаног извештаја (црвени картон показан од стране судија), ЦРНА екипа ће бити редукована за једног играча на терену на 4 минута",
+                            PhraseZhHk = "取消黑隊9號比賽資格（裁判出示紅牌），黑隊場內減少一名球員比賽四分鐘",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1262,6 +1265,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Додатна казна није могућа",
+                            PhraseZhHk = "無需進一步處罰",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1275,6 +1279,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација ЦРНОГ 9, писани извештај (црвени и плави картон показани од стране судија), ЦРНА екипа ће бити редукована за два играча на терену на 2 минута",
+                            PhraseZhHk = "取消黑隊9號比賽資格，提交書面報告（裁判出示紅牌和藍牌），黑隊場內減少兩名球員比賽兩分鐘",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -1288,6 +1293,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација ЦРНОГ 9, писани извештај (црвени и плави картон показани од стране судија), ЦРНА екипа ће бити редукована за једног играча на терену на 4 минута",
+                            PhraseZhHk = "取消黑隊9號比賽資格，提交書面報告（裁判出示紅牌和藍牌），黑隊場內減少一名球員比賽四分鐘",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -1304,6 +1310,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "ЦРНИ 8 је добио 2 минута искључења након сигнала за тајм-аут. Док напушта терен, а пре него што је игра настављена, он приговара судијама на неспортски начин. Исправна одлука?",
+                    PhraseZhHk = "暫停後，黑隊8號被罰退場兩分鐘。當離開場地後，在比賽恢復前，他又向裁判說了些不君子的說話。如何判決？",
                     QuestionNumber = "16.20",
                     Answers =
                     [
@@ -1318,6 +1325,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Додатна 2 минута искључења против ЦРНОГ 8, ЦРНА екипа ће бити редукована за два играча на терену на 2 минута",
+                            PhraseZhHk = "黑隊8號退場兩分鐘，黑隊場內減少兩名球員比賽兩分鐘",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1331,6 +1339,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Додатна 2 минута искључења против ЦРНОГ 8, ЦРНА екипа ће бити редукована за једног играча на терену на 4 минута",
+                            PhraseZhHk = "黑隊8號退場兩分鐘，黑隊場內減少一名球員比賽四分鐘",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1345,6 +1354,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација за ЦРНОГ 8 (црвени картон показан од стране судија), ЦРНА екипа ће бити редукована за два играча на терену на 2 минута",
+                            PhraseZhHk = "取消黑隊8號比賽資格（裁判出示紅牌），黑隊場內減少兩名球員比賽兩分鐘",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1358,6 +1368,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација за ЦРНОГ 8 (црвени картон показан од стране судија), ЦРНА екипа ће бити редукована за једног играча на терену на 4 минута",
+                            PhraseZhHk = "取消黑隊8號比賽資格（裁判出示紅牌），黑隊場內減少一名球員比賽四分鐘",
                             AnswerNumber = "d"
                         }
                     ]

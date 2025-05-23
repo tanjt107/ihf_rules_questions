@@ -974,6 +974,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "ЦРНИ 7 из нападајуће екипе заузима позицију ван терена без лопте. Судије су показале играчу да мора да се врати на терен, али он не реагује. Исправна одлука?",
+                    PhraseZhHk = "黑隊7號進攻時，在沒有球的情况下離開球場，裁判向他作出指示返回場內，但沒有回應。如何判決？",
                     QuestionNumber = "7.17",
                     Answers =
                     [
@@ -985,6 +986,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља без прекида",
+                            PhraseZhHk = "繼續比賽",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -995,6 +997,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1006,6 +1009,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна против ЦРНОГ 7",
+                            PhraseZhHk = "漸進處罰黑隊7號",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1016,6 +1020,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Аут за БЕЛУ екипу",
+                            PhraseZhHk = "白隊界外球",
                             AnswerNumber = "d"
                         }
                     ]
@@ -1031,6 +1036,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Играч ускаче у голманов простор, има пуну контролу над лоптом и телом и у доброј је позицији за шут. Међутим, уместо да шутне у гол, он се окреће у ваздуху и додаје назад лопту саиграчу, који је додаје даље. Исправна одлука?",
+                    PhraseZhHk = "一名球員跳起在對方禁區上空，完全控制球和平衡身體，並處於良好的射門位置。但他沒有作出射門，而是在空中轉身將球回傳給其隊友。如何判決？",
                     QuestionNumber = "7.18",
                     Answers =
                     [
@@ -1042,6 +1048,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Упозоравајући сигнал за пасивну игру",
+                            PhraseZhHk = "出示消極比賽警告手號",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1052,6 +1059,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тренутно слободно бацање, због пасивне игре",
+                            PhraseZhHk = "消極比賽，立即判自由球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1063,6 +1071,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тренутно слободно бацање, због неспортског понашања",
+                            PhraseZhHk = "不君子行為，立即判自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1073,6 +1082,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна",
+                            PhraseZhHk = "漸進處罰",
                             AnswerNumber = "d"
                         }
                     ]
@@ -1515,6 +1525,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА А одуговлачи са извођењем почетног бацања. Екипа је већ раније била упозорена за ово тактичко понашање. Исправна одлука?",
+                    PhraseZhHk = "白隊拖延執行開球，該隊先前已有這種行為。如何判決？",
                     QuestionNumber = "7.26",
                     Answers =
                     [
@@ -1526,6 +1537,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља без прекида",
+                            PhraseZhHk = "比賽繼續",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1536,6 +1548,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут; почетно бацање после звучног сигнала за наставак",
+                            PhraseZhHk = "暫停；鳴哨後擲開球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1547,6 +1560,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Тајм-аут; почетно бацање после звучног сигнала за наставак; моментални сигнал за пасивну игру",
+                            PhraseZhHk = "暫停；鳴哨後擲開球；即時展示消極進攻警告手號",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1558,6 +1572,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Почетно бацање после звучног сигнала за наставак; моментални сигнал за пасивну игру",
+                            PhraseZhHk = "鳴哨擲開球；即時展示消極進攻警告手號",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -1569,6 +1584,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна за одговорног представника БЕЛЕ екипе",
+                            PhraseZhHk = "漸進處罰白隊“球隊職員代表”",
                             AnswerNumber = "e"
                         }
                     ]

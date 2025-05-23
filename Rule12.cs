@@ -624,6 +624,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Која од ових тврдњи у вези са голмановим бацањем је исправна?",
+                    PhraseZhHk = "下列那些關於擲守門員球的說法是正確的？",
                     QuestionNumber = "12.11",
                     Answers =
                     [
@@ -638,6 +639,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Играчи противничке екипе морају остати изван линије слободног бацања, док лопта не буде у игри",
+                            PhraseZhHk = "球擲出前，對隊球員必須站在九米線外",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -651,6 +653,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Играчи противничке екипе морају бити изван линије голмановог простора, три метра удаљени од места са кога голман изводи голманово бацање",
+                            PhraseZhHk = "對隊球員必須站在禁區線外，與擲守門員球時守門員所在的位置保持3米距離",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -664,6 +667,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Играчима противничке екипе је дозвољено да додирну лопту пре него што она пређе линију голмановог простора",
+                            PhraseZhHk = "球越過禁區線前，容許對隊球員觸球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -675,6 +679,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голман не може да постигне у “властити гол “, када изводи голманово бацање",
+                            PhraseZhHk = "擲守門員球時，守門員不能將球擲入己方球門得分",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -688,6 +693,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голман не може дати директно гол противнику из голмановог бацања",
+                            PhraseZhHk = "擲守門員球時，守門員不能將球直接擲入對方球門得分",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -701,6 +707,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Голману није дозвољено да додирује линију голмановог простора за време извођења голмановог бацања",
+                            PhraseZhHk = "擲守門員球時，不容許守門員觸及禁區線",
                             AnswerNumber = "f"
                         }
                     ]

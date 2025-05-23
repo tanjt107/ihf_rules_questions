@@ -515,6 +515,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Који судија је на почетку утакмице у пољу, а који код гола?",
+                    PhraseZhHk = "比賽開始時，誰是場內裁判，誰是底線裁判？",
                     QuestionNumber = "17.8",
                     Answers =
                     [
@@ -526,6 +527,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Првоименовани судија је судија у пољу",
+                            PhraseZhHk = "分紙上填第一的裁判為場內裁判",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -536,6 +538,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Првоименовани судија је судија код гола",
+                            PhraseZhHk = "分紙上填第一的裁判為底線裁判",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -547,6 +550,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Судије ће жребати да одлуче ко ће где бити",
+                            PhraseZhHk = "擲亳決定",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -557,6 +561,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Судије су слободне да одреде ко ће где бити",
+                            PhraseZhHk = "兩者均可，裁判自行決定",
                             AnswerNumber = "d",
                             Correct = true
                         }

@@ -836,6 +836,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "У којем од наведених случајева треба досудити голманово бацање?",
+                    PhraseZhHk = "下列那些情况須判守門員球？",
                     QuestionNumber = "6.14",
                     Answers =
                     [
@@ -850,6 +851,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Када играч нападајуће екипе, са лоптом у поседу, додирне голманов простор противника",
+                            PhraseZhHk = "進攻球員持球踏進對方禁區內",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -864,6 +866,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Када играч нападајуће екипе, без лопте у поседу, додирне голманов простор противника и тиме стекне предност",
+                            PhraseZhHk = "沒有持球的進攻球員踏入對方禁區時，取得利益的情況下",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -877,6 +880,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Када играч нападајуће екипе упути лопту преко гол-аут линије противника",
+                            PhraseZhHk = "進攻球員把球擲出對隊的外底線時",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -888,6 +892,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Када играч са лоптом додирне сопствени голманов простор",
+                            PhraseZhHk = "球員持球踏進己方禁區",
                             AnswerNumber = "d"
                         }
                     ]

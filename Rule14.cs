@@ -732,6 +732,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 3 има лопту и трчи у контранапад у правцу гола ЦРНЕ екипе. Када је био у скок шуту, чује се звиждук из публике, БЕЛИ 3 се збуни и не упути шут на гол. Уместо да шутне на гол, он стане са лоптом у голманов простор. Исправна одлука?",
+                    PhraseZhHk = "在一次反擊中，白隊3號運球跑向黑隊球門，當他跳起射門時，觀眾席傳來哨子聲使他分散了注意力。白隊3號沒有射門，只是連同球一起跌落在禁區內。如何判決？",
                     QuestionNumber = "14.12",
                     Answers =
                     [
@@ -743,6 +744,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу, после звучног сигнала",
+                            PhraseZhHk = "鳴哨後由黑隊擲自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -753,6 +755,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -764,6 +767,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -774,6 +778,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за ЦРНУ екипу, после звучног сигнала",
+                            PhraseZhHk = "鳴哨後由黑隊擲守門員球",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -786,6 +791,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Изјава у записнику утакмице у складу са прописима надлежне федерације",
+                            PhraseZhHk = "在記錄表上註明",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -802,6 +808,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа је у контранападу при резултату 26:26. БЕЛИ 5 је спреман да упути шут на гол и налази се сам на линији голмановог простора ЦРНЕ екипе. У исто време чује се сигнал мериоца времена, који показује да је утакмица завршена. Судије утврђују да је преостало још 20 секунди за игру. Исправна одлука?",
+                    PhraseZhHk = "比賽至26:26時，白隊反擊，白隊5號在黑隊的禁區線前無人防守，正準備射門。這時計時員鳴哨結束比賽，但裁判確定比賽還有20秒才結束。如何處理？",
                     QuestionNumber = "14.13",
                     Answers =
                     [
@@ -813,6 +820,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу код записничког стола",
+                            PhraseZhHk = "白隊在靠近記錄台處擲自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -823,6 +831,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -836,6 +845,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Писани извештај у складу са прописима надлежне федерације",
+                            PhraseZhHk = "在記錄表上註明",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -848,6 +858,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Слободно бацање за БЕЛУ екипу са места где се лопта налазила у тренутку звучног сигнала",
+                            PhraseZhHk = "球在鳴哨時的位置由白隊擲自由球",
                             AnswerNumber = "d"
                         }
                     ]
@@ -1094,7 +1105,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за ЦРНУ екипу",
-                            PhraseZhHk = "黑隊守門員擲球",
+                            PhraseZhHk = "黑隊守門員球",
                             AnswerNumber = "c",
                             Correct = true
                         }

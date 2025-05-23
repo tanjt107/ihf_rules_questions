@@ -2429,6 +2429,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Судије дају ручни сигнал да је дозвољен улазак у терен зато што је играч БЕЛЕ екипе повређен. Коме је дозвољено да уђе на терен?",
+                    PhraseZhHk = "白隊一名球員受傷，裁判做出允許進場的手號。誰可以進入場內？",
                     QuestionNumber = "4.35",
                     Answers =
                     [
@@ -2440,6 +2441,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Два званичника БЕЛЕ екипе (нико други)",
+                            PhraseZhHk = "白隊兩名職員，其他不允許",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -2450,6 +2452,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "По два званичника из БЕЛЕ и ЦРНЕ екипе",
+                            PhraseZhHk = "白隊和黑隊各兩名職員",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -2460,6 +2463,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Две особе (званичник или играч) БЕЛЕ екипе",
+                            PhraseZhHk = "白隊兩人（職員或球員）",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -2471,6 +2475,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Две особе (званичник или играч) из БЕЛЕ и ЦРНЕ екипе",
+                            PhraseZhHk = "白隊和黑隊各兩人（職員或球員）",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -2481,6 +2486,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Доктор БЕЛЕ екипе, ако он није један од четири званичника екипе",
+                            PhraseZhHk = "白隊醫生，假如他不是球隊的四名職員之一",
                             AnswerNumber = "e"
                         }
                     ]
@@ -2496,6 +2502,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Званичник Ц БЕЛЕ екипе, већ је добио опомену због протеста. Касније, званичник Б БЕЛЕ екипе уђе у поље за игру без дозволе, али се коректно понаша. Исправна одлука?",
+                    PhraseZhHk = "白隊球隊職員C因抗議曾被警告過。後來，白隊球隊職員B未經批准進入場內，但他沒有做出任何不君子行為。如何判決？",
                     QuestionNumber = "4.36",
                     Answers =
                     [
@@ -2507,6 +2514,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Опомена за званичника Б БЕЛЕ екипе",
+                            PhraseZhHk = "警告白隊球隊職員B",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -2520,6 +2528,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "2 минута искључења за званичника Б БЕЛЕ екипе; Он мора отићи са клупе 2 минута",
+                            PhraseZhHk = "白隊球隊職員B退場兩分鐘，他必須離開替補席兩分鐘",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -2533,6 +2542,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација званичника Б БЕЛЕ екипе (црвени картон показан од стране судија), БЕЛА екипа ће бити редукована за једног играча у пољу за 2 минута",
+                            PhraseZhHk = "取消白隊球隊職員B比賽資格（裁判出示紅牌），白隊場內減少一名球員比賽兩分鐘",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -2546,6 +2556,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "2 минута искључења за званичника Б БЕЛЕ екипе, БЕЛА екипа ће бити редукована за једног играча у пољу за 2 минута; Званичник Б БЕЛЕ екипе може остати у простору за замену играча",
+                            PhraseZhHk = "白隊球隊職員B退場兩分鐘，白隊場內減少一名球員比賽兩分鐘，白隊球隊職員B可以留在替補區",
                             AnswerNumber = "d",
                             Correct = true
                         }

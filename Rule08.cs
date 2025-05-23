@@ -2916,6 +2916,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голман БЕЛИ 1 жели да изведе голманово бацање. ЦРНИ 3 по други пут улази у голманов простор и покушава да спречи голмана БЕЛОГ 1 да изведе бацање, али без контакта са њим. Исправна одлука?",
+                    PhraseZhHk = "白隊守門員1號準備擲守門員球，黑隊3號進入禁區內試圖阻止白隊1號擲守門員球，但沒有造成身體接觸，這是他第二次做出同一動作。如何判決？",
                     QuestionNumber = "8.39",
                     Answers =
                     [
@@ -2927,6 +2928,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -2937,6 +2939,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за БЕЛУ екипуе после звучног сигнала",
+                            PhraseZhHk = "鳴哨後白隊擲守門員球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -2948,6 +2951,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Опомена за ЦРНОГ 3",
+                            PhraseZhHk = "警告黑隊3號",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -2958,6 +2962,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против ЦРНОГ 3",
+                            PhraseZhHk = "黑隊3號退場兩分鐘",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -2969,6 +2974,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -2985,6 +2991,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 4 додирује лопту која се котрља по поду голмановог простора ЦРНЕ екипе. У следећем тренутку он је гурнут на под од стране ЦРНОГ 6. Исправна одлука?",
+                    PhraseZhHk = "白隊4號觸及在黑隊禁區地面上滾動的球，接着他被黑隊6號推倒在地上。如何判決？",
                     QuestionNumber = "8.40",
                     Answers =
                     [
@@ -2996,6 +3003,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна против ЦРНОГ 6",
+                            PhraseZhHk = "漸進處罰黑隊6號",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -3007,6 +3015,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -3017,6 +3026,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊守門員球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3028,6 +3038,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "d"
                         }
                     ]
