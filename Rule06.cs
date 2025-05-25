@@ -908,6 +908,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Бела екипа је у нападу. ЦРНИ 4 стоји уз линију голмановог простора. Лопта је у ваздуху, ЦРНИ 4 је ухвати и убаци је директно у голманов простор. Голман ЦРНИ 1 додирује лопту и она одлази изван гола, преко гол-аут линије. Исправна одлука?",
+                    PhraseZhHk = "白隊進攻，黑隊4號站在禁區線外防守，球在空中時，黑隊4號故意使球改變方向進入禁區內，黑隊守門員1號最後觸球，球亦越過外底線。如何判決？",
                     QuestionNumber = "6.15",
                     Answers =
                     [
@@ -919,6 +920,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Аут за БЕЛУ екипу",
+                            PhraseZhHk = "白隊界外球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -929,6 +931,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -940,6 +943,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -950,6 +954,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊守門員球",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -960,6 +965,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна против ЦРНОГ 4",
+                            PhraseZhHk = "漸進處罰黑隊4號",
                             AnswerNumber = "e"
                         }
                     ]

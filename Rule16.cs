@@ -1384,6 +1384,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "У којим од следећих ситуација екипа мора бити редукована за једног играча у пољу за игру на 4 минута?",
+                    PhraseZhHk = "下列那些情況，球隊場內須減少球員四分鐘？",
                     QuestionNumber = "16.21",
                     Answers =
                     [
@@ -1398,6 +1399,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Играч је дисквалификован; Када напушта поље за игру, он протестује и досуђује му се још 2 минута искључења",
+                            PhraseZhHk = "一名球員剛被取消比賽資格，在離開場地時，他抗議裁判的判罰，而該行為一般會被判罰退場兩分鐘",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1412,6 +1414,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Играч је искључен на 2 минута; Када напушта поље за игру он вређа судије и бива дисквалификован",
+                            PhraseZhHk = "一名球員剛被罰退場兩分鐘，在離開場地時，他再侮辱裁判而被判取消比賽資格",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1426,6 +1429,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Играч је искључен на 2 минута због неспортског понашања према противнику; Када напушта поље за игру, он удари противника у лице и бива дисквалификован",
+                            PhraseZhHk = "一名球員，因對對隊犯不君子行為而被罰退場兩分鐘，當他還在場內時，他再打對隊球員的面而被裁判取消資格及提交書面報告",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -1440,6 +1444,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Играч је искључен на 2 минута због неспортског понашања; Након што је прешао аут линију, он се враћа у поље за игру и протестује, те добија додатна 2 минута искључења",
+                            PhraseZhHk = "一名球員因不君子行為而被罰退場兩分鐘，他越過邊線後又走回場內提出抗議，裁判對他再加罰一次退場兩分鐘",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -1454,6 +1459,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Играч је дисквалификован због пљувања противника; Приликом напуштања терена он гурне судију",
+                            PhraseZhHk = "一名球員因向對方吐口水而被取消比賽資格及提交書面報告，在離開場地時又推裁判",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -1468,6 +1474,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Играч је дисквалификован због грубог прекршаја; После напуштања терена и након што је игра настављена, он вређа судије док седи у гледалишту",
+                            PhraseZhHk = "一名球員因嚴重犯規而被取消比賽資格，離開場地後，在比賽重新恢復後，他坐在觀眾席又侮辱裁判",
                             AnswerNumber = "f"
                         }
                     ]

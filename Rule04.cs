@@ -2573,6 +2573,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Дат је тајм-аут због повреде и судије су ручним сигналом дале дозволу да особе БЕЛЕ екипе уђу у терен. Које од следећих радњи нису дозвољене?",
+                    PhraseZhHk = "裁判因場內球員受傷而暫停比賽，並做出允許白隊進場的手號後，下列那些行為是不容許的？",
                     QuestionNumber = "4.37",
                     Answers =
                     [
@@ -2587,6 +2588,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Играчи ЦРНЕ екипе стоје близу уздужне линије, са циљем да добију савете од тренера",
+                            PhraseZhHk = "黑隊球員靠近邊線接受教練的指導",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -2597,6 +2599,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Играчи БЕЛЕ екипе праве замену ван линије за замену играча",
+                            PhraseZhHk = "白隊球員在替補區外進行替補",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -2611,6 +2614,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Један званичник БЕЛЕ екипе, који је на терену, креће се далеко од повређеног играча и даје савете другим играчима свог тима",
+                            PhraseZhHk = "白隊的一名職員在場內遠離受傷的球員處，向該隊的其他球員進行指導",
                             AnswerNumber = "c",
                             Correct = true
                         }

@@ -578,6 +578,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Судије су се мимоишле у одлукама, после судара између два играча. Судија у пољу показује прекршај у нападу, док судија код гола указује на прекршај одбрамбеног играча. Исправна одлука?",
+                    PhraseZhHk = "兩名裁判同時對兩名球員的互相碰撞鳴哨，場內裁判判進攻犯規，但底線裁判判防守犯規。如何判決？",
                     QuestionNumber = "17.9",
                     Answers =
                     [
@@ -589,6 +590,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Одлука судије код гола се поштује",
+                            PhraseZhHk = "由底線裁判決定",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -599,6 +601,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Одлука судије у пољу се поштује",
+                            PhraseZhHk = "由場內裁判決定",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -610,6 +613,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Судије се договарају и долазе до заједничке одлуке",
+                            PhraseZhHk = "兩名裁判員經過協商後，達成一致判決",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -621,6 +625,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Обавезан тајм-аут",
+                            PhraseZhHk = "必須暫停",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -634,6 +639,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Тајм-аут је обавезан само ако је заједничка одлука против екипе која је у нападу",
+                            PhraseZhHk = "只是在判罰進攻隊達成一致時，才有必要暫停",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -647,6 +653,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Тајм-аут није обавезан ако судије користе електронску опрему за међусобну комуникацију",
+                            PhraseZhHk = "如裁判使用電子儀器作內部通訊時，無須暫停",
                             AnswerNumber = "f"
                         }
                     ]

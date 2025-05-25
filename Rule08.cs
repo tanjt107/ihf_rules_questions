@@ -3126,6 +3126,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 6 је гурнут од стране ЦРНОГ 3, а овај демостративно пљуне на под испред ЦРНОГ 3. Како ће БЕЛИ 6 бити кажњен?",
+                    PhraseZhHk = "黑隊3號推白隊6號，白隊6號憤怒地向黑隊3號面前的地板上吐口水。如何處罰白隊6號？",
                     QuestionNumber = "8.42",
                     Answers =
                     [
@@ -3137,6 +3138,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна",
+                            PhraseZhHk = "漸進處罰",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -3147,6 +3149,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Увек са 2 минута искључења",
+                            PhraseZhHk = "通常判罰退場兩分鐘",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -3159,6 +3162,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација без писаног извештаја (црвени картон показан од стране судија)",
+                            PhraseZhHk = "取消白隊6號比賽資格（裁判出示紅牌）",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3172,6 +3176,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација за писаним извештајем (црвени и плави картон показани од стране судија)",
+                            PhraseZhHk = "取消白隊6號比賽資格，提交書面報告（裁判出示紅牌及藍牌）",
                             AnswerNumber = "d"
                         }
                     ]
