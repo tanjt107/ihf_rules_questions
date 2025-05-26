@@ -981,6 +981,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голман БЕЛИ 12 је одбранио шут и има лопту под контролом у свом голмановом простору. Он још увек има лопту у својим рукама, када мерилац времена свира, због погрешне замене БЕЛОГ 10. Исправна одлука?",
+                    PhraseZhHk = "白隊守門員12號擋住射門的球後，在禁區內將球接實，當球還在他的手時，計時員因白隊替補犯規而鳴哨。如何處理？",
                     QuestionNumber = "6.16",
                     Answers =
                     [
@@ -992,6 +993,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу код простора за замену играча БЕЛЕ екипе",
+                            PhraseZhHk = "黑隊在白隊替補區處擲自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1002,6 +1004,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм–аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1013,6 +1016,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊守門員球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -1024,6 +1028,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења за БЕЛОГ 10",
+                            PhraseZhHk = "白隊10號退場兩分鐘",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -1035,6 +1040,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу са линије слободног бацања БЕЛЕ екипе",
+                            PhraseZhHk = "黑隊在白隊九米線擲自由球",
                             AnswerNumber = "e"
                         }
                     ]

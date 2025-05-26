@@ -775,6 +775,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Лопта је на поду, одмах изван голмановог простора БЕЛЕ екипе. Голман БЕЛИ 1 стоји унутар голмановог простора и подиже лопту, да би спречио противника да је узме. Исправна одлука?",
+                    PhraseZhHk = "球在白隊禁區外緊貼禁區線的地上，站在禁區內的白隊守門員1號為了阻止對方獲球而將球拾起。如何判決？",
                     QuestionNumber = "5.13",
                     Answers =
                     [
@@ -786,6 +787,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -797,6 +799,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -807,6 +810,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна за БЕЛОГ 1",
+                            PhraseZhHk = "漸進處罰白隊1號",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -817,6 +821,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Нема интервенције, зато што је ово дозвољено",
+                            PhraseZhHk = "不作處理，因為這是容許的",
                             AnswerNumber = "d"
                         }
                     ]

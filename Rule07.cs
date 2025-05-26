@@ -1681,6 +1681,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Које су од следећих тврдњи везаних за пасивну игру тачне?",
+                    PhraseZhHk = "下列那些關於消極比賽的說法是正確的？",
                     QuestionNumber = "7.28",
                     Answers =
                     [
@@ -1695,6 +1696,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Еикпи није дозвољено више од 5 секунди да пређе из фазе припреме напада у фазу завршетка напада",
+                            PhraseZhHk = "球隊由組織陣地進攻，到進攻結束，不許超過5秒",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1708,6 +1710,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Судије морају да обрате пажњу на успорену и закаснелу замену, након што је почетно бацање изведено",
+                            PhraseZhHk = "裁判必須注意開球後的緩慢替補",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1722,6 +1725,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Судије морају да обрате пажњу на то да ли екипа у фази изградње напада покушава да убрза темпо или само да стекне просторну предност",
+                            PhraseZhHk = "裁判應留意球隊在組織進攻時，是否有加快進攻節奏或獲取更大的進攻空間",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -1736,6 +1740,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Судије морају да обрате пажњу на пасивну игру чим екипа има лопту на својој половини",
+                            PhraseZhHk = "球隊在己方半場控球時，裁判便應密切注意消極比賽的出現",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -1750,6 +1755,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Екипи која покуша да изведе контранапад мора бити дозвољена нормална замена, ако је контранапад прекинут и започета је нормална изградња напада",
+                            PhraseZhHk = "試圖反擊快攻的球隊，在轉變為陣地進攻時，容許進行正常的替補",
                             AnswerNumber = "e",
                             Correct = true
                         }
