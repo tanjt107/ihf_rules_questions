@@ -14,6 +14,7 @@ public static partial class Rules
             NameSvn = "Pravilnik O Prostoru Za Menjave",
             NameDe = "Auswechselraum-Reglement (ARR)",
             NameSrb = "Правила о простору за замену играча",
+            NameZhHk = "替補區規則",
             RuleNumber = "SAR",
             Questions =
             [
@@ -27,6 +28,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Колико би требало да буде и растојање између средишње линије и почетка клупе за резервне играче?",
+                    PhraseZhHk = "替補席與中線應最少有多遠距離？",
                     QuestionNumber = "SAR1",
                     Answers =
                     [
@@ -38,6 +40,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "1 метар",
+                            PhraseZhHk = "1米",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -48,6 +51,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 метра",
+                            PhraseZhHk = "2米",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -58,6 +62,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "3 метра",
+                            PhraseZhHk = "3米",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -68,6 +73,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "3,5 метра",
+                            PhraseZhHk = "3.5米",
                             AnswerNumber = "d",
                             Correct = true
                         }

@@ -29,6 +29,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Шта Правила игре прописују у погледу поделе посла између мериоца времена и записничара?",
+                    PhraseZhHk = "下列那些是屬於規則內關於計時員和記錄員的分工？",
                     QuestionNumber = "18.1",
                     Answers =
                     [
@@ -42,6 +43,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Контролу уласка и изласка замена врши само мерилац времена",
+                            PhraseZhHk = "進出替補區的情況，僅屬於計時員的職責",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -54,6 +56,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Генерално, само мерилац времена треба да прекине игру, када је то неопходно",
+                            PhraseZhHk = "一般而言，只有計時員才可以在必要時打擾比賽",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -67,6 +70,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Записничар мора да свира када уочи да је замена ушла на терен прерано",
+                            PhraseZhHk = "如發現替補球員過早進場，記錄員必須鳴哨",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -80,6 +84,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Ако нема јавног мерења времена, мерилац времена информише екипе о времену игре или о томе колико је још времена остало да се игра",
+                            PhraseZhHk = "若沒有使用公開計時器，計時員必須讓球隊知道比賽進行了多少時間或剩餘時間",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -94,6 +99,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Рачунање броја напада када је играч у обавези да паузира 3 напада, после указане медицинске помоћи на терену, је заједнички задатак за мериоца времена и записничара",
+                            PhraseZhHk = "", //TODO 計算球員在場上接受醫療護理後，必須休息三次進攻的次數，是計時員和記錄員的共同任務
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -471,6 +477,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Када треба мерилац времена/записничар да информише судије о прекршајима правила о простору за замену играча, које судије нису регистровале?",
+                    PhraseZhHk = "如果裁判不知道球隊違犯替補區規則時(非替補犯規)，計時員或記錄員應何時通知裁判？",
                     QuestionNumber = "18.7",
                     Answers =
                     [
@@ -482,6 +489,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тренутно",
+                            PhraseZhHk = "立即",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -493,6 +501,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb = "У време следећег прекида игре",
                             AnswerNumber = "b",
+                            PhraseZhHk = "下一次比賽中斷時",
                             Correct = true
                         }
                     ]

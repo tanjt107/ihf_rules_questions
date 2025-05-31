@@ -1098,6 +1098,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 3 шутира на гол ЦРНЕ екипе и погађа стативу. Лопта се откотрља изван голмановог простора. Поред линије слободног бацања, БЕЛИ 3 и ЦРНИ 4 се бацају за лоптом, неугрожавајући један другог. ЦРНИ 4 успе да гурне лопту до ЦРНОГ 6, који креће у контранапад и постиже гол. Исправна одлука?",
+                    PhraseZhHk = "白隊3號射門，球擊中黑隊球門柱後滾動出禁區外。位於九米線附近的白隊3號和黑隊4號同時撲向球，互相間沒有危害動作，黑隊4號將球拍給黑隊6號並發動反擊，最後黑隊6號將球射進球門。如何判決？",
                     QuestionNumber = "7.19",
                     Answers =
                     [
@@ -1109,6 +1110,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Опомена за ЦРНОГ 4",
+                            PhraseZhHk = "警告黑隊4號",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1119,6 +1121,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊得分",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1130,6 +1133,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу или ЦРНУ екипу, у зависности од околности",
+                            PhraseZhHk = "根據當時的情況判白隊或黑隊自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1140,6 +1144,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊守門員球",
                             AnswerNumber = "d"
                         }
                     ]

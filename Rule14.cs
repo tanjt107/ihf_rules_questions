@@ -872,6 +872,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Које су од наведених константација, везаних за извођење седмерца, исправне?",
+                    PhraseZhHk = "下列那些關於執行擲七米球是正確的？",
                     QuestionNumber = "14.14",
                     Answers =
                     [
@@ -885,6 +886,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Играчу који изводи бацање дозвољено је да се одмакне до 1 метар иза линије седмерца",
+                            PhraseZhHk = "擲七米球的球員可站在七米線對外不多於一米處",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -898,6 +900,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Судије морају да дају тајм-аут ако одбрамбена екипа мења голмана",
+                            PhraseZhHk = "若防守隊更換守門員，裁判必須暫停比賽",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -911,6 +914,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Голману треба изрећи прогресивну казну ако више пута прелази линију 4 метра (ограничавајућу линију за голмана)",
+                            PhraseZhHk = "若守門員重覆超越四米線防守，須被判漸進處罰",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -922,6 +926,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Играчи одбрамбене екипе морају увек бити 3 метра од извођача",
+                            PhraseZhHk = "防守隊球員需與擲球者保持三米距離",
                             AnswerNumber = "d"
                         }
                     ]
@@ -937,6 +942,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 5 ускаче са десног крила, са лоптом у руци, у голманов простор ЦРНЕ екипе и судара се са ЦРНИМ 11 који стоји подигнутих руку, око 50 центиметара унутар голмановог простора. Ово је трећи пут у току уткмице да ЦРНИ 11 чини исту ствар. Исправна одлука?",
+                    PhraseZhHk = "白隊5號持球從球場右邊窄位跳入黑隊禁區上空，與站在禁區內約50厘米處舉起雙臂的黑隊11號互相碰撞。這是黑隊11號在比賽中第三次這樣做。如何判決？",
                     QuestionNumber = "14.15",
                     Answers =
                     [
@@ -948,6 +954,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -959,6 +966,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прекршај БЕЛОГ 5 у нападу",
+                            PhraseZhHk = "白隊5號進攻犯規",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -969,6 +977,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против ЦРНОГ 11",
+                            PhraseZhHk = "黑隊11號退場兩分鐘",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -980,6 +989,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Опомена за ЦРНОГ 11",
+                            PhraseZhHk = "警告黑隊11號",
                             AnswerNumber = "d"
                         }
                     ]

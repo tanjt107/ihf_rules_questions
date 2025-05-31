@@ -1056,6 +1056,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голман БЕЛИ 12 скаче у пољу за игру, тик изван свог голмановог простора, у ваздуху хвата лопту, додату од стране БЕЛОГ 4, и баца је преко гол-аут линије. Затим доскочи у голманов простор. Исправна одлука?",
+                    PhraseZhHk = "白隊守門員12號從禁區線外的比賽場地跳起，在空中接獲白隊4號的傳球後，將球拍出外底線。然後，他在禁區內著地。如何判決？",
                     QuestionNumber = "6.17",
                     Answers =
                     [
@@ -1067,6 +1068,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊守門員球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1077,6 +1079,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Аут за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊界外球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1088,6 +1091,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1098,6 +1102,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Опомена за БЕЛОГ 12",
+                            PhraseZhHk = "警告白隊12號",
                             AnswerNumber = "d"
                         }
                     ]

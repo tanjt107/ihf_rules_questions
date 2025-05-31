@@ -1619,6 +1619,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Када је тајм-аут обавезан?",
+                    PhraseZhHk = "什麼時侯必須暫停？",
                     QuestionNumber = "2.25",
                     Answers =
                     [
@@ -1630,6 +1631,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Када звеничник екипе добије искључење на 2 минута",
+                            PhraseZhHk = "球隊職員被罰退場兩分鐘時",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1641,6 +1643,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Када играч добије треће искључење на 2 минута",
+                            PhraseZhHk = "球員第三次被罰退場兩分鐘時",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1652,6 +1655,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "После поновљеног неспортског понашања",
+                            PhraseZhHk = "重覆犯不君子行為後",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -1664,6 +1668,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Када је потребно да се судије међусобно консултују",
+                            PhraseZhHk = "裁判之間需要商議時",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -1675,6 +1680,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "После грубог неспортског понашања",
+                            PhraseZhHk = "犯嚴重不君子行為後",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -1686,6 +1692,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "После жутог картона показаног званичнику екипе",
+                            PhraseZhHk = "", // TODO 球隊職員被出示黃牌後
                             AnswerNumber = "f"
                         }
                     ]
