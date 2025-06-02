@@ -1005,6 +1005,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 6 трчи у контранапад и има јасну ситуацију за постизање гола, када се светла у хали угасе. Која је од следећих тврдњи тачна?",
+                    PhraseZhHk = "白隊6號作出快擊反攻，並有明顯得分機會。這時，比賽場館突然停電。下列那些句子是正確的？",
                     QuestionNumber = "14.16",
                     Answers =
                     [
@@ -1016,6 +1017,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Судије ће чекати на крајњи исход јасне ситуације за постизање гола",
+                            PhraseZhHk = "裁判須等待明顯得分機會結果",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1026,6 +1028,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Судије ће прекинуту утакмицу моментално и дати тајм-аут",
+                            PhraseZhHk = "裁判即時暫停比賽",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1040,6 +1043,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Након што је светло опет у функцији, утакмица се наставља слободним бацањем за БЕЛУ екипу",
+                            PhraseZhHk = "電力回復後，白隊擲自由球恢復比賽",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1052,6 +1056,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Чим је светло поново у функцији утакмица се наставља седмерцем за БЕЛУ екипу",
+                            PhraseZhHk = "電力回復後，白隊擲七米球恢復比賽",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -1065,6 +1070,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Изјава у записник утакмице у складу са прописима надлежне федерације",
+                            PhraseZhHk = "在記錄表上註明",
                             AnswerNumber = "e",
                             Correct = true
                         }

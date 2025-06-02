@@ -1692,7 +1692,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "После жутог картона показаног званичнику екипе",
-                            PhraseZhHk = "", // TODO 球隊職員被出示黃牌後
+                            PhraseZhHk = "球隊職員被出示黃牌後",
                             AnswerNumber = "f"
                         }
                     ]

@@ -1160,6 +1160,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 10 покуша да дода лопту БЕЛОМ 8, који је испред голмановог простора ЦРНЕ екипе. ЦРНИ 10 мирно стоји испред БЕЛОГ 8 и лопта га погађа у ногу. Исправна одлука?",
+                    PhraseZhHk = "白隊10號試圖傳球給站在黑隊禁區邊線的A8，但球擊中站在白隊8號前方黑隊10號的腳上。如何判決？",
                     QuestionNumber = "7.20",
                     Answers =
                     [
@@ -1171,6 +1172,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1181,6 +1183,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља без прекида",
+                            PhraseZhHk = "比賽繼續",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1192,6 +1195,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Зависи ко ухвати лопту",
+                            PhraseZhHk = "視乎是誰奪得球",
                             AnswerNumber = "c"
                         }
                     ]
