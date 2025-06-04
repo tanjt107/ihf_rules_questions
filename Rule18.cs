@@ -517,6 +517,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Ако технички делегат прекине игру, због прекршаја учињеног од стране БЕЛЕ екипе а при томе је лопта у игри, да ли се игра наставља поседом лопте за ЦРНУ екипу?",
+                    PhraseZhHk = "若技術代表因白隊犯規而中斷比賽，比賽應由黑隊擲球恢復比賽嗎？",
                     QuestionNumber = "18.8",
                     Answers =
                     [
@@ -528,6 +529,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Да",
+                            PhraseZhHk = "是",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -539,6 +541,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Не",
+                            PhraseZhHk = "不是",
                             AnswerNumber = "b"
                         }
                     ]
