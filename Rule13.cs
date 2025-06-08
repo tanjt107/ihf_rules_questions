@@ -856,6 +856,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Опомена за ЦРНОГ 6. Судија у пољу не види БЕЛОГ 11, који се налази између линије голмановог простора и линије слободног бацања, и даје знак за извођење слободног бацања за БЕЛУ екипу. БЕЛИ 11 добија лопту и долази у јасну ситуацију за постизање гола. Судија код гола уочава грешку. Исправна одлука?",
+                    PhraseZhHk = "警告黑隊6號後，裁判即鳴哨由白隊擲自由球。鳴哨時，場內裁判沒有發現白隊11號站在九米線與禁區線之間，白隊11號接球後有明顯得分機會，底線裁判發現了這個情況。如何判決？",
                     QuestionNumber = "13.13",
                     Answers =
                     [
@@ -867,6 +868,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља без прекида",
+                            PhraseZhHk = "繼續比賽",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -877,6 +879,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Понављање слободног бацања после корекције и звучног сигнала",
+                            PhraseZhHk = "更正位置後，鳴哨重擲自由球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -888,6 +891,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Судија код гола досуђује слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "由底線裁判判黑隊自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -898,6 +902,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Судија код гола даје опомену БЕЛОМ 11",
+                            PhraseZhHk = "由底線裁判警告白隊11號",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -908,6 +913,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "e"
                         }
                     ]

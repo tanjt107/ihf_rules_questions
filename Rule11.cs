@@ -356,6 +356,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 5 не успева да ухвати лопту. Он је потрчао за њом и зауставио је пре него што је прешла аут линију, али се сам није могао зауставити и прешао је аут линију. Исправна одлука?",
+                    PhraseZhHk = "白隊5號接球失誤，他追上去，並在球出邊線前將球截住；這時，他的腳卻出了邊線外。如何判決？",
                     QuestionNumber = "11.6",
                     Answers =
                     [
@@ -367,6 +368,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља без прекида",
+                            PhraseZhHk = "比賽繼續",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -378,6 +380,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -388,6 +391,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Аут за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊界外球",
                             AnswerNumber = "c"
                         }
                     ]

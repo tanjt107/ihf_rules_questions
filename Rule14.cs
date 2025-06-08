@@ -56,7 +56,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Тајм-аут; седмерац за ЦРНУ екипу; дисквалификација званичника А ЦРНЕ екипе; редукција ЦРНЕ екипе за једног играча у пољу за игру на 2 минута; писани извештај (црвени и плави картон показани од стране судија)",
-                            PhraseZhHk = "暫停，黑隊七米球，黑隊職員A被取消資格，黑隊“另一球員”退場兩分鐘，作出書面報告（裁判出示紅牌和藍牌）",
+                            PhraseZhHk = "暫停，黑隊七米球，黑隊職員A被取消資格，黑隊“另一球員”退場兩分鐘，作出書面報告（裁判出示紅牌及藍牌）",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1200,6 +1200,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 6 има лопту на линији слободног бацања ЦРНЕ екипе и бива оборен након несмотреног прекршаја ЦРНОГ 5. У исто време ЦРНИ 8 стоји на линији голмановог простора између свог гола и БЕЛОГ 6. Коректна одлука?",
+                    PhraseZhHk = "白隊6號在黑隊九米線處控球，黑隊5號嚴重犯規將白隊6號撞倒。當時黑隊8號位於己方球門與白隊6號之間的禁區線間。如何判決？",
                     QuestionNumber = "14.19",
                     Answers =
                     [
@@ -1211,6 +1212,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1224,6 +1226,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација ЦРНОГ 5 без писаног извештаја (црвени картон показан од стране судија)",
+                            PhraseZhHk = "取消黑隊5號資格（裁判出示紅牌）",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1235,6 +1238,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против ЦРНОГ 5",
+                            PhraseZhHk = "黑隊5號退場兩分鐘",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1245,6 +1249,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "d"
                         }
                     ]

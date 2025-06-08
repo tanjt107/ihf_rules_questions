@@ -1118,6 +1118,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Играч БЕЛИ 9 шутира на гол ЦРНЕ екипе. Голман ЦРНИ 1 брани шут и лопта се котрља према пољу за игру, где је чека играч ЦРНЕ екипе спреман да је ухвати. Како се ЦРНИ 1 приликом одбране повредио, судије прекидају игру, док је лопта још увек у голмановом простору. Исправна одлука?",
+                    PhraseZhHk = "黑隊守門員1號封擋白隊9號射門的球，球滾動向比賽場區，黑隊一名球員正在禁區外準備接球，由於黑隊1號擋球時受傷，裁判鳴哨中斷比賽，鳴哨時球仍在禁區內。如何恢復比賽？",
                     QuestionNumber = "6.18",
                     Answers =
                     [
@@ -1129,6 +1130,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1139,6 +1141,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊守門員球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1149,6 +1152,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "c",
                             Correct = true
                         }
@@ -1165,6 +1169,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Лопта се котрља по поду голмановог простора БЕЛЕ екипе. У том тренутку мерилац времена свира са стола и објашњава да је БЕЛИ 5 направио погрешну замену. Исправна одлука?",
+                    PhraseZhHk = "球在白隊禁區地面上滾動。這時，計時員鳴哨指白隊5號替補違規。如何判決？",
                     QuestionNumber = "6.19",
                     Answers =
                     [
@@ -1176,6 +1181,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊守門員球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1186,6 +1192,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења за БЕЛОГ 5",
+                            PhraseZhHk = "白隊5號退場兩分鐘",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1197,6 +1204,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу са линије слободног бацања БЕЛЕ екипе",
+                            PhraseZhHk = "黑隊在白隊九米線擲自由球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -1208,6 +1216,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу код простора за замену играча БЕЛЕ екипе",
+                            PhraseZhHk = "黑隊在白隊替補區擲自由球",
                             AnswerNumber = "d"
                         }
                     ]

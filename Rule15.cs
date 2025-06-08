@@ -1438,6 +1438,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "ЦРНИ 4 има исправну позицију за извођење аута, који је досуђен за његову екипу. Пошто није видео слободног саиграча коме би додао лопту, он удари лоптом о под унутар терена и поново је ухвати. Исправна одлука?",
+                    PhraseZhHk = "黑隊4號站在正確位置準備擲界外球，但他不知可傳給那位隊友，於是在場內拍了一次球。如何判決？",
                     QuestionNumber = "15.23",
                     Answers =
                     [
@@ -1449,6 +1450,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу, без звучног сигнала",
+                            PhraseZhHk = "白隊自由球，毋須鳴哨恢復比賽",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1460,6 +1462,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Аут за БЕЛУ екипу, после звучног сигнала",
+                            PhraseZhHk = "白隊在鳴哨後，擲界外球恢復比賽",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1470,6 +1473,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Понављање аута за ЦРНУ екипу, после звучног сигнала",
+                            PhraseZhHk = "黑隊在鳴哨後，重擲界外球恢復比賽",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1480,6 +1484,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу, после звучног сигнала",
+                            PhraseZhHk = "黑隊在鳴哨後，擲自由球恢復比賽",
                             AnswerNumber = "d"
                         }
                     ]
