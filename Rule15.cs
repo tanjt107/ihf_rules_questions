@@ -1500,6 +1500,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "За БЕЛУ екипу је досуђено слободно бацање које изводи БЕЛИ 9, веома брзо из скока и без звучног сигнала. Лопта долази до БЕЛОГ 4, који је потпуно сам испред гола ЦРНЕ екипе. Исправна одлука?",
+                    PhraseZhHk = "白隊得自由球，白隊9號迅速跳起執行擲球(毋須裁判鳴哨)。球傳給單獨面向黑隊守門員的隊友白隊4號。如何判決？",
                     QuestionNumber = "15.24",
                     Answers =
                     [
@@ -1511,6 +1512,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља без прекида",
+                            PhraseZhHk = "比賽繼續",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1521,6 +1523,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1531,6 +1534,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Понављање слободног бацања за БЕЛУ екипу после звучног сигнала",
+                            PhraseZhHk = "鳴哨後，白隊重擲自由球",
                             AnswerNumber = "c",
                             Correct = true
                         }
@@ -1547,6 +1551,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "За БЕЛУ екипу је досуђено слободно бацање које БЕЛИ 5 изводи врло брзо, у трку и без звучног сигнала. БЕЛИ 5 жели да дода лопту БЕЛОМ 4, али ЦРНИ 3 пресеца додавање и налази се сам испред гола БЕЛЕ екипе. Исправна одлука?",
+                    PhraseZhHk = "白隊得自由球，白隊5號迅速在跑動中執行擲球(毋須裁判鳴哨)。白隊5號傳球給白隊4號，但被站在白隊4號前的黑隊3號截取了球，黑隊3號當時正單獨面向龍門。如何判決？",
                     QuestionNumber = "15.25",
                     Answers =
                     [
@@ -1558,6 +1563,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља без прекида",
+                            PhraseZhHk = "比賽繼續",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1569,6 +1575,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Понављање слободног бацања после звучног сигнала",
+                            PhraseZhHk = "鳴哨後，重擲自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1579,6 +1586,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Понављање слободног бацања и прогресивна казна против ЦРНОГ 3",
+                            PhraseZhHk = "重擲自由球，漸進處罰黑隊3號",
                             AnswerNumber = "c"
                         }
                     ]

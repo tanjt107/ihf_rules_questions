@@ -2704,6 +2704,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "У 29:00 првог полувремена БЕЛИ 5 је искључен на 2 минута. После одмора између два полувремена судија у пољу даје знак за почетак другог полувремена. Три секунде после тога оглашава се мерилац времена. БЕЛА екипа има 7 играча на терену! Исправна одлука?",
+                    PhraseZhHk = "於上半場29:00，白隊5號5被判退場兩分鐘。中場休息完結後，場內裁判嗚哨表示下半場比賽開始，計時員於3秒後嗚哨通知裁判白隊有7名球員在場內。如何判決？",
                     QuestionNumber = "4.39",
                     Answers =
                     [
@@ -2716,6 +2717,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Један играч БЕЛЕ екипе мора да напусти терен; нема додатне казне",
+                            PhraseZhHk = "白隊一名球員必須退場，不用判罰",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -2726,6 +2728,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења за додатног играча БЕЛЕ екипе",
+                            PhraseZhHk = "白隊被判退場兩分鐘",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -2740,6 +2743,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "БЕЛА екипа ће бити редукована за два играча у пољу за 57 секунди и за једног играча за 1 минут и 3 секунде",
+                            PhraseZhHk = "白隊額外一名球員退場，場內減少兩名球員57秒",
                             AnswerNumber = "c",
                             Correct = true
                         }
@@ -2756,6 +2760,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Време игре: 43:27 – прекид од стране мериоца времена, после гола БЕЛОГ 15 и почетног бацања. Мерилац времена обавештава судије да БЕЛИ 15 није уписан у записник утакмице. 14 играча БЕЛЕ екипе је већ уписано. Судије установе да играч БЕЛИ 11 није присутан. Исправна одлука?",
+                    PhraseZhHk = "當比賽至43分27秒，白隊15號射球得分。黑隊開球後，計時員鳴哨告知裁判，白隊15號未有在記錄表上登記，紀錄表上白隊已有14名球員。裁判發現白隊11號沒有到場。如何判決？",
                     QuestionNumber = "4.40",
                     Answers =
                     [
@@ -2767,6 +2772,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол се поништава",
+                            PhraseZhHk = "入球取消",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -2777,6 +2783,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол је исправан",
+                            PhraseZhHk = "得分有效",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -2791,6 +2798,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "БЕЛИ 11 се брише, а БЕЛИ 15 се уписује у записник, уколико је ово у складу са прописима одговорне федерације",
+                            PhraseZhHk = "刪除白隊11號，登記白隊15號在紀錄表上",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -2802,6 +2810,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "БЕЛОМ 15 није дозвољено да игра и мора напустити терен",
+                            PhraseZhHk = "白隊15號不允許作賽並需離開比賽場地",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -2812,6 +2821,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна за одговорног представника БЕЛЕ екипе",
+                            PhraseZhHk = "漸進處罰白隊“球隊職員代表”",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -2824,6 +2834,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Писани извештај у складу са прописима надлежне федерације",
+                            PhraseZhHk = "在記錄表上註明",
                             AnswerNumber = "f",
                             Correct = true
                         }

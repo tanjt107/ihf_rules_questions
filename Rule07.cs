@@ -1211,6 +1211,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 15 блокира додавање ЦРНОГ 9 и лопта се котрља по поду. БЕЛИ 15 и ЦРНИ 9 се бацају за лоптом, БЕЛИ 15 ухвати лопту и падне на под, затим устане, направи 3 корака са лоптом и дода лопту саиграчу који постиже гол. Исправна одлука?",
+                    PhraseZhHk = "白隊15號阻擋黑隊12號的傳球後，球在地上滾動。白隊15號與黑隊12號同時撲向球，白隊15號把球接住後站起來，然後他走了三步並將球傳給隊友射入球門。如何判決？",
                     QuestionNumber = "7.21",
                     Answers =
                     [
@@ -1222,6 +1223,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за БЕЛУ екипу",
+                            PhraseZhHk = "白隊得分",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1233,6 +1235,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "b"
                         }
                     ]

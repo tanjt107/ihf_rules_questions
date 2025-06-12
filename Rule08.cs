@@ -3192,6 +3192,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голман БЕЛИ 12 трчи из голмановог простора према ЦРНОМ 10 који је у контранападу. БЕЛИ 12 прилази ЦРНОМ 10 са стране и хвата га, али ЦРНИ 10 хвата лопту и упути шут у празан гол. Исправна одлука?",
+                    PhraseZhHk = "白隊守門員12號跑向正在進行反擊的黑隊10號，白隊12號走近並從側邊抱住黑隊10號，但黑隊10號仍能接住球及射進空門，如何判決？",
                     QuestionNumber = "8.43",
                     Answers =
                     [
@@ -3203,6 +3204,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Почетно бацање",
+                            PhraseZhHk = "開球",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -3214,6 +3216,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм - аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -3225,6 +3228,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Дисквалификација БЕЛОГ 12",
+                            PhraseZhHk = "取消白隊12號比賽資格",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -3235,6 +3239,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута исккључења против БЕЛОГ 12",
+                            PhraseZhHk = "白隊12號退場兩分鐘",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -3246,6 +3251,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "e"
                         }
                     ]
@@ -3261,6 +3267,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голман БЕЛИ 16 изводи голманово бацање, упутивши дугачко додавање према саиграчу БЕЛОМ 4, који трчи у контранапад. БЕЛИ 4 скаче да ухвати лопту и одмах након тога се судари са голманом ЦРНИМ 1, који је одлучио да напусти свој голманов простор у покушају да заустави контранапад. У тренутку судара ЦРНИ 1 је стајао потпуно мирно испред линије 9 метара. После судара, БЕЛИ 4 изгуби контролу над телом и пада на под. Исправна одлука?",
+                    PhraseZhHk = "白隊守門員12號長傳給白隊4號進行快擊反攻。白隊4號跳起後把球接住，黑隊守門員1號離開禁區試圖阻止其快攻。黑隊守門員1號隨即與白隊4號發生碰撞，白隊4號失去平衡倒地。與此同時，白隊4號站在九米線的前方。如何判決？",
                     QuestionNumber = "8.44",
                     Answers =
                     [
@@ -3272,6 +3279,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прекршај у нападу – слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "進攻犯規，黑隊自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -3282,6 +3290,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -3292,6 +3301,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3303,6 +3313,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна против ЦРНОГ 1",
+                            PhraseZhHk = "漸進處罰黑隊1號",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -3316,6 +3327,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација без писаног извештаја за ЦРНОГ 1 (црвени картон показан од стране судија)",
+                            PhraseZhHk = "取消黑隊1號比賽資格（裁判出示紅牌）",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -3332,6 +3344,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Који од наведених прекршаја мора бити кажњен дисквалификацијом са писаним извештајем, у складу са правилима (црвени и плави картон показани од стране судија)?",
+                    PhraseZhHk = "根據球例，下列那種情况必須判罰取消比賽資格及提交書面報告（裁判出示紅牌及藍牌）？",
                     QuestionNumber = "8.45",
                     Answers =
                     [
@@ -3343,6 +3356,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Играч пљуне ка противнику и погоди га",
+                            PhraseZhHk = "球員攻擊對隊球員或吐口水",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -3354,6 +3368,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Званичник покушава да повуче екипу са терена",
+                            PhraseZhHk = "球隊職員試圖強迫球隊放棄比賽",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -3368,6 +3383,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Извођач седмерца погоди голмана у главу, а да голман притом није померао главу у правцу лопте",
+                            PhraseZhHk = "擲七米球時，球擊中沒有移動的守門員臉部",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -3380,6 +3396,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "После судијске одлуке, играч демонстративно баци лопту на трибине",
+                            PhraseZhHk = "裁判判决後，球員明顯不滿地把球扔向觀眾席",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -3390,6 +3407,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Играч изван поља за игру пљуне гледаоца, тако да га погоди",
+                            PhraseZhHk = "球員在場外向觀眾席吐口水，並吐中觀眾",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -3401,6 +3419,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Играч намерно удара противника у стомак",
+                            PhraseZhHk = "故意攻擊對隊球員的胃部",
                             AnswerNumber = "f",
                             Correct = true
                         }
