@@ -203,6 +203,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "Које од следећих тврдњи везане за простор за почетно бацање су тачне?",
+                    PhraseZhHk = "關於開球位置，下列哪些說法是正確的？",
                     QuestionNumber = "1.4",
                     Answers =
                     [
@@ -214,6 +215,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Састоји се од круга пречника 3 метра",
+                            PhraseZhHk = "它由一個直徑3米的圓組成",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -224,6 +226,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Састоји се од круга пречника 4 метра",
+                            PhraseZhHk = "它由一個直徑4米的圓組成",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -237,6 +240,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Простор за почетно бацање може бити простор другачије боје у односу на терен за игру",
+                            PhraseZhHk = "開球位置的顏色可以與比賽場區不同顏色",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -248,6 +252,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Простор за почетно бацање може бити кружна линија",
+                            PhraseZhHk = "開球位置可以是一個圓形的線",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -259,6 +264,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Коришћење простора за почетно бацање је обавезно за сва рукометна такмичења",
+                            PhraseZhHk = "所有手球賽事都必須設有開球位置",
                             AnswerNumber = "e"
                         }
                     ]

@@ -2933,6 +2933,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "У 78:00 играч БЕЛИ 7 добија 2 минута искључења. Касније се утакмица заврши нерешено, а пропозиције захтевају да се победник добије извођењем тај-брејк седмераца. БЕЛИ 7 је од стране одговорног представника екипе одређен да учествује у извођењу седмераца. БЕЛИ 7 изводи седмерац и постиже гол. Исправна одлука?",
+                    PhraseZhHk = "比賽進行到78:00時，白隊7號被罰退場兩分鐘；比賽以和局結束並需要擲七米球決勝。球隊職員代表派白隊7號擲七米球並射門得分。如何判決？",
                     QuestionNumber = "2.42",
                     Answers =
                     [
@@ -2944,6 +2945,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол је важећи, БЕЛОМ 7 је дозвољено учешће",
+                            PhraseZhHk = "得分有效，白隊7號具備參賽資格",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -2955,6 +2957,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол није важећи, БЕЛОМ 7 није дозвољено учешће",
+                            PhraseZhHk = "得分無效，白隊7號不具備參賽資格",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -2965,6 +2968,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Шут се поништава",
+                            PhraseZhHk = "擲球無效",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -2975,6 +2979,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Дисквалификација БЕЛОГ 7",
+                            PhraseZhHk = "取消白隊7號資格",
                             AnswerNumber = "d"
                         }
                     ]
@@ -2990,6 +2995,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "У 55:00 одговорни представник БЕЛЕ екипе тражи екипни тајм-аут, који је други на утакмици. У 59:00 исти одговорни представник тражи трећи тајм-аут. Исправна одлука?",
+                    PhraseZhHk = "比賽進行到55:00時，白隊“球隊職員代表”要求第二次隊暫停。在59:00時，該職員代表要求第三次隊暫停。如何處理？",
                     QuestionNumber = "2.43",
                     Answers =
                     [
@@ -3001,6 +3007,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Екипни тајм-аут је могућ",
+                            PhraseZhHk = "給予隊暫停",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -3011,6 +3018,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Екипни тајм-аут није могућ",
+                            PhraseZhHk = "不可給予隊暫停",
                             AnswerNumber = "b",
                             Correct = true
                         }
