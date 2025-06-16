@@ -2882,7 +2882,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Додељује се тајм-аут",
-                            PhraseZhHk = "給予暫停",
+                            PhraseZhHk = "給予隊暫停",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -2905,7 +2905,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Не додељује се тајм-аут",
-                            PhraseZhHk = "不給予暫停",
+                            PhraseZhHk = "不給予隊暫停",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -3035,6 +3035,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа је у нападу. Званичник А БЕЛЕ екипе жели затражити скипни тајм-аут и одлази до записничког стола где ставља зелени картон испред мериоца времена. У том тренутку БЕЛИ 4 шутира према голу и постиже погодак. Мерилац времена свира за екипни тајм-аут кад је лопта већ прешла гол линију ЦРНЕ екипе. Исправна одлука?",
+                    PhraseZhHk = "白隊進攻，白隊球隊職員A要求“隊暫停”，將“綠牌”放在計時員前的檯面上。這時，白隊4號射門得分，在球越過球門線後，計時員鳴哨，如何判決？",
                     QuestionNumber = "2.44",
                     Answers =
                     [
@@ -3046,6 +3047,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за БЕЛУ екипу",
+                            PhraseZhHk = "白隊得分",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -3058,6 +3060,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол није исправан, зато што је БЕЛА екипа затражила екипни тајм-аут",
+                            PhraseZhHk = "得分無效，因為白隊要求“隊暫停”",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -3068,6 +3071,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Екипни тајм-аут за БЕЛУ екипу",
+                            PhraseZhHk = "給予白隊暫停",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -3079,6 +3083,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Није дозвољен екипни тајм-аут за БЕЛЕ зато што више немају лопту у поседу",
+                            PhraseZhHk = "不給予白隊暫停，因為白隊已經失去控球權",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -3090,6 +3095,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Зелени картон се мора вратити екипи",
+                            PhraseZhHk = "計時員將“綠牌”退還球隊職員",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -3101,6 +3107,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Почетно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊開球",
                             AnswerNumber = "f",
                             Correct = true
                         }
@@ -3117,6 +3124,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа је имала други екипни тајм-аут у 55:10. У 59:25, званичник А БЕЛЕ екипе жели затражити трећи екипни тајм-аут за своју екипу, те ставља зелени картон на записнички сто испред мериоца времена. БЕЛА екипа има лопту у поседу. Мерилац времена свира и зауставља време и показује екипни тајм-аут за БЕЛЕ. Исправна одлука?",
+                    PhraseZhHk = "白隊在55:10時要求了第二次隊暫停。比賽進行到59:25，白隊控球，白隊球隊職員A將“綠牌”放在計時員前的檯面上，要求第三次隊暫停。計時員鳴哨，同時停止計時器，並向裁判指出白隊要求隊暫停，如何判決？",
                     QuestionNumber = "2.45",
                     Answers =
                     [
@@ -3128,6 +3136,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Екипни тајм-аут за БЕЛУ екипу",
+                            PhraseZhHk = "給予白隊暫停",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -3138,6 +3147,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Није дозвољен екипни тајм-аут",
+                            PhraseZhHk = "不給予暫停",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -3149,6 +3159,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна за званичника А БЕЛЕ екипе",
+                            PhraseZhHk = "漸進處罰白隊球隊職員A",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -3159,6 +3170,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља слободним бацањем за БЕЛУ екипу",
+                            PhraseZhHk = "比賽由白隊擲自由球恢復比賽",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -3170,6 +3182,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља слободним бацањем за ЦРНУ екипу",
+                            PhraseZhHk = "比賽由黑隊擲自由球恢復比賽",
                             AnswerNumber = "e"
                         }
                     ]
