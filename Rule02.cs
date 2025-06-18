@@ -3095,7 +3095,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Зелени картон се мора вратити екипи",
-                            PhraseZhHk = "計時員將“綠牌”退還球隊職員",
+                            PhraseZhHk = "將“綠牌”退還給球隊",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -3107,7 +3107,6 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Почетно бацање за ЦРНУ екипу",
-                            PhraseZhHk = "黑隊開球",
                             AnswerNumber = "f",
                             Correct = true
                         }
@@ -3198,6 +3197,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа жели затражити екипни тајм-аут. Званичник А БЕЛЕ екипе ставља зелени картон испред мериоца времена. У том тренутку, БЕЛИ 9 шутира према голу ЦРНЕ екипе. Мерилац времена свира док је лопта у ваздуху. Одмах после звиждука, голман ЦРНИ 12 хвата лопту. Која је исправна одлука?",
+                    PhraseZhHk = "白隊要求隊暫停。白隊球隊職員A將“綠牌”放在計時員前的檯面上。這時，白隊9號射門，球在空中時，計時員鳴哨，隨後黑隊守門員12號接住了球。如何判決？",
                     QuestionNumber = "2.46",
                     Answers =
                     [
@@ -3209,6 +3209,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Није могућ екипни тајм-аут зато што БЕЛА екипа нема лопту у поседу",
+                            PhraseZhHk = "不給予暫停，因為白隊已經失去控球權",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -3219,6 +3220,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Екипни тајм-аут за БЕЛУ екипу",
+                            PhraseZhHk = "給予白隊暫停",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -3230,6 +3232,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Зелени картон се враћа БЕЛОЈ екипи",
+                            PhraseZhHk = "計時員退還“綠咭”給白隊“球隊職員代表”",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -3240,6 +3243,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља голмановим бацањем за ЦРНУ екипу",
+                            PhraseZhHk = "比賽由黑隊擲守門員球恢復比賽",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -3250,6 +3254,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља слободним бацањем за БЕЛУ екипу",
+                            PhraseZhHk = "比賽由白隊擲自由球恢復比賽",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -3266,6 +3271,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа жели затражити екипни тајм-аут. Званичник А БЕЛЕ екипе ставља зелени картон испред мериоца времена. Пре него што је мерилац времена звиждао за екипни тајм-аут, БЕЛИ 9 шутира на гол. Ударац је заустављен од стране голмана ЦРНОГ 12 и мерилац времена свира док се лопта котрљала у голмановом простору. Која је исправна одлука?",
+                    PhraseZhHk = "白隊要求隊暫停。白隊球隊職員A將“綠牌”放在計時員前的檯面上。這時，白隊9號射門，黑隊守門員12號擋了球後，球在禁區內滾動，這時，計時員鳴哨，如何判決？",
                     QuestionNumber = "2.47",
                     Answers =
                     [
@@ -3277,6 +3283,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Није могућ екипни тајм-аут зато што БЕЛА екипа нема лопту у поседу",
+                            PhraseZhHk = "不給予暫停，因為白隊已經失去控球權",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -3288,6 +3295,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Екипни тајм-аут за БЕЛУ екипу",
+                            PhraseZhHk = "給予白隊暫停",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -3298,6 +3306,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Зелени картон се враћа БЕЛОЈ екипи",
+                            PhraseZhHk = "計時員退還“綠咭”給白隊“球隊職員代表”",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3309,6 +3318,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља голмановим бацањем за ЦРНУ екипу",
+                            PhraseZhHk = "比賽由黑隊擲守門員球恢復比賽",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -3319,6 +3329,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља слободним бацањем за БЕЛУ екипу",
+                            PhraseZhHk = "比賽由白隊擲自由球恢復比賽",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -3329,6 +3340,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља слободним бацањем за ЦРНУ екипу",
+                            PhraseZhHk = "比賽由黑隊擲自由球恢復比賽",
                             AnswerNumber = "f",
                             Correct = true
                         }
@@ -3345,6 +3357,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа жели затражити екипни тајм-аут. Званичник А БЕЛЕ екипе ставља зелени картон испред мериоца времена. Пре него што је мерилац времена звиждао за екипни тајм-аут, БЕЛИ 9 шутира на гол. Ударац је одбрањен од стране голмана ЦРНОГ 12, мерилац времена свира после одбране док је лопта у ваздуху изнад голмановог простора. Која је исправна одлука?",
+                    PhraseZhHk = "白隊要求隊暫停。白隊球隊職員A將“綠牌”放在計時員前的檯面上。這時，白隊9號射門，黑隊守門員12號擋了球後，計時員鳴哨，球在禁區空中，如何判決？",
                     QuestionNumber = "2.48",
                     Answers =
                     [
@@ -3356,6 +3369,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Није могућ екипни тајм-аут зато што БЕЛА екипа нема лопту у поседу",
+                            PhraseZhHk = "不給予暫停，因為白隊已經失去控球權",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -3366,6 +3380,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Екипни тајм-аут за БЕЛУ екипу",
+                            PhraseZhHk = "給予白隊暫停",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -3377,6 +3392,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Зелени картон се враћа БЕЛОЈ екипи",
+                            PhraseZhHk = "計時員退還“綠咭”給白隊“球隊職員代表”",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -3387,6 +3403,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља голмановим бацањем за ЦРНУ екипу",
+                            PhraseZhHk = "比賽由黑隊擲守門員球恢復比賽",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -3397,6 +3414,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља слободним бацањем за БЕЛУ екипу",
+                            PhraseZhHk = "比賽由白隊擲自由球恢復比賽",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -3408,6 +3426,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља слободним бацањем за ЦРНУ екипу",
+                            PhraseZhHk = "比賽由黑隊擲自由球恢復比賽",
                             AnswerNumber = "f"
                         }
                     ]
@@ -3423,6 +3442,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа жели затражити екипни тајм-аут. Званичник А БЕЛЕ екипе ставља зелени картон испред мериоца времена. Пре него што је мерилац времена звиждао за екипни тајм-аут, БЕЛИ 11 направи прекршај у нападу. Мерилац времена свира тренутак пре него што су судије досудиле (звиждале) прекршај у нападу. Која је исправна одлука?",
+                    PhraseZhHk = "白隊要求隊暫停。白隊球隊職員A將“綠牌”放在計時員前的檯面上。這時，白隊11號進攻犯規，在裁判鳴哨判進攻犯規前，計時員鳴哨，如何判決？",
                     QuestionNumber = "2.49",
                     Answers =
                     [
@@ -3437,6 +3457,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Судије одлучују да није могућ екипни тајм-аут зато што се прекршај у нападу десио пре него што је мерилац времена звиждао за екипни тајм-аут",
+                            PhraseZhHk = "不給予暫停，因為白隊已經失去控球權",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -3448,6 +3469,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Екипни тајм-аут за БЕЛУ екипу",
+                            PhraseZhHk = "給予白隊暫停",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -3458,6 +3480,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Зелени картон се враћа БЕЛОЈ екипи",
+                            PhraseZhHk = "計時員退還“綠咭”給白隊“球隊職員代表”",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3469,6 +3492,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља слободним бацањем за ЦРНУ екипу",
+                            PhraseZhHk = "比賽由黑隊擲自由球恢復比賽",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -3480,6 +3504,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља слободним бацањем за БЕЛУ екипу",
+                            PhraseZhHk = "比賽由白隊擲自由球恢復比賽",
                             AnswerNumber = "e"
                         }
                     ]
