@@ -2413,7 +2413,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Ако се установи да играчи у простору за замену носе неисправну опрему након почетка утакмице.",
-                            PhraseZhHk = "於開賽後發現場內球員的裝備不合符規則"，
+                            PhraseZhHk = "於開賽後發現場內球員的裝備不合符規則",
                             AnswerNumber = "g"
                         }
                     ]
