@@ -1827,7 +1827,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 5 је сам са голманом ЦРНИМ 1 и има јасну ситуацију за постизање гола. ЦРНИ 11 прави погрешну замену, тако што улази на терен пре него што је ЦРНИ 9 изашао. Мерилац времена свира због овог прекршаја, тачно када је БЕЛИ 5 спреман да шутира. Исправна одлука?",
-                    PhraseZhHk = "白隊5號單獨面對黑隊守門員並有明顯得分機會。就在黑隊5號準備射門時，計時員鳴哨通知裁判黑隊11號替補犯規。如何判決？",
+                    PhraseZhHk = "白隊5號單獨面對黑隊守門員1號並有明顯得分機會。就在黑隊5號準備射門時，計時員鳴哨通知裁判黑隊11號替補犯規。如何判決？",
                     QuestionNumber = "4.27",
                     Answers =
                     [
@@ -2851,6 +2851,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голман БЕЛИ 12 лежи на поду због повреде колена, након што је одбранио шут ЦРНЕ екипе. Исправна одлука?",
+                    PhraseZhHk = "白隊守門員12號封擋黑隊射門後膝蓋受傷倒地。如何判決？",
                     QuestionNumber = "4.41",
                     Answers =
                     [
@@ -2863,6 +2864,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "БЕЛИ 12 може наставити да игра, после указане помоћи на терену",
+                            PhraseZhHk = "白隊12號接受治理後可以繼續比賽",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -2876,6 +2878,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Две особе БЕЛЕ екипе, које имају право учешћа, могу ући у поље за игру после ручних сигнала 15 и 16, показаних од стране судија, да пруже медицинску помоћ БЕЛОМ 12",
+                            PhraseZhHk = "在裁判作出手號15及16後，白隊兩人可進入比賽場地援助受傷白隊12號",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -2890,6 +2893,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Само једна особа БЕЛЕ екипе која има право учешћа, може ући у поље за игру после ручних сигнала 15 и 16, показаних од стране судија, да пружи медицинску помоћ БЕЛОМ 12",
+                            PhraseZhHk = "在裁判作出手號15及16後，白隊一人可進入比賽場地援助受傷白隊12號",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -2903,6 +2907,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "После указане медицинске помоћи на терену, БЕЛИ 12 се може вратити на терен после трећег напада његове екипе",
+                            PhraseZhHk = "白隊12號於球場內接受治理後，於其球隊完成3次進攻後，才可以進場比賽",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -2917,6 +2922,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Независно од броја напада БЕЛИ 12 се може вратити на терен, када се игра наставља после паузе између два полувремена",
+                            PhraseZhHk = "白隊12號不用數算進攻次數就可於半場後返回場內比賽",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -2931,6 +2937,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Ако званичници екипе одбијају да пруже неопходну помоћ БЕЛОМ 12, одговорни представник БЕЛЕ екипе ће бити прогресивно кажњен",
+                            PhraseZhHk = "如球隊職員拒絕進場援助白隊12號，則漸進處罰白隊“球隊職員代表”",
                             AnswerNumber = "f",
                             Correct = true
                         }
@@ -2947,6 +2954,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голман БЕЛИ 1 брани шут ЦРНЕ екипе. Том приликом удари главом у стативу. Потребна му је медицинска помоћ на терену. Исправна одлука?",
+                    PhraseZhHk = "白隊守門員1號封擋黑隊射門時，頭部撞到球門柱，他需要在場內接受治理。如何判決？",
                     QuestionNumber = "4.42",
                     Answers =
                     [
@@ -2961,6 +2969,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "БЕЛИ 1 може наставити да игра, након указане медицинске помоћи на терену, због тога што је узрок помоћи била повреда главе",
+                            PhraseZhHk = "白隊1號可以接受治理後繼續比賽，因為他是頭部受傷",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -2974,6 +2983,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "После указане медицинске помоћи на терену БЕЛИ 1 се може вратити после трећег напада своје екипе",
+                            PhraseZhHk = "白隊1號於球場內接受治理後，於其球隊完成3次進攻後，才可以進場比賽",
                             AnswerNumber = "b",
                             Correct = true
                         }
@@ -2990,6 +3000,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Након указане медицинске помоћи на терену БЕЛИ 7 седи на клупи у простору за замену играча. За време првог напада БЕЛЕ екипе, ЦРНИ 2 ухвати лопту и трчи у контранапад сам, једино се голман БЕЛИ 12 налази између њега и гола БЕЛЕ екипе. Пре него што је ЦРНИ 2 могао да шутира на гол, БЕЛИ 7 улази на терен, правећи замену са БЕЛИМ 9. Исправна одлука?",
+                    PhraseZhHk = "於球場內接受治理後，白隊7號坐在替補。在白隊進攻時，黑隊2號截取了球，他自己運球發動反擊，單獨面對白隊守門員12號，在黑隊2號準備射門前，白隊7號與白隊9號正常替補，如何判決？",
                     QuestionNumber = "4.43",
                     Answers =
                     [
@@ -3004,6 +3015,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Мерилац времена чека док ЦРНИ 2 не изведе шут на гол, пре него што прекине игру због погрешне замене БЕЛЕ екипе",
+                            PhraseZhHk = "計時員等黑隊2號射門後鳴哨，指出替補犯規",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -3016,6 +3028,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Мерилац времена тренутно прекида игру због погрешне замене БЕЛЕ екипе",
+                            PhraseZhHk = "計時員立即鳴哨，指出替補犯規",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -3027,6 +3040,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3038,6 +3052,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења за БЕЛОГ 7",
+                            PhraseZhHk = "白隊7號退場兩分鐘",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -3052,6 +3067,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Дисквалификација без писаног извештаја за БЕЛОГ 7 (црвени картон показан од стране судија)",
+                            PhraseZhHk = "取消白隊7號資格（裁判出示紅牌）",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -3062,6 +3078,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "f",
                             Correct = true
                         },
@@ -3073,6 +3090,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "g"
                         },
                         new AnswerDto
@@ -3086,6 +3104,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Без обзира на број напада своје екипе, БЕЛИ 7 се може вратити на терен после издржане казне од 2 минута",
+                            PhraseZhHk = "白隊12號不用數算進攻次數就可於兩分鐘後返回場內比賽",
                             AnswerNumber = "h",
                             Correct = true
                         }
