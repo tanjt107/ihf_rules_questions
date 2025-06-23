@@ -3000,7 +3000,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Након указане медицинске помоћи на терену БЕЛИ 7 седи на клупи у простору за замену играча. За време првог напада БЕЛЕ екипе, ЦРНИ 2 ухвати лопту и трчи у контранапад сам, једино се голман БЕЛИ 12 налази између њега и гола БЕЛЕ екипе. Пре него што је ЦРНИ 2 могао да шутира на гол, БЕЛИ 7 улази на терен, правећи замену са БЕЛИМ 9. Исправна одлука?",
-                    PhraseZhHk = "於球場內接受治理後，白隊7號坐在替補。在白隊進攻時，黑隊2號截取了球，他自己運球發動反擊，單獨面對白隊守門員12號，在黑隊2號準備射門前，白隊7號與白隊9號正常替補，如何判決？",
+                    PhraseZhHk = "於球場內接受治理後，白隊7號坐在替補補席上。在白隊進攻時，黑隊2號截取了球，他自己運球發動反擊，單獨面對白隊守門員12號，在黑隊2號準備射門前，白隊7號與白隊9號正常替補，如何判決？",
                     QuestionNumber = "4.43",
                     Answers =
                     [
@@ -3121,6 +3121,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "После указане медицинске помоћи на терену ЦРНИ 11 седи на клупи жалећи се на судијску одлуку. Због тога ЦРНИ 11 добија своје прво искључење на утакмици. За време другог напада ЦРНЕ екипе, ЦРНИ 11 се враћа у поље за игру, након издржане казне од 2 минута. Исправна одлука?",
+                    PhraseZhHk = "於球場內接受治理後，黑隊11號坐在替補席上抗議裁判的判決，他被判第一個退場兩分鐘，黑隊第二次進攻後，黑隊11號於兩分鐘退場後返回場內比賽。如何判決？",
                     QuestionNumber = "4.44",
                     Answers =
                     [
@@ -3132,6 +3133,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -3142,6 +3144,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења за ЦРНОГ 11",
+                            PhraseZhHk = "黑隊11號退場兩分鐘",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -3152,6 +3155,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља",
+                            PhraseZhHk = "比賽繼續",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3163,6 +3167,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "d"
                         }
                     ]
@@ -3178,6 +3183,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "ЦРНИ 10 добија лопту на линији слободног бацања. Одмах након што је ухватио лопту бива оборен од стране БЕЛОГ 3. Пао је тако незгодно да је повредио лакат и потребна му је медицинска помоћ на терену. Исправна одлука?",
+                    PhraseZhHk = "黑隊10號在自由球線接到球，剛接到球就被白隊3號拉倒，他手肘受傷，需要在場內接受治理。如何判決？",
                     QuestionNumber = "4.45",
                     Answers =
                     [
@@ -3189,6 +3195,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Опомена за БЕЛОГ 3",
+                            PhraseZhHk = "警告白隊3號",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -3199,6 +3206,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења за БЕЛОГ 3",
+                            PhraseZhHk = "白隊3號退場兩分鐘",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -3213,6 +3221,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Две особе ЦРНЕ екипе, које имају право учешћа, могу ући у поље за игру после ручних сигнала 15 и 16, показаних од стране судија, да пруже медицинску помоћ ЦРНОМ 10",
+                            PhraseZhHk = "在裁判作出手號15及16後，黑隊兩人可進入比賽場地援助黑隊10號",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3225,6 +3234,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "ЦРНИ 10 може наставити да игра после указане медицинске помоћи у пољу за игру",
+                            PhraseZhHk = "黑隊10號接受治理後可以繼續比賽",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -3239,6 +3249,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "После указане медицинске помоћи у пољу за игру, ЦРНИ 10 се може вратити у поље за игру после трећег напада своје екипе",
+                            PhraseZhHk = "黑隊10號於球場內接受治理後，於其球隊完成3次進攻後，才可以進場比賽",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -3249,6 +3260,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "f",
                             Correct = true
                         }
