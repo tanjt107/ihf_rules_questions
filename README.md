@@ -4,6 +4,8 @@
 
 This project manages the IHF rules and questions in multiple languages. I updated the structure to make it easier for everyone who wants to contribute. To add a new language or complete missing translations, follow the instructions below.
 
+***In the following days I will already publish the English updates applied from the 1st of July 2025.***
+
 ## File Structure
 
 The rules are defined in a RuleDto object that contains a list of QuestionDto objects, which in turn hold AnswerDto objects. There will be a separate folder for each language.
