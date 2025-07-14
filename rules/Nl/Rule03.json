@@ -30,52 +30,52 @@
     },
     {
       "QuestionNumber": "3.2",
-      "Phrase": "Welke van de volgende ballen moet de scheidrechter kiezen voor een wedstrijd heren senioren?",
+      "Phrase": "Welke van de volgende ballen, moet de scheidrechter kiezen voor een wedstrijd heren senioren?",
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "omtrek 57 cm, gewicht 450 g",
+          "Phrase": "Omtrek 57 cm, gewicht 450 g",
           "Correct": false
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "omtrek 58 cm, gewicht 400 g",
+          "Phrase": "Omtrek 58 cm, gewicht 400 g",
           "Correct": false
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "omtrek 59 cm, gewicht 425 g",
+          "Phrase": "Omtrek 59 cm, gewicht 425 g",
           "Correct": true
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "omtrek 60 cm, gewicht 500 g",
+          "Phrase": "Omtrek 60 cm, gewicht 500 g",
           "Correct": false
         }
       ]
     },
     {
       "QuestionNumber": "3.3",
-      "Phrase": "Welke van de volgende ballen moet de scheidrechter kiezen voor een wedstrijd dames senioren?",
+      "Phrase": "Welke van de volgende ballen, moet de scheidrechter kiezen voor een wedstrijd dames senioren?",
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "omtrek 53 cm, gewicht 350 g",
+          "Phrase": "Omtrek 53 cm, gewicht 350 g",
           "Correct": false
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "omtrek 54 cm, gewicht 300 g",
+          "Phrase": "Omtrek 54 cm, gewicht 300 g",
           "Correct": false
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "omtrek 55 cm, gewicht 425 g",
+          "Phrase": "Omtrek 55 cm, gewicht 425 g",
           "Correct": false
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "omtrek 56 cm, gewicht 375 g",
+          "Phrase": "Omtrek 56 cm, gewicht 375 g",
           "Correct": true
         }
       ]
@@ -91,7 +91,7 @@
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Hij kan niet opnieuw gebruikt worden, tenzij het onmogelijk wordt om met de reservebal verder te spelen",
+          "Phrase": "Hij kan niet opnieuw gebruikt worden, tenzij het onmogelijk wordt om met de reservebal verder te spelen.",
           "Correct": false
         },
         {

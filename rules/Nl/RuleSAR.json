@@ -39,17 +39,17 @@
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "2-minutenuitsluiting voor official A van team WIT",
+          "Phrase": "2-minuten uitsluiting voor official A van team WIT",
           "Correct": true
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Diskwalificatie van official A van team WIT (rode kaart getoond door de scheidsrechter s)",
+          "Phrase": "Diskwalificatie van official A van team WIT (rode kaart getoond door de scheidsrechters)",
           "Correct": false
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Diskwalificatie van official A van team WIT, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Phrase": "Diskwalificatie van official A van team WIT, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters)",
           "Correct": false
         },
         {

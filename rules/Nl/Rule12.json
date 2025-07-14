@@ -4,7 +4,7 @@
   "Questions": [
     {
       "QuestionNumber": "12.1",
-      "Phrase": "Tijdens het uitvoeren van een uitworp raakt doelman WIT1 zijn doelgebiedlijn met een voet. Correcte beslissing?",
+      "Phrase": "Tijdens het uitvoeren van een uitworp raakt doelman WIT1 zijn doelgebied lijn met een voet. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -25,7 +25,7 @@
     },
     {
       "QuestionNumber": "12.2",
-      "Phrase": "Na het fluitsignaal voor de uitvoering van een 7m-worp, stapt doelman WIT12 met 1 voet op de doelverdedigersgrenslijn. De 7m-worp gaat over de dwarslat. Correcte beslissing?",
+      "Phrase": "Na het fluitsignaal voor de uitvoering van een 7m-worp, stapt doelman WIT12 met 1 voet op de doelverdedigersgrenslijn. De 7m-worp gaat over de deklat. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -34,7 +34,7 @@
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Gezien het geen doelpunt is, gaat het spel verder met een uitworp",
+          "Phrase": "Gezien het geen doelpunt is, gaat het spel verder met een uitworp.",
           "Correct": true
         },
         {
@@ -72,7 +72,7 @@
     },
     {
       "QuestionNumber": "12.4",
-      "Phrase": "Wanneer doelman WIT12 een uitworp uitvoert, laat hij de bal vallen. De bal valt op zijn voet. Van hieruit overschrijdt de bal de doelgebiedlijn in het speelveld. Doelman WIT12 loopt de bal na, neemt hem op en keert in zijn doelgebied terug om de uitworp te hernemen. Correcte beslissing?",
+      "Phrase": "Wanneer doelman WIT12 een uitworp uitvoert, laat hij de bal vallen. De bal valt op zijn voet. Van hieruit overschrijdt de bal de doelgebied lijn in het speelveld. Doelman WIT12 loopt de bal na, neemt hem op en keert in zijn doelgebied terug om de uitworp te hernemen. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -98,7 +98,7 @@
     },
     {
       "QuestionNumber": "12.5",
-      "Phrase": "Wanneer wordt een uitworp als uitgevoerd beschouwd, zodat de bal door een veldspeler mag gespeeld worden?",
+      "Phrase": "Wanneer wordt een uitworp als uitgevoerd beschouwd, zo dat de bal door een veldspeler mag gespeeld worden?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -107,7 +107,7 @@
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Wanneer de bal de hand van de doelverdediger heeft verlaten, de doelgebiedlijn in de richting van het speelveld heeft overschreden en in het speelveld is binnengegaan",
+          "Phrase": "Wanneer de bal de hand van de doelverdediger heeft verlaten, de doelgebied lijn in de richting van het speelveld heeft overschreden en in het speelveld is binnen gegaan",
           "Correct": true
         },
         {
@@ -124,7 +124,7 @@
     },
     {
       "QuestionNumber": "12.6",
-      "Phrase": "Doelverdediger WIT12 voert een uitworp uit. Speler ZWART10, die buiten de doelgebiedlijn staat, probeert overeenkomstig de spelregels in balbezit te geraken. Dat lukt hem en hij scoort een doelpunt. Correcte beslissing?",
+      "Phrase": "Doelverdediger WIT12 voert een uitworp uit. Speler ZWART10, die buiten de doelgebied lijn staat, probeert overeenkomstig de spelregels in balbezit te geraken. Dat lukt hem en hij scoort een doelpunt. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -150,41 +150,26 @@
     },
     {
       "QuestionNumber": "12.7",
-      "Phrase": "Doelverdediger WIT12 weert een worp af en devieert de bal over zijn buitendoellijn naast het doel. Welk(",
+      "Phrase": "Doelverdediger WIT12 weert een worp af, devieert de bal over zijn buitendoellijn naast het doel. Welk(e) handsignalen zou de doelscheidsrechter moeten tonen, indien nodig?",
       "Answers": [
         {
-          "AnswerNumber": "e",
-          "Phrase": "handsignalen zou de doelscheidsrechter moeten tonen, indien nodig?",
-          "Correct": false
-        },
-        {
           "AnswerNumber": "a",
-          "Phrase": "Nummer 8 (uitwor p)",
+          "Phrase": "Nummer 8 (uitworp)",
           "Correct": true
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Nummer 9 (richting vrije wor p)",
+          "Phrase": "Nummer 9 (richting vrije worp)",
           "Correct": false
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Eerst nummer 9 (richting vrije wor",
-          "Correct": false
-        },
-        {
-          "AnswerNumber": "p",
-          "Phrase": ", dan nummer 8: (uitwor p)",
+          "Phrase": "Eerst nummer 9 (richting vrije worp), dan nummer 8 (uitworp)",
           "Correct": false
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Eerst nummer 8 (uitwor",
-          "Correct": false
-        },
-        {
-          "AnswerNumber": "p",
-          "Phrase": ", dan nummer 9 (richting vrije wor p)",
+          "Phrase": "Eerst nummer 8 (uitworp), dan nummer 9 (richting vrije worp)",
           "Correct": false
         }
       ]
@@ -210,7 +195,7 @@
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "7-m-worp voor team ZWART",
+          "Phrase": "7m-worp voor team ZWART",
           "Correct": false
         }
       ]
@@ -231,12 +216,12 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "De uitworp wordt als uitgevoerd beschouwd van zodra de bal de hand van de doelverdediger heeft verlaten en de doelgebiedlijn heeft overschreden.",
+          "Phrase": "De uitworp wordt als uitgevoerd beschouwd van zodra de bal de hand van de doelverdediger heeft verlaten en de doelgebied lijn heeft overschreden.",
           "Correct": true
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "De tegenspelers mogen zich ophouden net buiten de doelgebiedlijn.",
+          "Phrase": "De tegenspelers mogen zich ophouden net buiten de doelgebied lijn.",
           "Correct": true
         }
       ]
@@ -268,17 +253,17 @@
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "De spelers van het andere team moeten zich buiten de vrijeworplijn bevinden tot de bal in het spel is.",
+          "Phrase": "De spelers van het andere team moeten zich buiten de vrije worplijn bevinden tot de bal in het spel is.",
           "Correct": false
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "De spelers van het andere team moeten zich buiten de doelgebiedlijn blijven op 3 meter van de plaats waar de doelverdediger de uitworp uitvoert.",
+          "Phrase": "De spelers van het andere teammoeten zich buiten de doelgebied lijn blijven op 3 meter van de plaats waar de doelverdediger de uitworp uitvoert.",
           "Correct": false
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Het is de spelers van het andere team toegestaan de bal aan te raken voordat deze de doelgebiedlijn overschreden heeft.",
+          "Phrase": "Het is de spelers van het andere team toegestaan de bal aan te raken voordat deze de doelgebied lijn overschreden heeft.",
           "Correct": false
         },
         {
@@ -293,7 +278,7 @@
         },
         {
           "AnswerNumber": "f",
-          "Phrase": "De doelverdediger mag bij de uitvoering van de uitworp de doelgebiedlijn niet raken.",
+          "Phrase": "De doelverdediger mag bij de uitvoering van de uitworp de doelgebied lijn niet raken.",
           "Correct": false
         }
       ]

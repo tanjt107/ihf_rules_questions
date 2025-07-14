@@ -30,7 +30,7 @@
     },
     {
       "QuestionNumber": "1.2",
-      "Phrase": "Welke zijn de vereiste binnenafmetingen van het doel?",
+      "Phrase": "Welke zijn de vereiste binnen afmetingen van het doel?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -82,7 +82,7 @@
     },
     {
       "QuestionNumber": "1.4",
-      "Phrase": "Welke uitspraken zijn juist over de beginworpzone?",
+      "Phrase": "Welke uitspraken zijn juist over het beginworpgebied?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -96,17 +96,17 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "De beginworpzone kan een gebied zijn met een andere kleur dan het speelveld",
+          "Phrase": "Het beginworpgebied kan een gebied zijn met een andere kleur dan het speelveld",
           "Correct": true
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "De beginworpzone kan een cirkellijn zijn",
+          "Phrase": "Het beginworpgebied kan een cirkellijn zijn",
           "Correct": true
         },
         {
           "AnswerNumber": "e",
-          "Phrase": "De beginworpzone is verplicht voor alle evenementen in handbal",
+          "Phrase": "Het beginworpgebied is verplicht voor alle evenementen in handbal",
           "Correct": false
         }
       ]

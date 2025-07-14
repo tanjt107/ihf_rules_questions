@@ -49,7 +49,7 @@
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "2-minutenuitsluiting voor WIT12",
+          "Phrase": "2-minuten uitsluiting voor WIT12",
           "Correct": false
         },
         {
@@ -61,7 +61,7 @@
     },
     {
       "QuestionNumber": "15.3",
-      "Phrase": "De scheidsrechters hebben een vrije worp gegeven voor team ZWART aan de vrijeworplijn van team WIT. Wanneer alle spelers correct opgesteld staan, fluiten de scheidsrechters. Vooraleer de bal de hand van de werper verlaten heeft, overschrijden twee van zijn medespelers de vrijeworplijn van team WIT. Correcte beslissing?",
+      "Phrase": "De scheidsrechters hebben een vrije worp gegeven voor team ZWART aan de vrije worplijn van team WIT. Wanneer alle spelers correct opgesteld staan, fluiten de scheidsrechters. Vooraleer de bal de hand van de werper verlaten heeft, overschrijden twee van zijn medespelers de vrije worplijn van team WIT. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -106,7 +106,7 @@
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "2-minutenuitsluiting voor ZWART6",
+          "Phrase": "2-minuten uitsluiting voor ZWART6",
           "Correct": true
         }
       ]
@@ -139,7 +139,7 @@
     },
     {
       "QuestionNumber": "15.6",
-      "Phrase": "Doelman ZWART12 stopt een worp op doel. Hij wil onmiddellijk een tegenaanval inzetten, maar laat de bal vallen zodat deze de doellijn overschrijdt in het doel van team ZWART. Correcte beslissing?",
+      "Phrase": "Doelman ZWART12 stopt een worp op doel. Hij wil onmiddellijk een tegenaanval inzetten, maar laat de bal vallen zo dat deze de doellijn overschrijdt in het doel van team ZWART.Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -241,7 +241,7 @@
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Vrije worp voor team WIT, 2-minutenuitsluiting voor ZWART7",
+          "Phrase": "Vrije worp voor team WIT, 2-minuten uitsluiting voor ZWART7",
           "Correct": false
         }
       ]
@@ -262,7 +262,7 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "2-minutenuitsluiting voor WIT11",
+          "Phrase": "2-minuten uitsluiting voor WIT11",
           "Correct": false
         },
         {
@@ -274,7 +274,7 @@
     },
     {
       "QuestionNumber": "15.11",
-      "Phrase": "Vrije worp voor team ZWART aan de vrijeworplijn van team WIT. De scheidsrechters zien over het hoofd dat speler ZWART8 zich tussen de doelgebiedlijn en de vrijeworplijn bevindt. ZWART8 krijgt de bal toegespeeld en scoort. Correcte beslissing?",
+      "Phrase": "Vrije worp voor team ZWART aan de vrije worplijn van team WIT. De scheidsrechters zien over het hoofd dat speler ZWART8 zich tussen de doelgebied lijn en de vrije worplijn bevindt. ZWART8 krijgt de bal toegespeeld en scoort. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -326,7 +326,7 @@
     },
     {
       "QuestionNumber": "15.13",
-      "Phrase": "Speler WIT5 heeft reeds een waarschuwing en tweemaal een 2-minutenuitsluiting gekregen. Wanneer team ZWART een vrije worp uitvoert, interfereert hij met de uitvoering van de worp door zijn afstand niet te houden. Dit is de eerste keer dat hij dit doet. Correcte beslissing?",
+      "Phrase": "Speler WIT5 heeft reeds een waarschuwing en twee 2-minuten uitsluitingen gekregen. Wanneer team ZWART een vrije worp uitvoert interfereert hij met de uitvoering van de worp door zijn afstand niet te houden. Dit is de eerste keer dat hij dit doet. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -340,14 +340,14 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Derde 2-minutenuitsluiting voor WIT5 en diskwalificatie (rode kaart getoond door de scheidsrechter s)",
+          "Phrase": "Derde 2-minuten uitsluiting voor WIT5 en diskwalificatie (rode kaart getoond door de scheidsrechters)",
           "Correct": true
         }
       ]
     },
     {
       "QuestionNumber": "15.14",
-      "Phrase": "Kort voor het einde van de wedstrijd, leidt team WIT met 24-23. Een vrije worp wordt toegekend aan team WIT op ongeveer 1 meter buiten de vrijeworplijn van team ZWART. Alle spelers hebben de juiste plaats ingenomen en de scheidsrechter fluit voor de uitvoering van de vrije worp. WIT10, die de worp uitvoert, neemt een stap vooraleer de bal zijn hand verlaten heeft. Correcte beslissing?",
+      "Phrase": "Kort voor het einde van de wedstrijd, leidt team WIT met 24-23. Een vrije worp wordt toegekend aan team WIT op ongeveer 1 meter buiten de vrije worplijn van team ZWART. Alle spelers hebben de juiste plaats ingenomen en de scheidsrechter fluit voor de uitvoering van de vrije worp. WIT10, die de worp uitvoert, neemt een stap vooraleer de bal zijn hand verlaten heeft. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -361,7 +361,7 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "2-minutenuitsluiting voor WIT10",
+          "Phrase": "2-minuten uitsluiting voor WIT10",
           "Correct": false
         },
         {
@@ -373,18 +373,8 @@
     },
     {
       "QuestionNumber": "15.15",
-      "Phrase": "WIT14 wil een vrije worp (zonder fluitsignaa",
+      "Phrase": "WIT14 wil een vrije worp (zonder fluitsignaal) uitvoeren aan de vrije worp lijn van team ZWART. Hij bevindt zich (net als zijn medespelers) in de juiste positie. Voor de bal de hand van WIT14 heeft verlaten, lopen WIT13 en WIT15 over de vrije worplijn naar de doelgebied lijn. Correcte beslissing?",
       "Answers": [
-        {
-          "AnswerNumber": "l",
-          "Phrase": "uitvoeren aan de vrijeworplijn van team ZWART. Hij bevindt zich (net als zijn medespeler",
-          "Correct": false
-        },
-        {
-          "AnswerNumber": "s",
-          "Phrase": "in de juiste positie. Voor de bal de hand van WIT14 heeft verlaten, lopen WIT13 en WIT15 over de vrijeworplijn naar de doelgebiedlijn. Correcte beslissing?",
-          "Correct": false
-        },
         {
           "AnswerNumber": "a",
           "Phrase": "Correctie",
@@ -475,7 +465,7 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "7-meterworp voor team ZWART",
+          "Phrase": "7m-worp voor team ZWART",
           "Correct": false
         },
         {
@@ -496,7 +486,7 @@
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Correctie: herhaling van de beginworp voor team WIT",
+          "Phrase": "Correctie, herhaling van de beginworp voor team WIT",
           "Correct": false
         },
         {
@@ -518,13 +508,8 @@
     },
     {
       "QuestionNumber": "15.20",
-      "Phrase": "(Zonder beginworpzon",
+      "Phrase": "(Zonder beginworp zone) De score is 30-30 op 4 seconden voor het wedstrijdeinde. Team WIT scoort op 30-31. Team ZWART wil een snelle beginworp uitvoeren. ZWART10 staat met één voet achter en met de andere net voor de middellijn. Zonder fluitsignaal werpt ZWART10 de bal in het doel van team WIT. Het automatisch signaal van de klok weerklinkt voor het einde van de wedstrijd. Correcte beslissing?",
       "Answers": [
-        {
-          "AnswerNumber": "e",
-          "Phrase": "De score is 30-30 op 4 seconden voor het wedstrijdeinde. Team WIT scoort 30-31. Team ZWART wil een snelle beginworp uitvoeren. ZWART10 staat met één voet achter en met de andere net voor de middellijn. Zonder fluitsignaal werpt ZWART10 de bal in het doel van team WIT. Het automatisch signaal van de klok weerklinkt voor het einde van de wedstrijd. Correcte beslissing?",
-          "Correct": true
-        },
         {
           "AnswerNumber": "a",
           "Phrase": "Doelpunt voor team ZWART",
@@ -554,7 +539,7 @@
     },
     {
       "QuestionNumber": "15.21",
-      "Phrase": "Vrije worp voor team WIT aan de vrijeworplijn van team ZWART. WIT7 voert de vrije worp uit terwijl hij, zoals zijn medespelers, correct buiten de vrijeworplijn staat. De vrije worp wordt snel uitgevoerd zonder fluitsignaal, maar vooraleer de bal de hand van WIT7 verlaten heeft overschrijden zowel WIT9 als WIT18 de vrijeworplijn. Correcte beslissing?",
+      "Phrase": "Vrije worp voor team WIT aan de vrije worplijn van team ZWART. WIT7 voert de vrije worp uit terwijl hij, zoals zijn medespelers, correct buiten de vrije worplijn staat. De vrije worp wordt snel uitgevoerd zonder fluitsignaal, maar vooraleer de bal de hand van WIT7 verlaten heeft overschrijden zowel WIT9 als WIT18 de vrije worplijn. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -653,7 +638,7 @@
     },
     {
       "QuestionNumber": "15.25",
-      "Phrase": "Team WIT krijgt een vrije worp. Zonder fluitsignaal van de scheidsrechters voert WIT5 de worp zeer snel al lopend uit. De intentie van WIT5 was om de bal naar WIT4 te spelen, maar ZWART3 onderschept de bal en bevindt zich nu volledig vrij voor het doel van team WIT. Correcte beslissing?",
+      "Phrase": "Team WIT krijgt een vrije worp. Zonder fluitsignaal van de scheidsrechters voert WIT5 zeer snel de worp al lopend uit. De intentie van WIT5 was om de bal naar WIT4 te spelen, maar ZWART3 onderschept de bal en bevindt zich nu volledig vrij voor het doel van team WIT. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -674,7 +659,7 @@
     },
     {
       "QuestionNumber": "15.26",
-      "Phrase": "Team ZWART staat klaar om een vrije worp zonder fluitsignaal uit te voeren. ZWART8 voert de worp uit met beide voeten en zijn linkerhand in contact met de vloer. ZWART6 krijgt de bal en scoort een doelpunt. Wat is de correcte beslissing?",
+      "Phrase": "Team ZWART staat klaar om een vrije worp zonder fluitsignaal uit te voeren. ZWART8 voert de worp uit met beide voeten en zijn linker hand in contact met de vloer. ZWART6 krijgt de bal en scoort een doelpunt. Wat is de correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
