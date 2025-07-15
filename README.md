@@ -23,7 +23,7 @@ Here an overview of all versions:
 
 | Language    | Version |
 | -------- | ------- |
-| English  | 1 Juli 2024    |
+| English  | 1 Juli 2025    |
 | Dutch | 1 juli 2024     |
 | Serbian    | 1. Јула 2024    |
 
