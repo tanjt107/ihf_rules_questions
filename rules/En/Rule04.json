@@ -564,7 +564,7 @@
         {
           "AnswerNumber": "b",
           "Phrase": "Immediate suspension for BLACK 3 and 7-metre throw for WHITE team",
-          "Correct": true
+          "Correct": false
         },
         {
           "AnswerNumber": "c",
@@ -574,7 +574,7 @@
         {
           "AnswerNumber": "d",
           "Phrase": "Wait until the chance of scoring has passed, then suspension for BLACK 3 and an appropriate throw according to the situation",
-          "Correct": false
+          "Correct": true
         }
       ]
     },
@@ -741,6 +741,11 @@
           "AnswerNumber": "d",
           "Phrase": "7-metre throw for WHITE team",
           "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The timekeeper can wait until the clear chance of scoring is over before blowing the whistle for the faulty substitution",
+          "Correct": false
         }
       ]
     },
@@ -1446,7 +1451,7 @@
     },
     {
       "QuestionNumber": "4.53",
-      "Phrase": "After one minute of the game, there is a fight between BLACK 3 and WHITE 6. BLACK 3 ends up lying on the floor and seems to be injured. The referees choose to give WHITE 6 a verbal caution.BLACK 3 asks for medical treatment on the court. After receiving medical treatment on the court, BLACK 3 is ready to continue the game. Correct decision?",
+      "Phrase": "After one minute of the game, there is a fight between BLACK 3 and WHITE 6. BLACK 3 ends up lying on the floor and seems to be injured. The referees choose to give WHITE 6 a verbal caution. BLACK 3 asks for medical treatment on the court. After receiving medical treatment on the court, BLACK 3 is ready to continue the game. Correct decision?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -1644,7 +1649,7 @@
     },
     {
       "QuestionNumber": "4.61",
-      "Phrase": "The score is 29:29 with 10 seconds left in the match. Goalkeeper WHITE 12 executes a goalkeeper throw and passes the ball to WHITE 11. WHITE 11 sees that WHITE 9 is in a free position at the goal-area line of BLACK team. He passes the ball to WHITE 9. Before WHITE 9 takes a shot on goal, the timekeeper interrupts the game because of a faulty substitution. BLACK 2 has entered the court before BLACK 4 has left it. What is the correct decision?",
+      "Phrase": "The score is 29:29 with 10 seconds left in the match. Goalkeeper WHITE 12 executes a goalkeeper throw and passes the ball to WHITE 11. WHITE 11 sees that WHITE 9 is in a free position at the goal-area line of BLACK team. He passes the ball to WHITE 9. Before WHITE 9 takes a shot on goal, the delegate interrupts the game because of a faulty substitution. BLACK 2 has entered the court before BLACK 4 has left it. What is the correct decision?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -1670,6 +1675,57 @@
           "AnswerNumber": "e",
           "Phrase": "Disqualification for BLACK 2 (red card shown by the referees)",
           "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "The delegate should have waited until the clear chance of scoring was over before interrupting the game",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.62",
+      "Phrase": "It is possible to use the video replay in this match. WHITE team is in a counterattack. WHITE 7 has the ball at the centre line. In that moment BLACK 9 enters the court as an additional player. WHITE 7 plays the ball to WHITE 11 who has a clear chance of scoring. At that moment the delegate whistles because of the additional player on the court. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Use the video replay to see who entered the court as an additional player and to see when the player entered.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for BLACK 9",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification without written report for BLACK 9 (red card is shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification with written report for BLACK 9 (red and blue cards are shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "The delegate should have waited until the clear chance of scoring was over before interrupting the game",
+          "Correct": true
         }
       ]
     }

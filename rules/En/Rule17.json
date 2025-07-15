@@ -75,22 +75,27 @@
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "2-minute suspension for BLACK 2",
+          "Phrase": "If no joint decision is reached, 2-minute suspension for BLACK 2",
           "Correct": false
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Disqualification of BLACK 2 (red card shown by the referees)",
+          "Phrase": "If no joint decision is reached, disqualification of BLACK 2 (red card shown by the referees)",
           "Correct": true
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Free throw",
+          "Phrase": "If no joint decision is reached, free throw",
           "Correct": false
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "7-metre throw",
+          "Phrase": "If no joint decision is reached, 7-metre throw",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The referees must try to reach a joint decision",
           "Correct": true
         }
       ]

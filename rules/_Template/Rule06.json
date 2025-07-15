@@ -623,6 +623,57 @@
           "AnswerNumber": "c",
           "Phrase": "",
           "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.25",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "",
+          "Correct": false
         }
       ]
     }

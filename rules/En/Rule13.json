@@ -4,7 +4,7 @@
   "Questions": [
     {
       "QuestionNumber": "13.1",
-      "Phrase": "There is a free throw for WHITE team. Before WHITE 5 can pick up the ball, BLACK 6 picks it up, putsit under his arm and runs towards his goal. After a few steps, he rolls the ball back to WHITE 5. Correct decision?",
+      "Phrase": "There is a free throw for WHITE team. Before WHITE 5 can pick up the ball, BLACK 6 picks it up, puts it under his arm and runs towards his goal. After a few steps, he rolls the ball back to WHITE 5. Correct decision?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -35,7 +35,7 @@
     },
     {
       "QuestionNumber": "13.2",
-      "Phrase": "BLACK 7 is in possession of the ball and tries to start a counter-attack, but is held by WHITE 17. The referee is just about to whistle, but plays advantage, as BLACK 8 has just received the ball and takes a shot on goal of WHITE team. Goalkeeper WHITE 12 saves the shot and wants to start a counter-attack. Both teams have already received three warnings each earlier in the game. Correct decision?",
+      "Phrase": "BLACK 7 is in possession of the ball and tries to start a counter-attack but is held by WHITE 17. The referee is just about to whistle, but plays advantage, as BLACK 8 has just received the ball and takes a shot on goal of WHITE team. Goalkeeper WHITE 12 saves the shot and wants to start a counter-attack. Both teams have already received three warnings each earlier in the game. Correct decision?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -175,7 +175,7 @@
     },
     {
       "QuestionNumber": "13.7",
-      "Phrase": "WHITE 7 is in a counterattack. With one player from BLACK team between him and the goalkeeper, he shoots on goal and hits goalkeeper BLACK 12 in the head with the ball. BLACK 12 collapses. The ball rebounds to WHITE 9, who is standing alone at the goal-area line. WHITE 9 throws the ball in the direction of the empty goal. Just before the ball crosses the goal line, the referee whistles and interrupts the game. Goalkeeper BLACK 12 needs medical care on the court. Correct decision? ",
+      "Phrase": "WHITE 7 is in a counterattack. With one player from BLACK team between him and the goalkeeper, he shoots on goal and hits goalkeeper BLACK 12 in the head with the ball. BLACK 12 collapses. The ball rebounds to WHITE 9, who is standing alone at the goal-area line. WHITE 9 throws the ball in the direction of the empty goal. Just before the ball crosses the goal line, the referee whistles and interrupts the game. Goalkeeper BLACK 12 needs medical care on the court. Correct decision?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -381,7 +381,7 @@
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Note in the match report in conformity with the regulations of the respective federation",
+          "Phrase": "Note in the match report in conformity with the regulations of the respective federation.",
           "Correct": true
         }
       ]

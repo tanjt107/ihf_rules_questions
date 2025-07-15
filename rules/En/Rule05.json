@@ -61,12 +61,12 @@
         {
           "AnswerNumber": "b",
           "Phrase": "Game continues without interruption",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "c",
           "Phrase": "Goalkeeper throw for WHITE team after whistle signal",
-          "Correct": true
+          "Correct": false
         }
       ]
     },
@@ -186,7 +186,7 @@
         {
           "AnswerNumber": "b",
           "Phrase": "Game continues without interruption",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "c",
@@ -196,7 +196,7 @@
         {
           "AnswerNumber": "d",
           "Phrase": "Correction and goalkeeper throw after whistle signal",
-          "Correct": true
+          "Correct": false
         }
       ]
     },

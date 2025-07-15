@@ -564,7 +564,7 @@
         {
           "AnswerNumber": "b",
           "Phrase": "",
-          "Correct": true
+          "Correct": false
         },
         {
           "AnswerNumber": "c",
@@ -574,7 +574,7 @@
         {
           "AnswerNumber": "d",
           "Phrase": "",
-          "Correct": false
+          "Correct": true
         }
       ]
     },
@@ -741,6 +741,11 @@
           "AnswerNumber": "d",
           "Phrase": "",
           "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "",
+          "Correct": false
         }
       ]
     },
@@ -1670,6 +1675,57 @@
           "AnswerNumber": "e",
           "Phrase": "",
           "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.62",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "",
+          "Correct": true
         }
       ]
     }

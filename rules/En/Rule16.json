@@ -25,7 +25,7 @@
     },
     {
       "QuestionNumber": "16.2",
-      "Phrase": "WHITE 8 receives a 2-minute suspension, as he has pushed an opponent. He approaches the referee to insult him with the following words: “You are stupid, you are an idiot, you will never learn!” Before leaving the court he spits in the referees face. Correct decision?",
+      "Phrase": "WHITE 8 receives a 2-minute suspension, as he has pushed an opponent. He approaches the referee to insult him with the following words: “You are stupid, you are an idiot, you will never learn!” Before leaving the court he spits in the referee’s face. Correct decision?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -622,6 +622,93 @@
           "AnswerNumber": "e",
           "Phrase": "Disqualification for official A from WHITE team with written report (red and blue cards shown by the referees); WHITE team are reduced on the court by 1 player for 2 minutes",
           "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.24",
+      "Phrase": "BLACK 11 scores a goal. While shooting, he is pushed from the side by WHITE 10, so that he partially loses body control. The referees give a 2-minute suspension for WHITE 10. WHITE 10 leaves the court. The referees give the signal for the subsequent throw-off, and before the throw is executed, WHITE 9 enters the court as an additional player. The delegate whistles and the clock is stopped. The public clock shows 1 minute and 58 seconds left of the suspension for WHITE 10. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minute suspension for WHITE 9.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WHITE team is reduced by two players on the court for 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "For 1 minute and 58 seconds WHITE team is reduced by two players on the court. After 1 minute and 58 seconds the first suspension lapses and WHITE team is reduced by one player on the court for another 2 seconds.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The game is restarted with a throw-off for WHITE team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The game is restarted with a free throw for BLACK team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.25",
+      "Phrase": "WHITE team are in possession of the ball, and the ball is in play. Official B from WHITE team complains about a missing suspension for BLACK team. The delegate interrupts the game and official B is given a yellow card. Because of this punishment and before the game is restarted, he complains again, and the referees give him a 2-minute suspension. Official B then calls the referee an “idiot”. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WHITE team is reduced by one player on the court for 4 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WHITE team is reduced by two players on the court for 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WHITE team is reduced by one player on the court for 2 minutes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification without written report for official B from WHITE team (red card shown by the referees).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification with written report for official B from WHITE team (red and blue cards shown by the referees).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Later in the match, it is possible to give a yellow card and/or a 2-minute suspension to another official from WHITE team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Yellow card, 2-minute suspension and disqualification noted in the match report.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "The match is restarted with a free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "i",
+          "Phrase": "The match is restarted with a free throw for BLACK team",
+          "Correct": true
         }
       ]
     }

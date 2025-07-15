@@ -207,12 +207,12 @@
         {
           "AnswerNumber": "a",
           "Phrase": "Goal for BLACK team",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "b",
           "Phrase": "Free throw for WHITE team",
-          "Correct": true
+          "Correct": false
         },
         {
           "AnswerNumber": "c",
@@ -222,13 +222,18 @@
         {
           "AnswerNumber": "d",
           "Phrase": "The throw is executed correctly as the referees have approved the position of the thrower by giving the whistle signal for the execution.",
-          "Correct": false
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The referees should have waited until the thrower was inside the throw-off area with the ball and all his body before giving the whistle signal for the execution of the throw-off",
+          "Correct": true
         }
       ]
     },
     {
       "QuestionNumber": "10.10",
-      "Phrase": "(With throw-off area) BLACK team want to execute a fast throw-off from the throw-off area. At the same time as BLACK 8 is running with one foot and the ball completely inside the throw-off area, WHITE 7 is also inside the throw-off area, running in the direction of his own goal. With no teammates in the direction of WHITE 7, BLACK 8 throws the ball into the back of WHITE 7. WHITE 7 is inside the throw-off area, when the ball hits him. What is the correct decision?",
+      "Phrase": "(With throw-off area) BLACK team want to execute a fast throw-off from the throw-off area. At the same time as BLACK 8 is running with his body and the ball completely inside the throw-off area, WHITE 7 is also inside the throw-off area, running in the direction of his own goal. With no teammates in the direction of WHITE 7, BLACK 8 throws the ball into the back of WHITE 7. WHITE 7 is inside the throw-off area, when the ball hits him. What is the correct decision?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -295,7 +300,7 @@
     },
     {
       "QuestionNumber": "10.12",
-      "Phrase": "(With throw-off area) WHITE team plays with 7 court players and scores a goal. BLACK team wants to execute a fast throw-off. BLACK 6 has one foot and the ball inside the throw-off area. The referees whistle for the execution. WHITE 8 clearly enters the throw-off area with active arms trying to block the ball and interferes with the execution. Even so, BLACK 6 who has his entire body and the ball inside the throw-off area executes the throw-off as a shot at the empty goal. The ball crosses the outer goal line. What is the correct decision?",
+      "Phrase": "(With throw-off area) WHITE team plays with 7 court players and scores a goal. BLACK team wants to execute a fast throw-off. BLACK 6 is inside the throw-off area with his entire body and the ball. The referees whistle for the execution. WHITE 8 clearly enters the throw-off area with active arms trying to block the ball and interferes with the execution. Even so, BLACK 6 who has his entire body and the ball inside the throw-off area executes the throw-off as a shot at the empty goal. The ball crosses the outer goal line. What is the correct decision?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -377,7 +382,7 @@
         {
           "AnswerNumber": "a",
           "Phrase": "When the thrower has at least one foot and the ball inside the throw-off area, and the other foot is not outside the throw-off area on the opponent’s half of the court.",
-          "Correct": true
+          "Correct": false
         },
         {
           "AnswerNumber": "b",
@@ -392,6 +397,11 @@
         {
           "AnswerNumber": "d",
           "Phrase": "When the thrower has at least one foot and the ball inside the throw-off area, the other foot is not outside the throw-off area on the opponent’s half of the court, but teammates of the thrower are inside the throw-off area on the opponent’s half of the court.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "When the thrower is inside the throw-off area with his entire body and the ball.",
           "Correct": true
         }
       ]

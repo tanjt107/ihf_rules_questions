@@ -4,7 +4,7 @@
   "Questions": [
     {
       "QuestionNumber": "7.1",
-      "Phrase": "The ball is in the air going towards the sideline. WHITE 3 manages to play the ball with his hand to WHITE 7 before the ball crosses the line. In order to do this, WHITE 3 crosses the sideline with one foot. WHITE 7 catches the ball and scores a goal. Correct decision?",
+      "Phrase": "The ball is in the air going towards the sideline. WHITE 3 manages to play the ball with his hand to WHITE 7 before the ball crosses the line. While doing this, WHITE 3 crosses the sideline with one foot. WHITE 7 catches the ball and scores a goal. Correct decision?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -228,7 +228,7 @@
     },
     {
       "QuestionNumber": "7.10",
-      "Phrase": "After bouncing the ball once, WHITE 7 wants to pass the ball to WHITE 5, but WHITE 5 is marked by an opponent. WHITE 7 becomes so confused that he drops the ball, but manages to catch it again before it has touched the floor. Correct decision?",
+      "Phrase": "After bouncing the ball once, WHITE 7 wants to pass the ball to WHITE 5, but WHITE 5 is marked by an opponent. WHITE 7 becomes so confused that he drops the ball but manages to catch it again before it has touched the floor. Correct decision?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -515,7 +515,7 @@
     },
     {
       "QuestionNumber": "7.22",
-      "Phrase": "WHITE team is leading 24:23 in the 57th minute, but has one less player on the court. The court referee has given a free throw in favour of WHITE 3. WHITE 6 tries to execute the free throw several metres away from the correct spot, even though the referee has shown the correct spot very clearly. Correct decision?",
+      "Phrase": "WHITE team is leading 24:23 in the 57th minute but has one less player on the court. The court referee has given a free throw in favour of WHITE 3. WHITE 6 tries to execute the free throw several metres away from the correct spot, even though the referee has shown the correct spot very clearly. Correct decision?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -842,11 +842,11 @@
     },
     {
       "QuestionNumber": "7.34",
-      "Phrase": "BLACK team are in attack. The referees show the forewarning signal. BLACK 7 passes the ball to BLACK 11. BLACK 11 tries to break through, but is stopped by WHITE 3. The referees give a free throw for BLACK team. BLACK 11 executes the free throw and passes the ball to BLACK 2, who tries to take a shot on goal, but the shot is blocked by defender WHITE 4, and the ball goes to BLACK 11. BLACK 11 takes a shot on goal, but he is pushed lightly by WHITE 5, and goalkeeper WHITE 1 manages to save the shot. What is the correct decision?",
+      "Phrase": "BLACK team are in attack. The referees show the forewarning signal. BLACK 7 passes the ball to BLACK 11. BLACK 11 tries to break through but is stopped by WHITE 3. The referees give a free throw for BLACK team. BLACK 11 executes the free throw and passes the ball to BLACK 2, who tries to take a shot on goal, but the shot is blocked by defender WHITE 4, and the ball goes to BLACK 11. BLACK 11 takes a shot on goal, but he is pushed lightly by WHITE 5, and goalkeeper WHITE 1 manages to save the shot. What is the correct decision?",
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "Free throw for BLACK team; new attack, because BLACK team manage to get possession of the ball after a shot on goal.",
+          "Phrase": "Free throw for BLACK team; new normal build-up phase because BLACK team manage to get possession of the ball after a shot on goal.",
           "Correct": false
         },
         {
@@ -861,7 +861,7 @@
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Free throw for BLACK team; forewarning signal, BLACK team have used four passes",
+          "Phrase": "Free throw for BLACK team; forewarning signal, BLACK team have used four passes.",
           "Correct": false
         }
       ]

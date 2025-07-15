@@ -624,6 +624,93 @@
           "Correct": false
         }
       ]
+    },
+    {
+      "QuestionNumber": "16.24",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.25",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "i",
+          "Phrase": "",
+          "Correct": true
+        }
+      ]
     }
   ]
 }

@@ -61,12 +61,12 @@
         {
           "AnswerNumber": "b",
           "Phrase": "",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "c",
           "Phrase": "",
-          "Correct": true
+          "Correct": false
         }
       ]
     },
@@ -186,7 +186,7 @@
         {
           "AnswerNumber": "b",
           "Phrase": "",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "c",
@@ -196,7 +196,7 @@
         {
           "AnswerNumber": "d",
           "Phrase": "",
-          "Correct": true
+          "Correct": false
         }
       ]
     },

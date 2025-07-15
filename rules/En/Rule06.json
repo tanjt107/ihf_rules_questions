@@ -623,6 +623,57 @@
           "AnswerNumber": "c",
           "Phrase": "Direct 2-minute suspension for WHITE 10",
           "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "No punishment",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.25",
+      "Phrase": "BLACK 5 takes a shot on goal. Goalkeeper WHITE 12 saves the ball. During the save, WHITE 12 hits his head against the goalpost and falls to the floor injured. BLACK 3 catches the rebound from the goalkeeper’s save and has a clear chance of scoring at the goal-area line of WHITE team. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Advantage for BLACK 3.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Interrupt the match immediately.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The match is restarted with a 7-metre throw for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The match is restarted with a free throw for BLACK team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "The referees may give permission for two persons from BLACK team to enter the court to give medical treatment for WHITE 12.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "After receiving medical treatment, WHITE 12 must leave the court and can only re-enter following the third attack of his team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "After receiving medical treatment, WHITE 12 can continue playing without leaving the court.",
+          "Correct": false
         }
       ]
     }

@@ -677,6 +677,42 @@
           "Correct": false
         }
       ]
+    },
+    {
+      "QuestionNumber": "15.27",
+      "Phrase": "BLACK team score a goal. The referees whistle for the subsequent throw-off. Before the ball has left the hand of the thrower, there is a whistle signal from the timekeeper. WHITE 5 has entered the court before WHITE 6 has left the court. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for WHITE 5.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension for WHITE 6.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Since the ball was out of play at the moment of the whistle the match is restarted with a throw-off for WHITE team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The match is restarted with a free throw for BLACK team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "The match is restarted with a free throw for WHITE team.",
+          "Correct": false
+        }
+      ]
     }
   ]
 }

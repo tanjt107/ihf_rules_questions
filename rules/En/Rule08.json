@@ -206,7 +206,7 @@
     },
     {
       "QuestionNumber": "8.8",
-      "Phrase": "WHITE 6 is in a counter-attack, goalkeeper BLACK 12 leaves his goal area to gain possession of the ball, but collides with WHITE 6. However, a defender might have stopped WHITE 6 by using legal means. Correct decision?",
+      "Phrase": "WHITE 6 is in a counter-attack, goalkeeper BLACK 12 leaves his goal area to gain possession of the ball but collides with WHITE 6. However, a defender might have stopped WHITE 6 by using legal means. Correct decision?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -408,12 +408,17 @@
           "AnswerNumber": "f",
           "Phrase": "BLACK team reduced by 1 player on the court for 2 minutes",
           "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "The Delegate or the referees have the possibility to play the advantage and whistle for the infraction when the clear chance of scoring is over",
+          "Correct": false
         }
       ]
     },
     {
       "QuestionNumber": "8.15",
-      "Phrase": "WHITE team is counter-attacking. WHITE 5 wants to play the ball to WHITE 7, who is all alone at the goal-area line of BLACK team. When WHITE 5 passes the ball, team official D from BLACK team runs onto the court and catches the ball. Correct decision?",
+      "Phrase": "WHITE team is in a counterattack. WHITE 5 wants to play the ball to WHITE 7, who is all alone at the goal-area line of BLACK team. When WHITE 5 passes the ball, team official D from BLACK team runs onto the court and catches the ball. Correct decision?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -1567,6 +1572,11 @@
           "AnswerNumber": "e",
           "Phrase": "Goalkeeper throw for BLACK team",
           "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "The delegate should have waited until the clear chance of scoring was over before interrupting the game",
+          "Correct": true
         }
       ]
     },
@@ -1598,6 +1608,11 @@
           "AnswerNumber": "e",
           "Phrase": "Goal for WHITE team",
           "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "The delegate should have waited until the clear chance of scoring was over before interrupting the game",
+          "Correct": true
         }
       ]
     },
@@ -2447,6 +2462,83 @@
         {
           "AnswerNumber": "g",
           "Phrase": "After receiving medical assistance WHITE 1 must leave the court and can only re-enter after his team completed 3 attacks.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.80",
+      "Phrase": "With 10 seconds left in the match, BLACK team are in attack. While the ball is in play, BLACK 10 intentionally hits WHITE 7 in the face with his elbow. WHITE 7 falls to the floor and lies there injured. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification without written report for BLACK 10 (red card shown by the referees).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification with written report for BLACK 10 (red and blue cards shown by the referees).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The game is restarted with a free throw for WHITE team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The game is restarted with a 7-metre throw for WHITE team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "The referees may give permission for two persons from WHITE team to enter the court to assist WHITE 7.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "After receiving medical care on the court, WHITE 7 must leave the court and can only re-enter following the third attack of his team.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.81",
+      "Phrase": "WHITE team play with empty goal. BLACK 7 intercepts a pass and takes a shot at the empty goal. WHITE 4 catches the ball while he is running just outside the goal area. He is not able to stop and enters the goal area with both feet and the ball in his hands. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressive punishment for WHITE 4",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minute suspension for WHITE 4",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "No punishment",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
           "Correct": false
         }
       ]

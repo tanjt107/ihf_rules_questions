@@ -629,6 +629,37 @@
           "Correct": true
         }
       ]
+    },
+    {
+      "QuestionNumber": "14.24",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "",
+          "Correct": true
+        }
+      ]
     }
   ]
 }

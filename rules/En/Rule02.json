@@ -1515,7 +1515,7 @@
     },
     {
       "QuestionNumber": "2.52",
-      "Phrase": "Electronic team time-out is used in the match. At 29:50 in the first half, WHITE 9 takes a shot on goal. The shot is blocked by goalkeeper BLACK 12, and after the save, the ball is in the air above the goal area. At that moment,the signal from the public clock sounds because Official A from BLACK team has activated the buzzer to request a team time-out. What is the correct decision?",
+      "Phrase": "Electronic team time-out is used in the match. At 29:50 in the first half, WHITE 9 takes a shot on goal. The shot is blocked by goalkeeper BLACK 12, and after the save, the ball is in the air above the goal area. At that moment, the signal from the public clock sounds because Official A from BLACK team has activated the buzzer to request a team time-out. What is the correct decision?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -1642,6 +1642,133 @@
         {
           "AnswerNumber": "f",
           "Phrase": "7-metre throw for WHITE team.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.55",
+      "Phrase": "(Electronic team time-out is used in the game). WHITE team are in attack, and the score is 31:31. With 20 seconds left in the match, WHITE 7 scores a goal. Official A from BLACK team runs to the timekeeper’s table to push the buzzer to request a team time-out. Before official A is able to push the buzzer, BLACK 10 gets up from the bench and pushes the buzzer just before BLACK team execute the throw-off. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team time-out for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "No team time-out for BLACK team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The game is restarted with a throw-off for BLACK team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The game is restarted with a free throw for WHITE team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The game is restarted with a 7-metre throw for WHITE team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Official A from WHITE team can choose between 7-metre throw and free throw.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Progressive punishment for official A from BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "2-minute suspension for BLACK 10.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "i",
+          "Phrase": "Disqualification without written report for BLACK 10 (red card shown by the referees).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "j",
+          "Phrase": "BLACK team will lose one team time-out.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.56",
+      "Phrase": "It is possible to use the video replay in this match, and an electronic team time-out system is in use. With 20 seconds left of the match WHITE 7 runs with the ball in his hands. The referees whistle steps against WHITE 7. WHITE 7 holds on to the ball for 2 seconds before putting it on the floor. Just as BLACK 4 picks up the ball, official B of BLACK team presses the buzzer to request a TTO. The referees decide to use the VR to check a possible violation of rule 8:11a. During the VR review, they see that WHITE 7 only took three steps. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "It is okay to use the video replay.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team time-out starts immediately for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Decision about team time-out is postponed until after VR.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "After VR, team time-out for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "After VR, no team time-out for BLACK team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Disqualification without written report for WHITE 7 (red card shown by the referees).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "2-minute suspension for WHITE 7.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "i",
+          "Phrase": "The match is restarted with a free throw for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "j",
+          "Phrase": "The match is restarted with a 7-metre throw for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "k",
+          "Phrase": "The match is restarted with a free throw for WHITE team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "l",
+          "Phrase": "BLACK team will lose one team time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "m",
+          "Phrase": "Progressive punishment for official B of BLACK team",
           "Correct": false
         }
       ]
