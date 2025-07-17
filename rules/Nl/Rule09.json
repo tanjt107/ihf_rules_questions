@@ -4,7 +4,7 @@
   "Questions": [
     {
       "QuestionNumber": "9.1",
-      "Phrase": "WIT7 staat in het midden van de verdediging wanneer ZWART3 probeert een bots de bal naar de cirkelspeler te geven. WIT7 probeert de bal te stoppen door de voet duidelijk op te heffen. Door zo te doen stampt hij de bal in het doel van team WIT. Correcte beslissing?",
+      "Phrase": "WIT7 staat in het midden van de verdediging wanneer ZWART3 probeert een stuitbal naar de cirkelspeler te geven. WIT7 probeert de bal te stoppen door de voet duidelijk op te heffen. Door zo te doen trapt hij de bal in het doel van team WIT. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -23,7 +23,7 @@
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "2-minuten uitsluiting tegen WIT7",
+          "Phrase": "2-minutenuitsluiting tegen WIT7",
           "Correct": true
         }
       ]
@@ -56,7 +56,7 @@
     },
     {
       "QuestionNumber": "9.3",
-      "Phrase": "De bal werd gestopt door de doelman WIT1 en springt terug van de rug van verdediger WIT3, die 2 meter in het doelgebied staat, en gaat in het doel van WIT. Correcte beslissing?",
+      "Phrase": "De bal werd tegengehouden door de doelman WIT1 en springt terug van de rug van verdediger WIT3, die 2 meter in het doelgebied staat, en gaat in het doel van WIT. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -82,7 +82,7 @@
     },
     {
       "QuestionNumber": "9.4",
-      "Phrase": "Doelman WIT1 houdt de bal gedurende 4 seconden vast in een positie waarbij drie kwart van de bal de doellijn overschreden heeft. Correcte beslissing?",
+      "Phrase": "Doelman WIT1 houdt de bal gedurende 4 seconden vast in een positie waarbij driekwart van de bal de doellijn overschreden heeft. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -103,7 +103,7 @@
     },
     {
       "QuestionNumber": "9.5",
-      "Phrase": "WIT3 betreedt zijn eigen doelgebied en probeert, een worp met de voet af te weren, maar de bal springt daarbij van zijn voet in het doel van team WIT. Correcte beslissing?",
+      "Phrase": "WIT3 betreedt zijn eigen doelgebied en probeert een worp met de voet af te weren, maar de bal springt daarbij van zijn voet in het doel van team WIT. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -155,11 +155,11 @@
     },
     {
       "QuestionNumber": "9.7",
-      "Phrase": "Bij een stand van 25:25, met nog 2 seconden te spelen in de wedstrijd. Een official van team WIT (thuisploeg) die niet op het wedstrijdformulier ingeschreven staat, onderschept de bal die hoog in de richting van het lege doel vliegt. Deze actie verhindert zo een doelpunt van team ZWART. Onmiddellijk na deze actie weerklinkt het eindsignaal. Correcte beslissing?",
+      "Phrase": "Een stand van 25:25, met nog 2 seconden te spelen in de wedstrijd. Een official van team WIT (thuisploeg) die niet op het wedstrijdformulier ingeschreven staat, onderschept de bal die hoog in de richting van het lege doel vliegt. Deze actie verhindert zo een doelpunt van team ZWART. Onmiddellijk na deze actie weerklinkt het eindsignaal. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "Eindstand 25:25.",
+          "Phrase": "Eindstand 25:25",
           "Correct": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Eindstand 25:26.",
+          "Phrase": "Eindstand 25:26",
           "Correct": true
         },
         {
@@ -195,12 +195,12 @@
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "ZWART9 krijgt een bijkomende uitsluiting",
+          "Phrase": "ZWART9 krijgt een bijkomende uitsluiting.",
           "Correct": true
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Beide doelpunten zijn geldig.",
+          "Phrase": "Beide doelpunten zijn geldig",
           "Correct": true
         },
         {
@@ -257,7 +257,7 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "2-minuten uitsluiting tegen WIT9",
+          "Phrase": "2-minutenuitsluiting tegen WIT9",
           "Correct": true
         }
       ]

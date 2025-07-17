@@ -13,12 +13,12 @@
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "In het algemeen, zou enkel de tijdwaarnemer het spel moeten onderbreken, wanneer dit noodzakelijk is.",
+          "Phrase": "In het algemeen zou enkel de tijdwaarnemer het spel moeten onderbreken wanneer dit noodzakelijk is.",
           "Correct": true
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "De wedstrijdsecretaris moet fluiten, wanneer hij vaststelt dat een uitgesloten speler te vroeg het speelveld betreedt.",
+          "Phrase": "De wedstrijdsecretaris moet fluiten wanneer hij vaststelt dat een uitgesloten speler te vroeg het speelveld betreedt.",
           "Correct": false
         },
         {
@@ -28,14 +28,14 @@
         },
         {
           "AnswerNumber": "e",
-          "Phrase": "Het tellen van het aantal aanvallen, wanneer een speler na verzorging op het speelveld, 3 aanvallen moet afblijven, is een gezamenlijke taak van de wedstrijdsecretaris en de tijdwaarnemer.",
+          "Phrase": "Het tellen van het aantal aanvallen, wanneer een speler na verzorging op het speelveld 3 aanvallen aan de kant moet blijven, is een gezamenlijke taak van de wedstrijdsecretaris en de tijdwaarnemer.",
           "Correct": true
         }
       ]
     },
     {
       "QuestionNumber": "18.2",
-      "Phrase": "WIT5 heeft een duidelijke scorekans. Team official A van team WIT beledigt de tijdwaarnemer. De tijdwaarnemer fluit net op het ogenblik dat WIT5 gaat werpen. De actie is enkel opgemerkt door de tijdwaarnemer. Correcte beslissing?",
+      "Phrase": "WIT5 heeft een duidelijke scorekans. Teamofficial A van team WIT beledigt de tijdwaarnemer. De tijdwaarnemer fluit net op het ogenblik dat WIT5 gaat werpen. De actie is enkel opgemerkt door de tijdwaarnemer. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -44,7 +44,7 @@
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Bestraffing van team official A van team WIT",
+          "Phrase": "Bestraffing van teamofficial A van team WIT",
           "Correct": false
         },
         {
@@ -66,16 +66,16 @@
     },
     {
       "QuestionNumber": "18.3",
-      "Phrase": "De verantwoordelijke team official van team WIT beledigt de wedstrijdsecretaris, zonder dat de scheidsrechters of de waarnemer dit bemerken. Bij de volgende spelonderbreking van het spel, informeert de wedstrijdsecretaris de scheidsrechters over wat er gebeurd is. Correcte beslissing?",
+      "Phrase": ". De verantwoordelijke teamofficial van team WIT beledigt de wedstrijdsecretaris, zonder dat de scheidsrechters of de waarnemer dit bemerken. Bij de volgende spelonderbreking van het spel, informeert de wedstrijdsecretaris de scheidsrechters over wat er gebeurd is. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "Diskwalificatie voor de verantwoordelijke team official van team WIT, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters)",
+          "Phrase": "Diskwalificatie voor de verantwoordelijke teamofficial van team WIT, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters)",
           "Correct": false
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "2-minuten uitsluiting voor de verantwoordelijke team official van team WIT",
+          "Phrase": "2-minutenuitsluiting voor de verantwoordelijke teamofficial van team WIT",
           "Correct": false
         },
         {
@@ -85,7 +85,7 @@
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Waarschuwing voor de verantwoordelijke team official van team WIT",
+          "Phrase": "Waarschuwing voor de verantwoordelijke teamofficial van team WIT",
           "Correct": false
         },
         {
@@ -97,7 +97,7 @@
     },
     {
       "QuestionNumber": "18.4",
-      "Phrase": "Team WIT is in balbezit aan de vrije worplijn van team ZWART. De waarnemer onderbreekt het spel en legt de scheidsrechters uit dat official A van team ZWART hem beledigd heeft. Correcte beslissing?",
+      "Phrase": "Team WIT is in balbezit aan de vrijeworplijn van team ZWART. De waarnemer onderbreekt het spel en legt de scheidsrechters uit dat official A van team ZWART hem beledigd heeft. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -111,19 +111,19 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Het spel wordt hernomen met een vrije worp voor team WIT aan de wisselzone van team ZWART.",
+          "Phrase": "Het spel wordt hernomen met een vrije worp voor team WIT aan de wisselzone van team ZWART",
           "Correct": false
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Het spel wordt hernomen met een vrije worp voor team WIT aan de vrije worplijn van team ZWART.",
+          "Phrase": "Het spel wordt hernomen met een vrije worp voor team WIT aan de vrijeworplijn van team ZWART",
           "Correct": true
         }
       ]
     },
     {
       "QuestionNumber": "18.5",
-      "Phrase": "Team WIT is in balbezit aan de vrije worplijn van team ZWART. De tijdwaarnemer onderbreekt het spel en legt aan de scheidsrechters uit dat official A van team WIT hem beledigd heeft. Deze actie werd enkel door de tijdwaarnemer vastgesteld. Correcte beslissing?",
+      "Phrase": "Team WIT is in balbezit aan de vrijeworplijn van team ZWART. De tijdwaarnemer onderbreekt het spel en legt aan de scheidsrechters uit dat official A van team WIT hem beledigd heeft. Deze actie werd enkel door de tijdwaarnemer vastgesteld. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -132,33 +132,33 @@
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "2-minuten uitsluiting voor official A van team ZWART, schriftelijk verslag",
+          "Phrase": "2-minutenuitsluiting voor official A van team ZWART, schriftelijk verslag",
           "Correct": false
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Het spel wordt hernomen met een vrije worp voor team ZWART aan de wisselzone van team WIT.",
+          "Phrase": "Het spel wordt hernomen met een vrije worp voor team ZWART aan de wisselzone van team WIT",
           "Correct": false
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Het spel wordt hernomen met een vrije worp voor team WIT aan de vrije worp lijn van team ZWART.",
+          "Phrase": "Het spel wordt hernomen met een vrije worp voor team WIT aan de vrijeworplijn van team ZWART",
           "Correct": true
         }
       ]
     },
     {
       "QuestionNumber": "18.6",
-      "Phrase": "De official A van team WIT begeeft zich tijdens het spel herhaaldelijk naar de wedstrijdtafel om van vlak ernaast te coachen. Daarbij protesteert hij tegen de beslissingen van de scheidsrechters. Door het lawaai in de hal merken de scheidsrechters dit niet op. Correcte beslissing?",
+      "Phrase": "De official A van team WIT begeeft zich tijdens het spel herhaaldelijk naar de wedstrijdtafel om vlak ernaast te coachen. Daarbij protesteert hij tegen de beslissingen van de scheidsrechters. Door het lawaai in de hal merken de scheidsrechters dit niet op. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "De tijdwaarnemer onderbreekt onmiddellijk het spel en licht de scheidsrechters in over het foute gedrag van official A van team WIT.",
+          "Phrase": "De tijdwaarnemer onderbreekt onmiddellijk het spel en licht de scheidsrechters in over het foute gedrag van official A van team WIT",
           "Correct": false
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "De tijdwaarnemer wacht tot de volgende onderbreking van het spel en licht de scheidsrechters in over het foute gedrag van official A van team WIT.",
+          "Phrase": "De tijdwaarnemer wacht tot de volgende onderbreking van het spel en licht de scheidsrechters in over het foute gedrag van official A van team WIT",
           "Correct": true
         },
         {
@@ -175,11 +175,11 @@
     },
     {
       "QuestionNumber": "18.7",
-      "Phrase": "Wanneer zouden de tijdwaarnemer/wedstrijdsecretaris de scheidsrechters moeten informeren over een inbreuk op het wisselzone reglement die niet door de scheidsrechters werd opgemerkt?",
+      "Phrase": "Wanneer zouden de tijdwaarnemer/wedstrijdsecretaris de scheidsrechters moeten informeren over een inbreuk op het wisselzonereglement die niet door de scheidsrechters werd opgemerkt?",
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "Onmiddellijk",
+          "Phrase": "Direct",
           "Correct": false
         },
         {

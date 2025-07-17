@@ -96,7 +96,7 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Vrije worp voor team ZWART na fluitsignaal",
+          "Phrase": "vrije worp voor team ZWART na fluitsignaal",
           "Correct": false
         },
         {
@@ -127,12 +127,12 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "In het geval een vrije worp of een inworp, wanneer de spelers plaats hebben genomen aan hun eigen doelgebied lijn",
+          "Phrase": "In het geval een vrije worp of een inworp, wanneer de spelers plaats hebben genomen aan hun eigen doelgebiedlijn",
           "Correct": true
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Tijdens de uitvoering van een uitworp of een beginworp, wanneer de verdedigende speler, buiten de doelgebied lijn of de beginworp zone, staat.",
+          "Phrase": "Tijdens de uitvoering van een uitworp of een beginworp, wanneer de verdedigende speler buiten de doelgebiedlijn of de beginworpzone staat",
           "Correct": true
         }
       ]

@@ -23,14 +23,14 @@
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "2-minuten uitsluiting voor WIT3",
+          "Phrase": "2-minutenuitsluiting voor WIT3",
           "Correct": false
         }
       ]
     },
     {
       "QuestionNumber": "7.2",
-      "Phrase": "Een risicovolle pas wordt gespeeld van ZWART3 naar ZWART11. Wanneer de bal in de lucht is, realiseert ZWART11 zich dat hij de bal niet zal kunnen vangen. Daarom slaat hij hem met de vuist naar ZWART9, die midden op het speelveld staat. Correcte be beslissing?",
+      "Phrase": "Een risicovolle pass wordt gespeeld van ZWART3 naar ZWART11. Wanneer de bal in de lucht is, realiseert ZWART11 zich dat hij de bal niet zal kunnen vangen. Daarom slaat hij hem met de vuist naar ZWART9, die midden op het speelveld staat. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -49,7 +49,7 @@
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "2-minuten uitsluiting voor ZWART11",
+          "Phrase": "2-minutenuitsluiting voor ZWART11",
           "Correct": false
         }
       ]
@@ -108,7 +108,7 @@
     },
     {
       "QuestionNumber": "7.5",
-      "Phrase": "Een speler vangt de bal die hem door een ploegmaat wordt toegespeeld, in de lucht, landt op de rechtervoet en springt met deze af. Hij zet eerst de linker voet neer en dan de rechtervoet en werpt. Hoeveel passen maakte hij?",
+      "Phrase": "Een speler vangt de bal die hem door een ploegmaat wordt toegespeeld, in de lucht, landt op de rechtervoet en springt met deze af. Hij zet eerst de linkervoet neer en dan de rechtervoet en werpt. Hoeveel passen maakte hij?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -258,7 +258,7 @@
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Vrije worp en 2-minuten uitsluiting",
+          "Phrase": "Vrije worp en 2-minutenuitsluiting",
           "Correct": false
         },
         {
@@ -275,7 +275,7 @@
     },
     {
       "QuestionNumber": "7.12",
-      "Phrase": "Na een worp naar doel door WIT4 springt de bal van de doelpaal van team ZWART terug, treft de scheidsrechter die in het doelgebied staat naast het doel. Dien ten gevolge gaat de bal over de zijlijn en niet over de buitendoellijn. Correcte beslissing?",
+      "Phrase": "Na een worp op doel door WIT4, springt de bal van de doelpaal van team ZWART terug en treft de scheidsrechter die in het doelgebied staat naast het doel. Dientengevolge gaat de bal over de zijlijn en niet over de buitendoellijn. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -336,7 +336,7 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "2-minuten uitsluiting voor WIT9",
+          "Phrase": "2-minutenuitsluiting voor WIT9",
           "Correct": false
         },
         {
@@ -374,7 +374,7 @@
     },
     {
       "QuestionNumber": "7.16",
-      "Phrase": "Na een onnauwkeurige pas van WIT3 naar WIT9, rolt de bal naar de zijlijn richting wisselbank van team WIT. ZWART10 is daar 1 meter van verwijderd en klaar om de bal te pakken, als WIT9 naar de bal duikt en de bal met de vuist in de richting van het midden van het speelveld slaat, terug naar WIT3. Door deze actie glijdt WIT9 nadien over de zijlijn. Correcte beslissing?",
+      "Phrase": "Na een onnauwkeurige pass van WIT3 naar WIT9, rolt de bal naar de zijlijn richting wisselbank van team WIT. ZWART10 is daar 1 meter van verwijderd en klaar om de bal te pakken, als WIT9 naar de bal duikt en de bal met de vuist in de richting van het midden van het speelveld slaat, terug naar WIT3. Door deze actie glijdt WIT9 nadien over de zijlijn. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -452,7 +452,7 @@
     },
     {
       "QuestionNumber": "7.19",
-      "Phrase": "WIT3 werpt naar het doel van team ZWART en treft de doelpaal. De bal rolt uit het doelgebied. Aan de vrije worplijn duiken WIT3 en ZWART4 naar de bal zonder elkaar in gevaar te brengen. ZWART4 kan de bal naar ZWART6 duwen die een tegenaanval opzet en een doelpunt scoort. Correcte beslissing?",
+      "Phrase": "WIT3 werpt naar het doel van team ZWART en treft de doelpaal. De bal rolt uit het doelgebied. Aan de vrijeworplijn duiken WIT3 en ZWART4 naar de bal zonder elkaar in gevaar te brengen. ZWART4 kan de bal naar ZWART6 duwen die een tegenaanval opzet en een doelpunt scoort. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -550,7 +550,7 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Onmiddellijke vrije worp voor team WIT wegens passief spel",
+          "Phrase": "Onmiddellijke vrije worp voor team WIT wegens passief spel.",
           "Correct": false
         },
         {
@@ -560,14 +560,14 @@
         },
         {
           "AnswerNumber": "e",
-          "Phrase": "2-minuten uitsluiting voor ZWART6 of ZWART8 in geval van herhaling",
+          "Phrase": "2-minutenuitsluiting voor ZWART6 of ZWART8 in geval van herhaling",
           "Correct": false
         }
       ]
     },
     {
       "QuestionNumber": "7.24",
-      "Phrase": " Door welke van de volgende handelingen wordt het waarschuwingssignaal voor passief spel opgeheven?",
+      "Phrase": "Door welke van de volgende handelingen wordt het waarschuwingssignaal voor passief spel opgeheven?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -581,12 +581,12 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Team time-out",
+          "Phrase": "Teamtime-out",
           "Correct": false
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Pressiespel voordat het team zijn volgende passieve acties",
+          "Phrase": "Pressiespel tot aan de volgende passieve actie van het team",
           "Correct": false
         },
         {
@@ -598,21 +598,21 @@
     },
     {
       "QuestionNumber": "7.25",
-      "Phrase": "Welke van de volgende instructies met betrekking tot het waarschuwingsteken voor passief spel (IHF-handgebaar 17) zijn correct:",
+      "Phrase": "Welke van de volgende richtlijnen met betrekking tot het waarschuwingsteken voor passief spel (IHF-handgebaar 17) zijn correct:",
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "Wanneer een tendens tot passief spel onderkend wordt geeft eerst de doelscheidsrechter dit aan met het IHF-handgebaar 17. De veldscheidsrechter heft dan, op dezelfde wijze, de arm op.",
+          "Phrase": "Wanneer een tendens tot passief spel onderkend wordt, geeft eerst de doelscheidsrechter dit aan met het IHF-handgebaar 17. De veldscheidsrechter heft dan, op dezelfde wijze, de arm op.",
           "Correct": false
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Indien, na het tonen van het waarschuwingsteken, het aanvallende team een team-time-out aanvraagt dan moet het waarschuwingsteken na het hernemen van het spel opnieuw getoond worden.",
+          "Phrase": "Indien, na het tonen van het waarschuwingsteken, het aanvallende team een teamtime-out aanvraagt dan moet het waarschuwingsteken na het hernemen van het spel opnieuw getoond worden.",
           "Correct": true
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Indien het team in balbezit na het tonen van het waarschuwingsteken geen duidelijke poging onderneemt om tot een doelworp te komen, dan geeft ofwel de veldscheidsrechter of de doelscheidsrechter een vrije worp omwille van.",
+          "Phrase": "Indien het team in balbezit na het tonen van het waarschuwingsteken geen duidelijke poging onderneemt om tot een doelworp te komen, dan geeft ofwel de veldscheidsrechter of de doelscheidsrechter een vrije worp omwille van passief spel.",
           "Correct": true
         },
         {
@@ -624,7 +624,7 @@
     },
     {
       "QuestionNumber": "7.26",
-      "Phrase": "Team WIT vertraagd de uitvoering van de beginworp. Het team werd reeds eerder voor dezelfde tactische vertraging gewaarschuwd. Correcte beslissing?",
+      "Phrase": "Team WIT vertraagt de uitvoering van de beginworp. Het team werd reeds eerder voor dezelfde tactische vertraging gewaarschuwd. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -648,7 +648,7 @@
         },
         {
           "AnswerNumber": "e",
-          "Phrase": "Progressieve bestraffing van de verantwoordelijke team official van team WIT",
+          "Phrase": "Progressieve bestraffing van de verantwoordelijke teamofficial van team WIT",
           "Correct": false
         }
       ]
@@ -659,22 +659,22 @@
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "Het waarschuwingsteken moet altijd gestopt worden, wanneer een team official van het verdedigende team een progressieve bestraffing krijgt tijdens de loop van een aanval",
+          "Phrase": "Het waarschuwingsteken moet altijd beëindigd worden, wanneer een teamofficial van het verdedigende team een progressieve bestraffing krijgt tijdens de loop van een aanval",
           "Correct": true
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Wanneer het waarschuwingsteken tijdens een aanval voor de eerste maal getoond werd moet de arm na ongeveer 10 seconden omlaag gebracht worden",
+          "Phrase": "Wanneer het waarschuwingsteken tijdens een aanval voor de eerste maal getoond werd, moet de arm na ongeveer 10 seconden omlaag gebracht worden",
           "Correct": false
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Het waarschuwingsteken moet als herinnering na de eerste onderbreking herhaald worden indien het voor de onderbreking reeds getoond werd.",
+          "Phrase": "Het waarschuwingsteken moet als herinnering na de eerste onderbreking herhaald worden indien het voor de onderbreking reeds getoond werd",
           "Correct": false
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Het handgebaar moet altijd gestopt worden wanneer een speler van het verdedigende team progressieve bestraft wordt in de loop van een aanval.",
+          "Phrase": "Het handgebaar moet altijd opgeheven worden wanneer een speler van het verdedigende team progressieve bestraft wordt in de loop van een aanval.",
           "Correct": true
         },
         {
@@ -695,17 +695,17 @@
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "De scheidsrechters moeten attent zijn voor het langzame en late wisselen van spelers na de beginworp reeds werd uitgevoerd.",
+          "Phrase": "De scheidsrechters moeten attent zijn voor het langzame en late wisselen van spelers nadat de beginworp reeds werd uitgevoerd.",
           "Correct": true
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "De scheidsrechters moeten waarnemen wanneer team probeert om het tempo op te drijven of een ruimtelijk voordeel probeert te winnen gedurende de opbouwfase.",
+          "Phrase": "De scheidsrechters moeten kijken of een team probeert om het tempo op te drijven of een ruimtelijk voordeel probeert te winnen gedurende de opbouwfase.",
           "Correct": true
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "De scheidsrechters moeten opmerkzaam zijn voor passief spel van zodra het team in balbezit komt in zijn eigen speelhelft.",
+          "Phrase": "De scheidsrechters moeten opmerkzaam zijn voor passief spel van zodra het team in balbezit komt in zijn eigen speelhelft",
           "Correct": true
         },
         {
@@ -717,7 +717,7 @@
     },
     {
       "QuestionNumber": "7.29",
-      "Phrase": "Team WIT is in balbezit. De scheidsrechters tonen het waarschuwingsteken voor passief spel. Na 1 pass werpt WIT5 naar doel. De worp wordt geblokkeerd door ZWART2 en de bal springt terug naar WIT5, die de bal doorspeelt naar WIT9. Hoeveel passen werden er gegeven?",
+      "Phrase": "Team WIT is in balbezit. De scheidsrechters tonen het waarschuwingsteken voor passief spel. Na 1 pass werpt WIT5 naar doel. De worp wordt geblokt door ZWART2 en de bal springt terug naar WIT5, die de bal doorspeelt naar WIT9. Hoeveel passes werden er gegeven?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -738,7 +738,7 @@
     },
     {
       "QuestionNumber": "7.30",
-      "Phrase": "Team WIT is in balbezit. De scheidsrechters tonen het waarschuwingsteken voor passief spel. WIT9 probeert de bal door te spelen naar WIT2, maar de worp wordt geblokkeerd door ZWART8 en de bal springt terug naar WIT9. WIT9 probeert door de verdediging van team ZWART te dringen, maar krijgt een vrije worp. WIT8 voert de vrije worp uit door de bal naar WIT2 te spelen. Hoeveel passen werden er gegeven?",
+      "Phrase": "Team WIT is in balbezit. De scheidsrechters tonen het waarschuwingsteken voor passief spel. WIT9 probeert de bal door te spelen naar WIT2, maar de worp wordt geblokt door ZWART8 en de bal springt terug naar WIT9. WIT9 probeert door de verdediging van team ZWART te dringen, maar krijgt een vrije worp. WIT8 voert de vrije worp uit door de bal naar WIT2 te spelen. Hoeveel passes werden er gegeven?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -759,59 +759,59 @@
     },
     {
       "QuestionNumber": "7.31",
-      "Phrase": "Team WIT is in balbezit. De scheidsrechters onderkennen een passieve trend in het spel van team WIT. De scheidsrechters tonen het waarschuwingsteken voor passief spel. Team ZWART ziet dat het waarschuwingsteken getoond is en zij worden agressiever in de verdediging, en proberen een vrije worp te veroorzaken. Na 3 passen van team WIT, veroorzaakt team ZWART een vrije worp. Correcte beslissing?",
+      "Phrase": "Team WIT is in balbezit. De scheidsrechters onderkennen een passieve trend in het spel van team WIT. De scheidsrechters tonen het waarschuwingsteken voor passief spel. Team ZWART ziet dat het waarschuwingsteken getoond is en zij worden agressiever in de verdediging, en proberen een vrije worp te veroorzaken. Na 3 passes van team WIT, veroorzaakt team ZWART een vrije worp. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "Team WIT heeft nog 4 passen om een doelworp te ondernemen.",
+          "Phrase": "Team WIT heeft nog 4 passen om een doelworp te ondernemen",
           "Correct": false
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Team WIT heeft nog 2 passen om een doelworp te ondernemen.",
+          "Phrase": "Team WIT heeft nog 2 passen om een doelworp te ondernemen",
           "Correct": false
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Team WIT heeft nog 1 pas om een doelworp te ondernemen.",
+          "Phrase": "Team WIT heeft nog 1 pas om een doelworp te ondernemen",
           "Correct": true
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Team WIT moet de vrije worp als een directe worp op doel uitvoeren.",
+          "Phrase": "Team WIT moet de vrije worp als een directe worp op doel uitvoeren",
           "Correct": false
         }
       ]
     },
     {
       "QuestionNumber": "7.32",
-      "Phrase": "Team WIT is in aanval. De scheidsrechters onderkennen een passieve trend in het spel van team WIT en tonen het waarschuwingsteken voor passief spel. Team WIT past de bal 4 maal, vooraleer WIT9 een worp naar doel uitvoert. De worp wordt geblokt door ZWART3 en gaat over de zijlijn buiten met een inworp voor team WIT. Correcte beslissing?",
+      "Phrase": "Team WIT is in aanval. De scheidsrechters onderkennen een passieve trend in het spel van team WIT en tonen het waarschuwingsteken voor passief spel. Team WIT passt de bal 4 maal, vooraleer WIT9 een worp naar doel uitvoert. De worp wordt geblokt door ZWART3 en gaat over de zijlijn buiten met als gevolg een inworp voor team WIT. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "Het waarschuwingsteken is niet meer geldig.",
+          "Phrase": "Het waarschuwingsteken is niet meer geldig",
           "Correct": false
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Team WIT heeft nog 4 passen om een doelworp te ondernemen.",
+          "Phrase": "Team WIT heeft nog 4 passen om een doelworp te ondernemen",
           "Correct": false
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Team WIT heeft nog 2 passen om een doelworp te ondernemen.",
+          "Phrase": "Team WIT heeft nog 2 passen om een doelworp te ondernemen",
           "Correct": false
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Team WIT heeft nog 1 pas om een doelworp te ondernemen.",
+          "Phrase": "Team WIT heeft nog 1 pass om een doelworp te ondernemen",
           "Correct": true
         }
       ]
     },
     {
       "QuestionNumber": "7.33",
-      "Phrase": "Team WIT is in balbezit, en omwille van de passieve trend in het spel van team WIT, tonen de scheidsrechters het waarschuwingsteken. Na 4 passen werpt WIT5 naar doel. ZWART3 blokt de worp, en de bal gaat terug naar WIT5. Correcte beslissing?",
+      "Phrase": "Team WIT is in balbezit, en omwille van de passieve trend in het spel van team WIT, tonen de scheidsrechters het waarschuwingsteken. Na 4 passes werpt WIT5 naar doel. ZWART3 blokt de worp, en de bal gaat terug naar WIT5. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -820,7 +820,7 @@
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Team WIT heeft nog 1 pas om naar doel te werpen.",
+          "Phrase": "Team WIT heeft nog 1 pass om naar doel te werpen",
           "Correct": true
         },
         {
@@ -835,7 +835,7 @@
         },
         {
           "AnswerNumber": "e",
-          "Phrase": "Team WIT heeft geen passen meer over vooraleer op doel te werpen",
+          "Phrase": "Team WIT heeft geen passes meer over vooraleer op doel te werpen",
           "Correct": false
         }
       ]
@@ -846,17 +846,17 @@
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "Vrije worp voor team ZWART; nieuwe aanval, omdat team ZWART in balbezit komt na de worp op doel.",
+          "Phrase": "Vrije worp voor team ZWART; nieuwe aanval, omdat team ZWART in balbezit komt na de worp op doel",
           "Correct": false
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Vrije worp voor team ZWART; waarschuwingsteken passief spel, team ZWART heeft 2 passes gebruikt.",
+          "Phrase": "Vrije worp voor team ZWART; waarschuwingsteken passief spel, team ZWART heeft 2 passes gebruikt",
           "Correct": false
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Vrije worp voor team ZWART; waarschuwingsteken passief spel, team ZWART heeft 3 passes gebruikt.",
+          "Phrase": "Vrije worp voor team ZWART; waarschuwingsteken passief spel, team ZWART heeft 3 passes gebruikt",
           "Correct": true
         },
         {
@@ -868,26 +868,26 @@
     },
     {
       "QuestionNumber": "7.35",
-      "Phrase": "De score is 27-27 met nog 20 seconden te gaan in de wedstrijd. Team WIT speelt zonder doelverdediger. Het waarschuwingsteken wordt getoond door de scheidsrechters. Na drie passes, speelt WIT8 de bal naar WIT7, die naar doel werpt. De bal wordt geblokt door verdediger ZWART2 en de bal gaat over de zijlijn. Kort nadat de inworp is uitgevoerd, weerklinkt het signaal van de wedstrijdtafel, omdat team WIT een team-time-out heeft aangevraagd. Hoe moet het spel hernomen worden?",
+      "Phrase": "De score is 27-27 met nog 20 seconden te gaan in de wedstrijd. Team WIT speelt zonder doelverdediger. Het waarschuwingsteken wordt getoond door de scheidsrechters. Na drie passes, speelt WIT8 de bal naar WIT7, die naar doel werpt. De bal wordt geblokt door verdediger ZWART2 en de bal gaat over de zijlijn. Kort nadat de inworp is uitgevoerd, weerklinkt het signaal van de wedstrijdtafel, omdat team WIT een teamtime-out heeft aangevraagd/ Hoe moet het spel hernomen worden?",
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "Vrije worp voor team WIT.",
+          "Phrase": "Vrije worp voor team WIT",
           "Correct": true
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Inworp voor team WIT.",
+          "Phrase": "Inworp voor team WIT",
           "Correct": false
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "De worp moet uitgevoerd worden als een directe worp naar doel.",
+          "Phrase": "De worp moet uitgevoerd worden als een directe worp naar doel",
           "Correct": false
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Naast de mogelijkheid om de worp uit te voeren als een directe worp naar doel, mag de werper de bal naar een ploegmaat spelen.",
+          "Phrase": "Naast de mogelijkheid om de worp uit te voeren als een directe worp naar doel, mag de werper de bal naar een ploegmaat spelen",
           "Correct": true
         }
       ]
@@ -908,7 +908,7 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Directe 2-minuten uitsluiting voor ZWART7",
+          "Phrase": "Directe 2-minutenuitsluiting voor ZWART7",
           "Correct": false
         },
         {

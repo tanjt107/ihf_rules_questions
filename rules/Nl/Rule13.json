@@ -8,7 +8,7 @@
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "2-minuten uitsluiting voor ZWART6",
+          "Phrase": "2-minutenuitsluiting voor ZWART6",
           "Correct": true
         },
         {
@@ -35,7 +35,7 @@
     },
     {
       "QuestionNumber": "13.2",
-      "Phrase": "ZWART7 is in balbezit en tracht een tegenaanval te starten, maar wordt door WIT17 vastgehouden. De scheidrechter wil net gaan fluiten, maar laat voordeel, wanneer ZWART8 net de bal gekregen heeft en een worp op het doel van WIT doet. Doelverdediger WIT12 vangt het shot op en wil de tegenaanval starten. Beide teams hebben eerder in de wedstrijd reeds 3 waarschuwingen gekregen. Correcte beslissing?",
+      "Phrase": "ZWART7 is in balbezit en tracht een tegenaanval te starten, maar wordt door WIT17 vastgehouden. De scheidrechter wil net gaan fluiten, maar laat voordeel wanneer ZWART8 net de bal gekregen heeft en een worp op het doel van WIT doet. Doelverdediger WIT12 vangt het shot op en wil de tegenaanval starten. Beide teams hebben eerder in de wedstrijd reeds 3 waarschuwingen gekregen. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -44,7 +44,7 @@
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "2-minuten uitsluiting voor WIT17",
+          "Phrase": "2-minutenuitsluiting voor WIT17",
           "Correct": true
         },
         {
@@ -66,16 +66,16 @@
     },
     {
       "QuestionNumber": "13.3",
-      "Phrase": "Team WIT krijgt een vrije worp . ZWART6 in balbezit. Hij brengt de bal met zich mee, vier meter van de plaats waar WIT de vrije worp zou moeten uitvoeren. Correcte beslissing?",
+      "Phrase": "Team WIT krijgt een vrije worp. ZWART6 heeft balbezit. Hij neemt de bal met zich mee, vier meter van de plaats waar WIT de vrije worp zou moeten uitvoeren. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "Waarschuwing voor ZWART6",
+          "Phrase": "Waarschuwing voor ZWART6n",
           "Correct": false
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "2-minuten uitsluiting van ZWART6",
+          "Phrase": "2-minutenuitsluiting van ZWART6",
           "Correct": true
         },
         {
@@ -85,7 +85,7 @@
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Vrije worp voor team WIT op de plaats van de fout die leidde tot de vrije worp",
+          "Phrase": "Vrije worp voor team WIT op de plaats van de fout die leidde tot de vrije worp,",
           "Correct": true
         },
         {
@@ -101,7 +101,7 @@
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "2-minuten uitsluiting voor WIT4",
+          "Phrase": "2-minutenuitsluiting voor WIT4",
           "Correct": true
         },
         {
@@ -137,7 +137,7 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Vrije worp voor team WIT na fluitsignaal uitgevoerd vanaf de plaats waar de bal zich bevond op het ogenblik van de spelonderbreking",
+          "Phrase": "Vrije worp voor team WIT na fluitsignaal uitgevoerd vanaf de plaats waar de bal zich bevond op het ogenblik van de spelonderbreking.",
           "Correct": false
         },
         {
@@ -175,7 +175,7 @@
     },
     {
       "QuestionNumber": "13.7",
-      "Phrase": "WIT7 is in tegenaanval. Met een speler van team ZWART tussen hem en de doelverdediger, werpt hij naar doel en treft doelverdediger ZWART12 met de bal op het hoofd. ZWART12 valt neer. De bal springt terug naar WIT9, die vrij staat aan de doelgebied. WIT9 werpt de bal in de richting van het lege doel. Net voordat de bal de doellijn overschrijdt, fluit de scheidsrechter en onderbreekt het spel. Doelverdediger ZWART12 heeft medische verzorging nodig op het speelveld. Correcte beslissing?",
+      "Phrase": "WIT7 is in tegenaanval. Met een speler van team ZWART tussen hem en de doelverdediger, werpt hij naar doel en treft doelverdediger ZWART12 met de bal op het hoofd. ZWART12 valt neer. De bal springt terug naar WIT9, die vrijstaat aan het doelgebied. WIT9 werpt de bal in de richting van het lege doel. Net voordat de bal de doellijn overschrijdt, fluit de scheidsrechter en onderbreekt het spel. Doelverdediger ZWART12 heeft medische verzorging nodig op het speelveld. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -199,7 +199,7 @@
         },
         {
           "AnswerNumber": "e",
-          "Phrase": "ZWART12 moet het speelveld verlaten en kan enkel terugkomen na 3 aanvallen van zijn team.",
+          "Phrase": "ZWART12 moet het speelveld verlaten en kan enkel terugkomen na 3 aanvallen van zijn team",
           "Correct": false
         }
       ]
@@ -210,22 +210,22 @@
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "2-minuten uitsluiting voor WIT5 en vrije worp voor team ZWART op de plaats waar de bal nu is",
+          "Phrase": "2-minutenuitsluiting voor WIT5 en vrije worp voor team ZWART op de plaats waar de bal nu is.",
           "Correct": false
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Waarschuwing voor WIT5 en vrije worp voor team ZWART op de plaats waar de bal nu is",
+          "Phrase": "Waarschuwing voor WIT5 en vrije worp voor team ZWART op de plaats waar de bal nu is.",
           "Correct": false
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "2-minuten uitsluiting voor WIT5 en vrije worp voor team ZWART op de plaats waar de fout werd begaan",
+          "Phrase": "2-minutenuitsluiting voor WIT5 en vrije worp voor team ZWART op de plaats waar de fout werd begaan.",
           "Correct": true
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Waarschuwing voor WIT5 en vrije worp voor ZWART op de plaats waar de fout werd begaan",
+          "Phrase": "Waarschuwing voor WIT5 en vrije worp voor ZWART op de plaats waar de fout werd begaan.",
           "Correct": false
         }
       ]
@@ -246,7 +246,7 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "2-minuten uitsluiting voor WIT5",
+          "Phrase": "2-minutenuitsluiting voor WIT5",
           "Correct": true
         },
         {
@@ -262,7 +262,7 @@
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "Wanneer de bal niet onmiddellijk neergelegd wordt na een vrije worpbeslissing, is het de tegenstander toegestaan de vrije worp uit te voeren op de plaats waar de bal zich bevindt.",
+          "Phrase": "Wanneer de bal niet onmiddellijk neergelegd wordt na een vrijeworpbeslissing, is het de tegenstander toegestaan de vrije worp uit te voeren op de plaats waar de bal zich bevindt.",
           "Correct": false
         },
         {
@@ -288,7 +288,7 @@
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "7m-worp voor team ZWART",
+          "Phrase": "7-meterworp voor team ZWART",
           "Correct": false
         },
         {
@@ -310,7 +310,7 @@
     },
     {
       "QuestionNumber": "13.12",
-      "Phrase": "Team WIT is in balbezit aan de vrije worplijn van team ZWART. Official A van team ZWART protesteert zo fel tegen een beslissing van de scheidsrechter, dat de scheidsrechters het spel onderbreken. Correcte beslissing?",
+      "Phrase": "Team WIT is in balbezit aan de vrijeworplijn van team ZWART. Official A van team ZWART protesteert zo fel tegen een beslissing van de scheidsrechter, dat de scheidsrechters het spel onderbreken. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -324,14 +324,14 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Vrije worp voor team WIT aan de vrije worplijn van team ZWART",
+          "Phrase": "Vrije worp voor team WIT aan de vrijeworplijn van team ZWART",
           "Correct": true
         }
       ]
     },
     {
       "QuestionNumber": "13.13",
-      "Phrase": "ZWART6 krijgt een waarschuwing. Bij het fluitsignaal voor de uitvoering van de daaropvolgende vrije worp voor team WIT, verliest de veldscheidsrechter speler WIT11, die zich tussen de vrije worplijn en de doelgebied lijn bevindt, uit het oog. WIT11 krijgt de bal en heeft een open doelkans. De doelscheidsrechter had de situatie gezien. Correcte beslissing?",
+      "Phrase": "ZWART6 krijgt een waarschuwing. Bij het fluitsignaal voor de uitvoering van de daaropvolgende vrije worp voor team WIT, verliest de veldscheidsrechter speler WIT11, die zich tussen de vrijeworplijn en de doelgebiedlijn bevindt, uit het oog. WIT11 krijgt de bal en heeft een open doelkans. De doelscheidsrechter had de situatie gezien. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -345,12 +345,12 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "De doelscheidsrechter beslist tot vrije worp voor team ZWART.",
+          "Phrase": "De doelscheidsrechter beslist tot vrije worp voor team ZWART",
           "Correct": false
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "De doelscheidsrechter geeft WIT11 een vaarschuwing.",
+          "Phrase": "De doelscheidsrechter geeft WIT11 een waarschuwing",
           "Correct": false
         },
         {
@@ -362,16 +362,16 @@
     },
     {
       "QuestionNumber": "13.14",
-      "Phrase": "Team WIT is in balbezit. Team ZWART heeft zijn posities in verdediging ingenomen. WIT8 loopt vlak bij de zijlijn. WIT4 speelt de bal in de richting van WIT8. WIT8 botst met een fotograaf die wandelt tussen de tribunes en het speelveld en de zijlijn raakt. WIT8 kan de bal niet vangen en verliest zijn lichaamscontrole. Vooraleer de scheidsrechters de wedstrijd onderbreken, gaat de bal over de zijlijn. Wat is de correcte beslissing?",
+      "Phrase": "Team WIT is in balbezit. Team ZWART heeft zijn posities in verdediging ingenomen. WIT8 loopt vlakbij de zijlijn. WIT4 speelt de bal in de richting van WIT8. WIT8 botst met een fotograaf die wandelt tussen de tribunes en het speelveld en de zijlijn raakt. WIT8 kan de bal niet vangen en verliest zijn lichaamscontrole. Vooraleer de scheidsrechters de wedstrijd onderbreken, gaat de bal over de zijlijn. Wat is de correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "Het spel wordt hernomen met een inworp voor team ZWART.",
+          "Phrase": "Het spel wordt hernomen met een inworp voor team ZWART",
           "Correct": false
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Het spel wordt hernomen met een vrije worp voor team WIT.",
+          "Phrase": "Het spel wordt hernomen met een vrije worp voor team WIT",
           "Correct": true
         },
         {
@@ -381,14 +381,14 @@
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Vermelding op het wedstrijdblad in overeenstemming met de reglementering van de respectievelijke federatie",
+          "Phrase": "Vermelding op het wedstrijdblad in overeenstemming met de reglementering van de betreffende federatie",
           "Correct": true
         }
       ]
     },
     {
       "QuestionNumber": "13.15",
-      "Phrase": "Team ZWART is in aanval. De scheidsrechters geven een vrije worp aan ZWART2. Vooraleer ZWART2 de vrije worp kan uitvoeren, trekt ZWART11, WIT8 neer. Wat is de correcte beslissing?",
+      "Phrase": "Team ZWART is in aanval. De scheidsrechters geven een vrije worp aan ZWART2. Vooraleer ZWART2 de vrije worp kan uitvoeren, trekt ZWART11 WIT8 neer. Wat is de correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -412,7 +412,7 @@
         },
         {
           "AnswerNumber": "e",
-          "Phrase": "Directe 2-minuten uitsluiting voor ZWART11",
+          "Phrase": "Directe 2-minutenuitsluiting voor ZWART11",
           "Correct": true
         },
         {

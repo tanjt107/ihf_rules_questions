@@ -4,7 +4,7 @@
   "Questions": [
     {
       "QuestionNumber": "6.1",
-      "Phrase": "De bal ligt op de doelgebied lijn. Aanvaller WIT7 neemt hem op en probeert te scoren. WIT7 heeft een duidelijke doelkans wanneer hij foutief wordt aangevallen. Correcte beslissing?",
+      "Phrase": "De bal ligt op de doelgebiedlijn. Aanvaller WIT7 neemt hem op en probeert te scoren. WIT7 heeft een duidelijke doelkans wanneer hij foutief wordt aangevallen. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -56,7 +56,7 @@
     },
     {
       "QuestionNumber": "6.3",
-      "Phrase": "WIT3 staat met beide voeten in het speelveld en vangt een door zijn doelman afgeweerde botsende bal. Wanner hij door ZWART10 correct bedreigd wordt, tipt hij de bal meermaals in het eigen doelgebied. Correcte beslissing?",
+      "Phrase": "WIT3 staat met beide voeten in het speelveld en vangt een door zijn doelman afgeweerde botsende bal. Wanneer hij door ZWART10 correct benaderd wordt, tipt hij de bal meermaals in het eigen doelgebied. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -82,26 +82,26 @@
     },
     {
       "QuestionNumber": "6.4",
-      "Phrase": "WIT7 bevindt zich buiten het doelgebied van team ZWART, maar vangt echter de duidelijk boven het doelgebied vliegende bal en scoort een doelpunt. Correcte beslissing?",
+      "Phrase": "WIT7 bevindt zich buiten het doelgebied van team ZWART, maar desondanks vangt hij de duidelijk boven het doelgebied vliegende bal en scoort een doelpunt. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "Doelpunt voor team WIT",
+          "Phrase": "doelpunt voor team WIT",
           "Correct": true
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Vrije worp voor team ZWART",
+          "Phrase": "vrije worp voor team ZWART",
           "Correct": false
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Uitworp voor team ZWART",
+          "Phrase": "uitworp voor team ZWART",
           "Correct": false
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Uitworp voor team ZWART na fluitsignaal",
+          "Phrase": "uitworp voor team ZWART na fluitsignaal",
           "Correct": false
         }
       ]
@@ -179,18 +179,18 @@
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Hernemen van de beginworp na correctie",
+          "Phrase": "hernemen van de beginworp na correctie",
           "Correct": false
         }
       ]
     },
     {
       "QuestionNumber": "6.8",
-      "Phrase": "Verdediger ZWART7 ziet dat de cirkelspeler WIT9 volledig vrij zou staan met de doelman als hij de bal zou krijgen. Gezien hij hetzelfde reeds eerder gedaan heeft, loopt hij door het doelgebied om rond WIT9 te komen, zodat deze de pas niet kan. Krijgen. ZWART7 is al terug uit het doelgebied wanneer WIT9 de bal krijgt. WIT9 draait zich en loop recht op ZWART7 in. Correcte beslissing?",
+      "Phrase": "Verdediger ZWART7 ziet dat de cirkelspeler WIT9 volledig vrij zou staan bij de doelman als hij de bal zou krijgen. Gezien hij hetzelfde reeds eerder gedaan heeft, loopt ZWART7 door het doelgebied om rond WIT9 te komen, zodat deze de pass niet kan krijgen. ZWART7 is al terug uit het doelgebied wanneer WIT9 de bal krijgt. WIT9 draait zich en loop recht op ZWART7 in. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "7m-worp voor team WIT",
+          "Phrase": "7m-worp voor team WIT.",
           "Correct": true
         },
         {
@@ -238,7 +238,7 @@
     },
     {
       "QuestionNumber": "6.10",
-      "Phrase": "WIT10 past de bal terug in de richting van zijn eigen doelgebied. Doelverdediger WIT1 springt op en vangt de bal in de lucht. WIT1 houdt de bal vast en landt buiten zijn doelgebied. Correcte beslissing?",
+      "Phrase": "WIT10 passt de bal terug in de richting van zijn eigen doelgebied. Doelverdediger WIT1 springt op en vangt de bal in de lucht. WIT1 houdt de bal vast en landt buiten zijn doelgebied. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -257,14 +257,14 @@
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "7-meter-worp voor team ZWART",
+          "Phrase": "7-meterworp voor team ZWART",
           "Correct": false
         }
       ]
     },
     {
       "QuestionNumber": "6.11",
-      "Phrase": "De bal wordt door WIT11 terug in het doelgebied gespeeld waar doelverdediger WIT1 opspringt en de bal in de lucht vangt. De doelverdediger houdt de bal vast en landt met een voet in en een voet buiten zijn doelgebied. Correcte beslissing?",
+      "Phrase": "De bal wordt door WIT11 terug in het doelgebied gespeeld waar doelverdediger WIT1 opspringt en de bal in de lucht vangt. De doelverdediger houdt de bal vast en landt met één voet in en één voet buiten zijn doelgebied. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -283,7 +283,7 @@
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "7-meter-worp voor team ZWART",
+          "Phrase": "7-meterworp voor team ZWART",
           "Correct": false
         }
       ]
@@ -309,14 +309,14 @@
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Uitworp voor team ZWART na fluitsignaal",
+          "Phrase": "Vrije worp voor team ZWART na fluitsignaal",
           "Correct": false
         }
       ]
     },
     {
       "QuestionNumber": "6.13",
-      "Phrase": "De bal ligt op de vloer in het doelgebied van team WIT. Op dat ogenblik fluit de tijdwaarnemer en verklaart dat WIT5 een wisselfout gemaakt heeft. Correcte beslissing?",
+      "Phrase": "De bal ligt op de grond in het doelgebied van team WIT. Op dat ogenblik fluit de tijdwaarnemer en verklaart dat WIT5 een wisselfout gemaakt heeft. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -325,12 +325,12 @@
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "2-minuten uitsluiting voor WIT5",
+          "Phrase": "2-minutenuitsluiting voor WIT5",
           "Correct": true
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Vrije worp voor team ZWART aan de vrije worplijn van team WIT",
+          "Phrase": "Vrije worp voor team ZWART aan de vrijeworplijn van team WIT",
           "Correct": false
         },
         {
@@ -361,14 +361,14 @@
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Wanneer een speler met bal het eigen doelgebied raakt",
+          "Phrase": "Wanneer een speler met bal het eigen doelgebied raakt.",
           "Correct": false
         }
       ]
     },
     {
       "QuestionNumber": "6.15",
-      "Phrase": "Team WIT is in aanval. ZWART4 staat aan de doelgebied lijn. De bal vliegt in de lucht en ZWART4 raakt hem en doet hem afwijken naar zijn doelgebied. De bal wordt aangeraakt door de doelverdediger ZWART1 en gaat daarna over de buitendoellijn. Correcte beslissing?",
+      "Phrase": "Team WIT is in aanval. ZWART4 staat aan de doelgebiedlijn. De bal vliegt in de lucht en ZWART4 raakt hem en doet hem afwijken naar zijn doelgebied. De bal wordt aangeraakt door de doelverdediger ZWART1 en gaat daarna over de buitendoellijn. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -382,7 +382,7 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "7-meter worp voor team WIT",
+          "Phrase": "7-meterworp voor team WIT",
           "Correct": false
         },
         {
@@ -418,12 +418,12 @@
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "2-minuten uitsluiting voor een speler WIT10",
+          "Phrase": "2-minutenuitsluiting voor een speler WIT10",
           "Correct": true
         },
         {
           "AnswerNumber": "e",
-          "Phrase": "Vrije worp voor team ZWART aan de vrije worplijn van team WIT",
+          "Phrase": "Vrije worp voor team ZWART aan de vrijeworplijn van team WIT",
           "Correct": false
         }
       ]
@@ -486,12 +486,12 @@
         },
         {
           "AnswerNumber": "b",
-          "Phrase": " 2-minuten uitsluiting voor WIT5",
+          "Phrase": "2-minutenuitsluiting voor WIT5",
           "Correct": true
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Vrije worp voor team ZWART aan de vrije worplijn van team WIT",
+          "Phrase": "Vrije worp voor team ZWART aan de vrijeworplijn van team WIT",
           "Correct": true
         },
         {
@@ -503,7 +503,7 @@
     },
     {
       "QuestionNumber": "6.20",
-      "Phrase": "WIT5 werpt naar doel. Het schot wordt door de doelman ZWART12 geblokt en gaat in de lucht boven het doelgebied in de richting van cirkelspeler WIT11, die aan de doelgebied lijn staat, alleen en klaar om de bal te vangen. Verdediger ZWART2 springt in de richting van de bal en terwijl hij boven het doelgebied hangt, speelt hij de bal in de richting van de zijlijn. Omdat er hars op de bal hangt, komt de bal stil te liggen in het doelgebied zonder dat de doelman hem aanraakt. Correcte beslissing?",
+      "Phrase": "WIT5 werpt naar doel. Het schot wordt door de doelman ZWART12 geblokt en gaat in de lucht boven het doelgebied in de richting van cirkelspeler WIT11, die aan de doelgebiedlijn staat, alleen en klaar om de bal te vangen. Verdediger ZWART2 springt in de richting van de bal en terwijl hij boven het doelgebied hangt, speelt hij de bal in de richting van de zijlijn. Omdat er hars op de bal hangt, komt de bal stil te liggen in het doelgebied zonder dat de doelman hem aanraakt. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -529,7 +529,7 @@
     },
     {
       "QuestionNumber": "6.21",
-      "Phrase": "Doelman ZWART1 heeft een worp gestopt en wil de bal naar ZWART6 spelen die klaar is voor de tegenaanval. Wanneer ZWART1 de bal past, raakt hij de doelgebied lijn. ZWART6 krijgt de bal en scoort een doelpunt. Correcte beslissing?",
+      "Phrase": "Doelman ZWART1 heeft een worp gestopt en wil de bal naar ZWART6 spelen die klaar is voor de tegenaanval. Wanneer ZWART1 de bal passt, raakt hij de doelgebiedlijn. ZWART6 krijgt de bal en scoort een doelpunt. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -621,7 +621,7 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Directe 2-minuten uitsluiting voor WIT10",
+          "Phrase": "Directe 2-minutenuitsluiting voor WIT10",
           "Correct": true
         }
       ]
