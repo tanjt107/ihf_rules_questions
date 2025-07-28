@@ -1,4 +1,4 @@
-﻿{
+{
   "RuleNumber": "2",
   "Name": "Playing Time, Final Signal and Time-Out",
   "Questions": [
@@ -972,7 +972,7 @@
     },
     {
       "QuestionNumber": "2.34",
-      "Phrase": "In which situations is a time-out <b><u>NOT</u></b> obligatory?",
+      "Phrase": "In which situations is a time-out NOT obligatory?",
       "Answers": [
         {
           "AnswerNumber": "a",

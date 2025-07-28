@@ -1,4 +1,4 @@
-﻿{
+{
   "RuleNumber": "4",
   "Name": "The Team, Substitutions, Equipment, Player Injuries",
   "Questions": [
@@ -744,7 +744,7 @@
         },
         {
           "AnswerNumber": "e",
-          "Phrase": "The timekeeper can wait until the clear chance of scoring is over before blowing the whistle for the faulty substitution",
+          "Phrase": "The timekeeper should have waited until the clear chance of scoring is over before blowing the whistle for the faulty substitution",
           "Correct": false
         }
       ]
@@ -834,7 +834,7 @@
     },
     {
       "QuestionNumber": "4.31",
-      "Phrase": "Just after the execution of a throw-off for BLACK team, the referees realise that a person, who is not on the score sheet, is present in the substitution area of BLACK team. It turns out that this person is one of the board members of the club, but BLACK team has already had four other people registered as team officials in the score sheet. Correct decision?",
+      "Phrase": "Just after the execution of a throw-off for BLACK team, the referees realise that a person, who is not on the score sheet, is present in the substitution area of BLACK team. It turns out that this person is one of the board members of the club, but BLACK team has already had five other people registered as team officials in the score sheet. Correct decision?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -1015,7 +1015,7 @@
     },
     {
       "QuestionNumber": "4.37",
-      "Phrase": "Which of the following actions are <b><u>not</u></b> allowed when there is a time-out because of an injury and the referees have given permission for up to two people from WHITE team to enter the court?",
+      "Phrase": "Which of the following actions are not allowed when there is a time-out because of an injury and the referees have given permission for up to two people from WHITE team to enter the court?",
       "Answers": [
         {
           "AnswerNumber": "a",

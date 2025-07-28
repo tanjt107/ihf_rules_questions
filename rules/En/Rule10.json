@@ -1,4 +1,4 @@
-﻿{
+{
   "RuleNumber": "10",
   "Name": "The Throw-Off",
   "Questions": [
@@ -202,7 +202,7 @@
     },
     {
       "QuestionNumber": "10.9",
-      "Phrase": "(With throw-off area) WHITE team scored a goal. BLACK team want to execute a fast throw-off. BLACK 9 receives the ball. He has the ball and one foot completely inside the throw-off area. The other foot is outside the throw-off area. The referees whistle for the execution of the throw. Before BLACK 9 moves the other foot inside the throw-off area, he throws the ball into the empty goal of WHITE team. What is the correct decision?",
+      "Phrase": "(With throw-off area) WHITE team scored a goal. BLACK team want to execute a fast throw-off. BLACK 9 receives the ball. He has the ball and one foot completely inside the throw-off area. The other foot is outside the throw-off area. The referees whistle for the execution of the throw. After BLACK 9 moved the other foot inside the throw-off area, he throws the ball into the empty goal of WHITE team. What is the correct decision?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -396,7 +396,7 @@
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "When the thrower has at least one foot and the ball inside the throw-off area, the other foot is not outside the throw-off area on the opponent’s half of the court, but teammates of the thrower are inside the throw-off area on the opponent’s half of the court.",
+          "Phrase": "When the thrower has at least one foot and the ball inside the throw-off area, the other foot is outside the throw-off area on the opponent’s half of the court, but teammates of the thrower are inside the throw-off area on the opponent’s half of the court.",
           "Correct": false
         },
         {

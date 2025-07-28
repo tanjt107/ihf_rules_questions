@@ -1,4 +1,4 @@
-﻿{
+{
   "RuleNumber": "15",
   "Name": "General Instructions on the Execution of the Throws (Throw-Off, Throw-In, Goalkeeper Throw, Free Throw and 7-Metre Throw)",
   "Questions": [
@@ -96,13 +96,13 @@
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Free throw for WHITE team",
-          "Correct": false
+          "Phrase": "Free throw for WHITE team after whistle signal",
+          "Correct": true
         },
         {
           "AnswerNumber": "c",
           "Phrase": "Goalkeeper throw after whistle signal",
-          "Correct": true
+          "Correct": false
         },
         {
           "AnswerNumber": "d",

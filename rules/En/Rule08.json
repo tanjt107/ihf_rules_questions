@@ -1,4 +1,4 @@
-﻿{
+{
   "RuleNumber": "8",
   "Name": "Fouls and Unsportsmanlike Conduct",
   "Questions": [
@@ -822,7 +822,7 @@
         {
           "AnswerNumber": "c",
           "Phrase": "A 7-metre throw hits the face of the goalkeeper, who is not moving in the direction of the ball.",
-          "Correct": true
+          "Correct": false
         },
         {
           "AnswerNumber": "d",
@@ -1136,13 +1136,13 @@
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "Free throw for WHITE team",
-          "Correct": false
+          "Phrase": "Free throw for WHITE team after whistle signal",
+          "Correct": true
         },
         {
           "AnswerNumber": "b",
           "Phrase": "Goalkeeper throw for WHITE team after whistle signal",
-          "Correct": true
+          "Correct": false
         },
         {
           "AnswerNumber": "c",

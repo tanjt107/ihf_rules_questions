@@ -1,4 +1,4 @@
-﻿{
+{
   "RuleNumber": "6",
   "Name": "The Goal Area",
   "Questions": [
@@ -662,7 +662,7 @@
         },
         {
           "AnswerNumber": "f",
-          "Phrase": "The referees may give permission for two persons from BLACK team to enter the court to give medical treatment for WHITE 12.",
+          "Phrase": "The referees may give permission for two persons from WHITE team to enter the court to give medical treatment for WHITE 12.",
           "Correct": true
         },
         {
