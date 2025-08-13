@@ -91,7 +91,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа добија жреб и жели да промени стране. ЦРНА екипа жели да БЕЛА екипа изведе почетно бацање. Исправна одлука?",
-                    PhraseZhHk = "白隊擲毫得勝，要求轉換場區， 黑隊代表要求白隊開球。如何判決？",
+                    PhraseZhHk = "白隊擲毫得勝，要求轉換場區，黑隊代表要求白隊開球。如何判決？",
                     QuestionNumber = "10.2",
                     Answers =
                     [

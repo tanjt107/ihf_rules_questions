@@ -915,7 +915,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 4 напушта терен изван линија за замену играча. Када је БЕЛИ 4 прешао уздужну линију, али пре него што је стигао у свој простор за замену играча, БЕЛИ 11 исправно прелази линију и улази на терен. Исправна одлука после звиждука мериоца времена?",
-                    PhraseZhHk = "白隊4號從替補區外離開比賽場地，在白隊4號越過邊線但未抵達替補席時，白隊11號即經由替補區進入場內參加比賽，計時員發出訊號。如何判决？",
+                    PhraseZhHk = "白隊4號從替補線外離開比賽場地，在白隊4號越過邊線但未抵達替補區時，白隊11號即經由替補區進入場內參加比賽，計時員發出訊號。如何判决？",
                     QuestionNumber = "4.14",
                     Answers =
                     [
@@ -2631,6 +2631,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Пре почетка утакмице, делегат примећује да БЕЛИ 7 носи штитнике за скочни зглоб од тврдог материјала који нису покривени. Која је исправна одлука?",
+                    PhraseZhHk = "比賽開始前，技術代表發現白隊7號穿著未覆蓋的硬質材料護踝。如何判決？",
                     QuestionNumber = "4.38",
                     Answers =
                     [
@@ -2645,6 +2646,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "БЕЛИ 7 може да игра са штитницима за скочни зглоб али делегат мора да наведе то у свом извештају",
+                            PhraseZhHk = "白隊7號可以穿著護踝，但技術代表須向比賽組提交報告",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -2658,6 +2660,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "БЕЛИ 7 не сме да игра са штитницима за скочни зглоб који имају откривене тврде делове. Делегат мора да обавести одговорног представника екипе да играч мора да уклони штитнике или да прекрије тврде делове меканим материјалом",
+                            PhraseZhHk = "白隊7號不能穿著未覆蓋硬質部分的護踝。技術代表須向球隊職員代表，要求球員脫掉護踝或用軟質材料覆蓋",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -2669,6 +2672,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Опомена за БЕЛОГ 7",
+                            PhraseZhHk = "警告白隊7號",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -2679,6 +2683,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Опомена за одговорног представника БЕЛЕ екипе",
+                            PhraseZhHk = "警告球隊職員代表",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -2689,6 +2694,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Ниједна од претходних тврдњи није тачна",
+                            PhraseZhHk = "以上皆非",
                             AnswerNumber = "e"
                         }
                     ]
@@ -3893,6 +3899,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 2 се загрева без заштите за лакат. После пет минута игре, када БЕЛА екипа има лопту у поседу, БЕЛИ 2 улази у игру исправном заменом. Судије су приметиле да БЕЛИ 2 носи заштиту за лакат са чврстим непокривеним деловима. Исправна одлука?",
+                    PhraseZhHk = "白隊2號熱身時沒有穿戴護肘。比賽進行5分鐘後，白隊控球。白隊2號通過正確換人程序進場比賽。裁判發現白隊2號現在穿戴著未覆蓋硬質護肘。如何判決？",
                     QuestionNumber = "4.57",
                     Answers =
                     [
@@ -3907,6 +3914,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Игра се наставља, дозвољено је носити заштиту за лакат са непокривеним тврдим деловима",
+                            PhraseZhHk = "比賽繼續，允許穿未覆蓋的硬質護肘",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -3920,6 +3928,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Судије заустављају игру, БЕЛИ 2 мора да напусти терен и може се вратити после уклањања заштите за лакат или покривања непокривених чврстих делова",
+                            PhraseZhHk = "裁判中斷比賽，白隊2號必須離開場地，在移除護肘或覆蓋硬質部分後才能重新進場",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -3933,6 +3942,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Судије заустављају игру, БЕЛИ 2 мора да напусти терен и може се вратити после уклањања заштите за лакат",
+                            PhraseZhHk = "裁判中斷比賽，白隊2號必須離開場地，在移除護肘後才能重新進場",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3944,6 +3954,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна за БЕЛОГ 2",
+                            PhraseZhHk = "漸進處罰白隊2號",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -3954,6 +3965,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна за представника БЕЛЕ екипе",
+                            PhraseZhHk = "漸進處罰白隊球隊職員代表",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -3965,6 +3977,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "f"
                         },
                         new AnswerDto
@@ -3975,6 +3988,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бавање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "g",
                             Correct = true
                         }

@@ -1232,6 +1232,8 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 5 шутира на гол, шут блокира голман ЦРНИ 12 и лопта лети изнад голмановог простора у правцу пивота БЕЛОГ 11, који стоји уз линију голмановог простора у јасној ситуацији за постизање гола, спреман да ухвати лопту. Одбрамбени играч ЦРНИ 2 скочи ка лопти и док је у ваздуху, изнад голмановог простора, пошаље лопту у правцу аут линије. Због лепка на њој, лопта остане у голмановом простору, а да је голман није додирнуо. Исправна одлука?",
+                    PhraseZhHk =
+                        "白隊5號射門，被黑隊守門員12號擋出，球反彈向站在禁區線外的白隊白隊中鋒11號，白隊11號獨自站在禁區線外準備接球。黑隊2號跳起將禁區上空的球打向邊線。由於球上有手膠，球停留在禁區內，守門員並未觸及到球。如何判決？",
                     QuestionNumber = "6.20",
                     Answers =
                     [
@@ -1243,6 +1245,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊守門員球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1253,6 +1256,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1264,6 +1268,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1274,6 +1279,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна против ЦРНОГ 2",
+                            PhraseZhHk = "漸進處罰黑隊2號",
                             AnswerNumber = "d"
                         }
                     ]
@@ -1289,6 +1295,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Голман ЦРНИ 1 је одбранио шут и жели да дода лопту ЦРНОМ 6 који је спреман за контранапад. Приликом додавања ЦРНИ 1 додирује линију голмановог простора. ЦРНИ 6 ухвати лопту и постигне гол. Исправна одлука?",
+                    PhraseZhHk = "黑隊守門員1號封擋射門後，試圖將球傳給準備快攻的黑隊6號，當黑隊1號傳球時，他觸及禁區線，黑隊6號接到球並射門得分。如何判決？",
                     QuestionNumber = "6.21",
                     Answers =
                     [
@@ -1300,6 +1307,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол је исправан",
+                            PhraseZhHk = "得分有效",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1311,6 +1319,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1321,6 +1330,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Корекција и понављање голмановог бацања после звучног сигнала",
+                            PhraseZhHk = "更正後，鳴哨重擲守門員球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1331,6 +1341,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол није исправан",
+                            PhraseZhHk = "得分無效",
                             AnswerNumber = "d"
                         }
                     ]
@@ -1346,6 +1357,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛИ 6 је у контранападу. Скочи, шутира на гол и падне у голманов простор ЦРНЕ екипе. Голман ЦРНИ 12 брани шут и лопта долази до БЕЛОГ 11, који постиже гол, док БЕЛИ 6 лежи у голмановом простору између њих двојице. Исправна одлука?",
+                    PhraseZhHk = "白隊6號快攻反擊，跳起射門後球落在黑隊禁區內，黑隊守門員12號擋出射門後球反彈至白隊11號，白隊11號射門得分。此時，白隊6號躺在禁區內，在白隊11號和黑隊守門員12號之間。如何判決？",
                     QuestionNumber = "6.22",
                     Answers =
                     [
@@ -1357,6 +1369,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за БЕЛУ екипу",
+                            PhraseZhHk = "白隊得分",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1367,6 +1380,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊守門員球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1378,6 +1392,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "c"
                         }
                     ]

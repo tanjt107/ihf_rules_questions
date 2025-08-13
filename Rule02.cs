@@ -2020,7 +2020,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Сигнал за наставак",
-                            PhraseZhHk = "恢復比賽訊號",
+                            PhraseZhHk = "鳴哨恢復比賽", //TODO Check
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -3521,6 +3521,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "На утакмици се користи електронски екипни тајм-аут. БЕЛА екипа је искористила свој други екипни тајм-аут у 55:10. У 59:35, званичник А БЕЛЕ екипе жели да затражи трећи екипни тајм-аут и притиска тастер за електронски екипни тајм-аут. Лопта је у игри и БЕЛА екипа има лопту у поседу. Звучни сигнал са семафора се оглашава и време се зауставља. Која је исправна одлука?",
+                    PhraseZhHk = "比賽使用電子隊暫停系統，白隊在55:10時申請了第二次隊暫停。在59:35，白隊球隊職員A想要申請第三次隊暫停並按下蜂鳴器。比賽仍在進行中，白隊擁有球權。暫停信號響起並且時間暫停。如何判決？",
                     QuestionNumber = "2.50",
                     Answers =
                     [
@@ -3532,6 +3533,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Екипни тајм-аут за БЕЛУ екипу",
+                            PhraseZhHk = "白隊隊暫停",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -3542,6 +3544,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут није могућ",
+                            PhraseZhHk = "不給予暫停",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -3553,6 +3556,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна за званичника А БЕЛЕ екипе",
+                            PhraseZhHk = "漸進處罰對白隊球隊職員A",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3564,6 +3568,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља слободним бацањем за БЕЛУ екипу",
+                            PhraseZhHk = "比賽由白隊擲自由球恢復比賽",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -3574,6 +3579,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља слободним бацањем за ЦРНУ екипу",
+                            PhraseZhHk = "比賽由黑隊擲自由球恢復比賽",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -3585,6 +3591,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "ЦРНА екипа може да бира између слободног бацања и седмерца",
+                            PhraseZhHk = "黑隊可以選擇自由球或七米球恢復比賽",
                             AnswerNumber = "f"
                         }
                     ]
@@ -3600,6 +3607,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "На утакмици се користи електронски екипни тајм-аут. БЕЛА екипа има лопту у поседу. У 58:40, БЕЛИ 7 чини прекршај у нападу. Пре него што су судије свирале прекршај у нападу, чује се сигнал са семафора зато што је званичник А БЕЛЕ екипе притиснуо тастер за електронски екипни тајм-аут. Одмах након тога судије свирају прекршај у нападу од стране БЕЛОГ 7. Која је исправна одлука?",
+                    PhraseZhHk = "比賽使用電子隊暫停系統。58:40時，白隊控球，白隊7號進攻犯規。在裁判鳴哨之前，暫停信號響起因為白隊官員A按下暫停蜂鳴器要求隊暫停，接着裁判鳴哨白隊7號進攻犯規。如何判決？",
                     QuestionNumber = "2.51",
                     Answers =
                     [
@@ -3612,6 +3620,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Екипни тајм није могућ зато што БЕЛА екипа више нема лопту у поседу",
+                            PhraseZhHk = "不給予白隊暫停，因為白隊已經失去控球權",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -3623,6 +3632,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Екипни тајм-аут за БЕЛУ екипу",
+                            PhraseZhHk = "白隊隊暫停",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -3633,6 +3643,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "БЕЛА екипа губи право на један екипни тајм-аут",
+                            PhraseZhHk = "白隊失去一次隊暫停",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3644,6 +3655,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља слободним бацањем за ЦРНУ екипу",
+                            PhraseZhHk = "比賽由黑隊自由球恢復比賽",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -3655,6 +3667,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља слободним бацањем за БЕЛУ екипу",
+                            PhraseZhHk = "比賽由白隊自由球恢復比賽",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -3665,6 +3678,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља седмерцем за ЦРНУ екипу",
+                            PhraseZhHk = "比賽由黑隊七米球恢復比賽",
                             AnswerNumber = "f"
                         },
                         new AnswerDto
@@ -3675,6 +3689,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "ЦРНА екипа може да бира између слободног бацања и седмерца",
+                            PhraseZhHk = "黑隊可以選擇自由球或七米球恢復比賽",
                             AnswerNumber = "g"
                         },
                         new AnswerDto
@@ -3685,6 +3700,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна за званичника А БЕЛЕ екипе",
+                            PhraseZhHk = "漸進處罰對白隊球隊職員A",
                             AnswerNumber = "h"
                         }
                     ]
@@ -3700,6 +3716,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "На утакмици се користи електронски екипни тајм-аут. У 29:50 минуту првог полувремена БЕЛИ 9 шутира на гол противника. Ударац је одбрањен од стране голмана ЦРНОГ 12 и након одбране лопта је у ваздуху изнад голмановог простора. У овом тренутку чује се сигнал са семафора зато што је званичник А ЦРНЕ екипе притиснуо тастер за електронски екипни тајм-аут. Која је исправна одлука?",
+                    PhraseZhHk = "比賽使用電子隊暫停系統。在上半場29:50時，白隊9號射門被黑隊守門員12號封擋，球在禁區上空。此時，黑隊球隊職員A按下蜂鳴器要求隊暫停。如何判決？",
                     QuestionNumber = "2.52",
                     Answers =
                     [
@@ -3711,6 +3728,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Екипни тајм није могућ зато што ЦРНА екипа више нема лопту у поседу",
+                            PhraseZhHk = "不給予黑隊暫停，因為黑隊已經失去控球權",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -3722,6 +3740,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Екипни тајм-аут за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊隊暫停",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -3732,6 +3751,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "ЦРНА екипа губи право на један екипни тајм-аут",
+                            PhraseZhHk = "黑隊失去一次隊暫停",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3743,6 +3763,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља голмановим бацањем за ЦРНУ екипу",
+                            PhraseZhHk = "比賽由黑隊守門員球恢復比賽",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -3753,6 +3774,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља слободним бацањем за БЕЛУ екипу",
+                            PhraseZhHk = "比賽由白隊自由球恢復比賽",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -3763,6 +3785,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља слободним бацањем за ЦРНУ екипу",
+                            PhraseZhHk = "比賽由黑隊自由球恢復比賽",
                             AnswerNumber = "f"
                         },
                         new AnswerDto
@@ -3773,6 +3796,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "БЕЛА екипа може да бира између слободног бацања и седмерца",
+                            PhraseZhHk = "白隊可以選擇自由球或七米球恢復比賽",
                             AnswerNumber = "g"
                         },
                         new AnswerDto
@@ -3783,6 +3807,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Утакмица се наставља седмерцем за БЕЛУ екипу",
+                            PhraseZhHk = "比賽由白隊七米球恢復比賽",
                             AnswerNumber = "h",
                             Correct = true
                         },
@@ -3794,6 +3819,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна за званичника А ЦРНЕ екипе",
+                            PhraseZhHk = "漸進處罰黑隊球隊職員A",
                             AnswerNumber = "i",
                             Correct = true
                         }
