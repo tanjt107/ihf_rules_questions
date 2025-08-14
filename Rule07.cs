@@ -1612,6 +1612,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Које од следећих тврдњи су тачне, а тичу се употребе упозоравајућег сигнала за пасивну игру?",
+                    PhraseZhHk = "下列那些關於使用消極進攻警告手號的說法是正確的？",
                     QuestionNumber = "7.27",
                     Answers =
                     [
@@ -1626,6 +1627,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Упозоравајући сигнал увек престаје да важи када званичник одбрамбене екипе добије прогресивну казну",
+                            PhraseZhHk = "當防守隊球隊職員時被漸進處罰時，消極進攻警告手號結束",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1640,6 +1642,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Када је упозоравајући сигнал показан први пут за време напада, руке морају бити спуштене после десетак секунди",
+                            PhraseZhHk = "第一次出示警告手號時，約十秒後便應放下手臂",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1653,6 +1656,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Упозоравајући сигнал мора бити поновљен, као подсетник, после првог прекида, ако је био показан пре прекида",
+                            PhraseZhHk = "警告手號後，第一次比賽中斷後，在比賽重新開始時應再次出示警告手號作為提示",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1666,6 +1670,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Упозоравајући сигнал увек престаје да важи када одбрамбени играч буде прогресивно кажњен",
+                            PhraseZhHk = "當防守隊球員被漸進處罰時，消極進攻警告手號結束",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -1680,6 +1685,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Судије морају показати упозоравајући сигнал кад играч има лопту јасно под контролом",
+                            PhraseZhHk = "裁判必須在球員明顯控制球時，才能出示消極進攻警告手號",
                             AnswerNumber = "e",
                             Correct = true
                         }
