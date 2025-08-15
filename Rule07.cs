@@ -1802,6 +1802,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "3",
+                            PhraseZhHk = "3",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1813,6 +1814,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "4",
+                            PhraseZhHk = "4",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1823,6 +1825,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "5",
+                            PhraseZhHk = "5",
                             AnswerNumber = "c"
                         }
                     ]
