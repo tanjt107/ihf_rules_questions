@@ -3425,6 +3425,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Време игре 59:26. ЦРНИ 10 трчи сам у контранапад. Када добије лопту од саиграча, ЦРНИ 10 се судари са голманом БЕЛИМ 1 који је напустио голманов простор. Пре него што падне, ЦРНИ 10 успева да дода лопту ЦРНОМ 7 који шутира на празан гол, али промашује. Када судије дају тајм-аут време игре је 59:31. Исправна одлука?",
+                    PhraseZhHk = "比賽進行到59:26。黑隊10號快速反擊。當他從隊友那裡接到球時，黑隊10號和已經離開禁區的白隊守門員1號相撞，但在倒下之前他將球傳給黑隊7號，黑隊7號射向空門但球沒有射入。當裁判要求暫停時，比賽時間是59:31。如何判決？",
                     QuestionNumber = "8.46",
                     Answers =
                     [
@@ -3436,6 +3437,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање",
+                            PhraseZhHk = "自由球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -3446,6 +3448,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац",
+                            PhraseZhHk = "七米球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -3456,6 +3459,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Црвени картон за БЕЛОГ 1",
+                            PhraseZhHk = "白隊1號紅牌",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3467,6 +3471,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Плави картон за БЕЛОГ 1",
+                            PhraseZhHk = "白隊1號藍牌",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -3477,6 +3482,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање",
+                            PhraseZhHk = "守門員球",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -3493,6 +3499,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа је у нападу са 7 играча. ЦРНИ 5 пресеца додавање и има лопту у поседу. Он тренутно покуша да шутне на гол, БЕЛИ 2 покушава да га спречи у томе, покушавајући да узме лопту из његове руке. Чинећи то он удари ЦРНОГ 5 у подлактицу, тако да лопта промаши гол. БЕЛА екипа је раније већ добила 3 опомене. Исправна одлука?",
+                    PhraseZhHk = "白隊使用七名場內球員進攻，黑隊5號攔截了一個傳球並立即射門。白隊2號試圖將球從黑隊5號的手中打走以阻止他射門，結果他擊中了黑隊5號的前臂，球沒有射入。白隊再之前已經收到了三次警告。如何判決？",
                     QuestionNumber = "8.47",
                     Answers =
                     [
@@ -3504,6 +3511,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊守門員球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -3514,6 +3522,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -3524,6 +3533,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3535,6 +3545,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против БЕЛОГ 2",
+                            PhraseZhHk = "白隊2號退場兩分鐘",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -3545,6 +3556,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "e"
                         }
                     ]
@@ -3560,6 +3572,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа је у нападу са 7 играча. ЦРНИ 5 пресеца додавање и има лопту у поседу. Он тренутно покуша да шутне на гол, БЕЛИ 2 покушава да га спречи у томе, обарајући га. Лопта промаши гол. Исправна одлука?",
+                    PhraseZhHk = "白隊使用七名場內球員進攻，黑隊5號攔截了一個傳球並立即射門。白隊2號從後拉倒黑隊5號來阻止他射門，結果球沒有射入。如何判決？",
                     QuestionNumber = "8.48",
                     Answers =
                     [
@@ -3571,6 +3584,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊守門員球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -3581,6 +3595,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -3591,6 +3606,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3602,6 +3618,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против БЕЛОГ 2",
+                            PhraseZhHk = "白隊2號退場兩分鐘",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -3613,6 +3630,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -3629,6 +3647,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа је у нападу са 7 играча. БЕЛИ 4 шутира на гол, али је голман ЦРНИ 1 одбранио шут. ЦРНИ 1 додаје лопту ЦРНОМ 9. Баш када је голман БЕЛИ 12 ушао у свој голманов простор, ЦРНИ 9 покуша да шутира на гол, у чему га прекршајем спречи БЕЛИ 2. Лопта одлази преко гол-аут линије. Исправна одлука?",
+                    PhraseZhHk = "白隊使用七名場內球員進攻，白隊4號射門被黑隊守門員1號擋出。黑隊1號將球傳給黑隊9號。此時白隊守門員12號進入禁區，黑隊9號準備射門時被白隊2號犯規阻止，球越過了外球門線。如何判決？",
                     QuestionNumber = "8.49",
                     Answers =
                     [
@@ -3640,6 +3659,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊守門員球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -3650,6 +3670,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -3661,6 +3682,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "c"
                         }
                     ]
@@ -3676,6 +3698,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа је у нападу са 7 играча. БЕЛИ 4 шутира на гол, али је голман ЦРНИ 1 одбранио шут и стоји са лоптом у свом голмановом простору, спреман да изведе голманово бацање. У том моменту делегат прекида игру, због погрешне замене, јер је голман БЕЛИ 1 ушао на терен пре него што га је БЕЛИ 7 напустио. Исправна одлука?",
+                    PhraseZhHk = "白隊使用七名場內球員進攻，白隊4號射門被黑隊守門員1號擋出，黑隊1號站在禁區內準備擲守門員球。此時，因為白隊1號在白隊7號離開場地之前進入場地，技術代表中斷比賽。如何判決？",
                     QuestionNumber = "8.50",
                     Answers =
                     [
@@ -3687,6 +3710,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за ЦРНУ екипу после звучног сигнала",
+                            PhraseZhHk = "鳴哨後黑隊守門員球",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -3698,6 +3722,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -3709,6 +3734,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -3719,6 +3745,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -3729,6 +3756,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против БЕЛОГ 1",
+                            PhraseZhHk = "白隊1號退場兩分鐘",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -3740,6 +3768,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против БЕЛОГ 7",
+                            PhraseZhHk = "白隊7號退場兩分鐘",
                             AnswerNumber = "f"
                         }
                     ]
@@ -3755,6 +3784,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа је у нападу са 7 играча. БЕЛИ 4 шутира на гол, али је голман ЦРНИ 12 одбранио шут. ЦРНИ 12 додаје ЦРНОМ 9 који шутира на гол. Играч у пољу БЕЛИ 10 уђе у свој голманов простор и успе да одбрани шут. Лопта одлази преко гол-аут линије. Исправна одлука?",
+                    PhraseZhHk = "白隊使用七名場內球員進攻，白隊4號射門被黑隊守門員12號擋出，黑隊12號將球傳給黑隊9號，黑隊9號射門。白隊場內球員10號進入禁區擋球，球越過了外球門線。如何判決？",
                     QuestionNumber = "8.51",
                     Answers =
                     [
@@ -3766,6 +3796,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Аут за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊界外球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -3776,6 +3807,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -3786,6 +3818,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3797,6 +3830,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна против БЕЛОГ 10",
+                            PhraseZhHk = "漸進處罰白隊10號",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -3807,6 +3841,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Искључење на 2 минута за БЕЛОГ 10",
+                            PhraseZhHk = "白隊10號退場兩分鐘",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -3823,6 +3858,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа је у нападу са 7 играча. БЕЛИ 6 шутира на гол, али је голман ЦРНИ 1 одбранио шут. ЦРНИ 1 тренутно покуша да погоди празан гол, али лопта промаши гол и одлази преко гол-аут линије. Исправна одлука?",
+                    PhraseZhHk = "白隊使用七名場內球員進攻，白隊6號射門被黑隊守門員1號擋出，黑隊1號立即嘗試射空門，但球沒有射入，並越過了外球門線。如何判決？",
                     QuestionNumber = "8.52",
                     Answers =
                     [
@@ -3834,6 +3870,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊守門員球",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -3848,6 +3885,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Голманово бацање може извести неки од играча БЕЛЕ екипе у пољу, да би се задржао ток игре",
+                            PhraseZhHk = "白隊任何一名場內球員都可以擲守門員球，以保持比賽的流暢性",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -3861,6 +3899,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "БЕЛА екипа мора направити замену да би голман ушао на терен и извео голманово бацање",
+                            PhraseZhHk = "白隊必須替補守門員擲守門員球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3872,6 +3911,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут је обавезан",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "d"
                         }
                     ]
@@ -3887,6 +3927,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "ЦРНА екипа игра са 7 играча у пољу. ЦРНИ 5 шутира на гол, али је голман БЕЛИ 1 одрбанио шут. БЕЛИ 1 покуша да погоди празан гол. У исто време голман ЦРНИ 12 прави погрешну замену, ушавши на терен пре него што га је ЦРНИ 7 напустио. Делегат тренутно прекида игру звучним сигналом. Баш после звучног сигнала од стране делегата, лопта прелази гол-аут линију ЦРНЕ екипе. Исправна одлука?",
+                    PhraseZhHk = "黑隊七名場內球員，黑隊5號射門被白隊守門員1號擋出，白隊1號嘗試射空門，此時黑隊守門員12號替補犯規，他在黑隊7號離開場地之前進入場地，技術代表鳴哨中斷比賽。在鳴哨之後，球越過了黑隊的外球門線。如何判決？",
                     QuestionNumber = "8.53",
                     Answers =
                     [
@@ -3898,6 +3939,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против ЦРНОГ 12",
+                            PhraseZhHk = "黑隊12號退場兩分鐘",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -3909,6 +3951,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против ЦРНОГ 7",
+                            PhraseZhHk = "黑隊7號退場兩分鐘",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -3919,6 +3962,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3930,6 +3974,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -3940,6 +3985,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊守門員球",
                             AnswerNumber = "e"
                         }
                     ]
@@ -3955,6 +4001,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "ЦРНА екипа игра са 7 играча у пољу. ЦРНИ 6 шутира на гол, али је голман БЕЛИ 1 одрбанио шут. БЕЛИ 1 покуша да погоди празан гол. У исто време голман ЦРНИ 12 прави погрешну замену, ушавши на терен пре него што га је ЦРНИ 7 напустио. Делегат тренутно прекида игру звучним сигналом. Баш после звучног сигнала од стране делегата, лопта прелази гол линију ЦРНЕ екипе и улази у гол. Исправна одлука?",
+                    PhraseZhHk = "黑隊七名場內球員，黑隊6號射門被白隊守門員1號擋出，白隊1號嘗試射空門，此時黑隊守門員12號替補犯規，他在黑隊7號離開場地之前進入場地，技術代表鳴哨中斷比賽。在鳴哨之後，球越過了黑隊的球門線進入了球門。如何判決？",
                     QuestionNumber = "8.54",
                     Answers =
                     [
@@ -3966,6 +4013,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против ЦРНОГ 12",
+                            PhraseZhHk = "黑隊12號退場兩分鐘",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -3977,6 +4025,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "2 минута искључења против ЦРНОГ 7",
+                            PhraseZhHk = "黑隊7號退場兩分鐘",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -3987,6 +4036,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -3997,6 +4047,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за БЕЛУ екипу",
+                            PhraseZhHk = "白隊七米球",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -4008,6 +4059,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за БЕЛУ екипу",
+                            PhraseZhHk = "白隊進球",
                             AnswerNumber = "e"
                         }
                     ]
@@ -4023,6 +4075,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "ЦРНА екипа игра са 7 играча у пољу. БЕЛИ 9 пресеца додавање, хвата лопту и успе да погоди празан гол. Лопта остаје у голмановом простору. Исправна одлука?",
+                    PhraseZhHk = "黑隊使用七名場內球員，白隊9號攔截了球並射入空門，球停在了禁區內。如何判決？",
                     QuestionNumber = "8.55",
                     Answers =
                     [
@@ -4034,6 +4087,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол и почетно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊得分，開球",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -4045,6 +4099,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -4058,6 +4113,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Голман мора ући у поље за игру исправном заменом, да би узео лопту из голмановог простора",
+                            PhraseZhHk = "守門員必須正確替補以取回禁區內的球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -4069,6 +4125,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Лопту може да узме било који играч ЦРНЕ екипе у пољу",
+                            PhraseZhHk = "黑隊的任何場內球員都可以撿起球",
                             AnswerNumber = "d",
                             Correct = true
                         }
