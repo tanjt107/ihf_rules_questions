@@ -5709,6 +5709,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа води једним голом разлике 7 секунди пре краја утакмице. БЕЛА екипа је спремна да изведе почетно бацање из простора за почетно бацање и судије дају знак за извођење. Уместо да дода лопту саиграчу, БЕЛИ 7 спушта лопту на под унутар простора за почетно бацање и одлази са места извођења. Ниједан саиграч извођача не жели да уђе у простор и да игра лоптом. Која је исправна одлука?",
+                    PhraseZhHk = "比賽尚餘7秒，白隊領先一球，白隊在開球位置準備開球，裁判鳴哨開球，白隊7號沒有將球傳給隊友，而是把球放在開球位置內的地上走開了，沒有隊友打算進入開球位置撿球。如何判決？",
                     QuestionNumber = "8.75",
                     Answers =
                     [
@@ -5720,6 +5721,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Корекција извођења почетног бацања",
+                            PhraseZhHk = "修正開球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -5730,6 +5732,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -5744,6 +5747,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Судије морају да сачекају 3 секунде након знака за извођење да би могли да досуде слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "裁判必須在鳴哨後等待3秒才能判黑隊自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -5754,6 +5758,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Искључење на 2 минута за БЕЛОГ 7",
+                            PhraseZhHk = "白隊7號退場兩分鐘",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -5765,6 +5770,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -5781,6 +5787,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "ЦРНИ 8 пролази кроз одбрану БЕЛЕ екипе и испред себе нема ниједног одбрамбеног играча осим голмана БЕЛОГ 1 на голу. Када је спреман да упути шут на гол, одгурнут је са стране од играча БЕЛОГ 7. Иако делимично губи контролу над телом, успева јако да шутне на гол. Лопта погађа голмана БЕЛОГ 1 у главу, промени правац и уђе у гол. Која је исправна одлука?",
+                    PhraseZhHk = "黑隊8號突破白隊防守，和白隊守門員1號之間沒有任何球員，當他準備射門時，白隊7號從側面推了黑隊8號，即使他失去部分身體平衡，仍然能夠用力射門，球擊中白隊守門員1號的頭，改變方向進入球門。如何判決？",
                     QuestionNumber = "8.76",
                     Answers =
                     [
@@ -5792,6 +5799,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊得分",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -5803,6 +5811,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -5813,6 +5822,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Искључење на 2 минута за ЦРНОГ 8",
+                            PhraseZhHk = "黑隊8號退場兩分鐘",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -5823,6 +5833,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Искључење на 2 минута за БЕЛОГ 7",
+                            PhraseZhHk = "白隊7號退場兩分鐘",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -5834,6 +5845,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -5844,6 +5856,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "f",
                             Correct = true
                         }
@@ -5860,6 +5873,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Пивот ЦРНИ 8 хвата лопту. Када је спреман да се окрене према голу противника, дуго је држан и оборен од стране БЕЛОГ 7. Упркос томе, успева да поврати пуну контролу над телом. Без играча између себе и голмана, скаче изнад голмановог простора и упућује снажан шут на гол. Лопта погађа голмана БЕЛОГ 1 у главу. Глава је место првог контакта са лоптом. Лопта мења правац и улази у гол. Која је исправна одлука?",
+                    PhraseZhHk = "黑隊8號接到球，當他試圖轉身面向球門時，被白隊7號強行拉倒，然而他仍然能完全控制身體平衡，跳進禁區射門，他和守門員之間沒有任何球員，球擊中白隊守門員1號的頭部，頭部是與球的第一接觸點，球改變了方向進入了球門。如何判決？",
                     QuestionNumber = "8.77",
                     Answers =
                     [
@@ -5871,6 +5885,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊得分",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -5881,6 +5896,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -5892,6 +5908,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -5902,6 +5919,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -5912,6 +5930,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Искључење на 2 минута за ЦРНОГ 8",
+                            PhraseZhHk = "黑隊8號退場兩分鐘",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -5923,6 +5942,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Искључење на 2 минута за БЕЛОГ 7",
+                            PhraseZhHk = "白隊7號退場兩分鐘",
                             AnswerNumber = "f",
                             Correct = true
                         },
@@ -5934,6 +5954,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "g",
                             Correct = true
                         }
@@ -5950,6 +5971,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Крилни играч ЦРНИ 3 се налази у јасној ситуацији за постизање гола и затим шутира на гол. Лопта додирује главу голмана БЕЛОГ 1 и не мења правац. Лопта након тога улази у гол. Која је исправна одлука?",
+                    PhraseZhHk = "黑隊翼衛3號有明顯得分機會並射門，球觸碰到白隊1號守門員的頭部後進了球門，球沒有改變方向。如何判決？",
                     QuestionNumber = "8.78",
                     Answers =
                     [
@@ -5961,6 +5983,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Искључење на 2 минута за ЦРНОГ 3",
+                            PhraseZhHk = "黑隊3號退場兩分鐘",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -5971,6 +5994,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна за БЕЛОГ 1",
+                            PhraseZhHk = "漸進處罰白隊1號",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -5981,6 +6005,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол",
+                            PhraseZhHk = "得分",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -5992,6 +6017,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "d"
                         }
                     ]
@@ -6007,6 +6033,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "Крилни играч ЦРНИ 3 се налази у јасној ситуацији за постизање гола и затим шутира на гол. Лопта погађа главу голмана БЕЛОГ 1 и мења правац. Глава је место првог контакта са лоптом. Лопта након тога одлази у гол. БЕЛИ 1 пада на под, ставља руке на главу и видно му је потребна медицинска помоћ. Која је исправна одлука?",
+                    PhraseZhHk = "黑隊翼衛3號有明顯得分機會並射門，球觸碰到白隊1號守門員的頭部並改變方向後進了球門，並未改變方向，頭是第一接觸點，白隊1號倒在地上，用手捂住自己的面，明顯需要治理。如何判決？",
                     QuestionNumber = "8.79",
                     Answers =
                     [
@@ -6018,6 +6045,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -6031,6 +6059,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Судије позивају медицинску помоћ за БЕЛОГ 1 показујући сигнале број 15 и 16",
+                            PhraseZhHk = "裁判作出手號15及16，允許白隊球隊職員進場地援助白隊1號",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -6042,6 +6071,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Искључење на 2 минута за ЦРНОГ 3",
+                            PhraseZhHk = "黑隊3號退場兩分鐘",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -6053,6 +6083,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна за БЕЛОГ 1",
+                            PhraseZhHk = "漸進處罰白隊1號",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -6063,6 +6094,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол",
+                            PhraseZhHk = "得分",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -6074,6 +6106,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "f",
+                            PhraseZhHk = "白隊自由球",
                             Correct = true
                         },
                         new AnswerDto
@@ -6087,6 +6120,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Након указане медицинске помоћи БЕЛИ 1 мора напустити терен и може се вратити тек након истека 3 напада своје екипе",
+                            PhraseZhHk = "白隊1號在接受醫療援助後必須離開場地，並且只有在他的球隊完成3次進攻後才能重新進入場地。",
                             AnswerNumber = "g"
                         }
                     ]
