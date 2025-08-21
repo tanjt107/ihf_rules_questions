@@ -23,7 +23,7 @@ Here an overview of all versions:
 | -------- | ------- |
 | English  | 1st of July 2025 (Questions v3 + Answers v4)     |
 | Dutch | 1 juli 2024     |
-| Serbian    | Верзија 2 од 1. Јула 2025    |
+| Serbian    | 1. Јула 2025 (Верзија 2)    |
 
 
 ## Adding a New Language
