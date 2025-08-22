@@ -315,6 +315,7 @@ public static partial class Rules
                     PhraseSvn = "",
                     PhraseDe = "",
                     PhraseSrb = "(Без простора за почетно бацање) Које тврдње о поласку са центра су тачне?",
+                    PhraseZhHk = "（沒有開球位置）關於開球，下列哪些說法是正確的？",
                     QuestionNumber = "10.6",
                     Answers =
                     [
@@ -329,6 +330,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Почетно бацање се мора извести у року од 3 секунде после звучног сигнала, са средине игралишта, и то тако да се лопта баци у правцу противничке половине",
+                            PhraseZhHk = "開球必須在鳴哨後三秒內必須在場地中心投擲到對方半場",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -339,6 +341,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол се противнику може дати директно при поласку са центра",
+                            PhraseZhHk = "開球可以直接得分",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -352,6 +355,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "У поласку са центра, неправилни положаји одбрамбене екипе се морају кориговати",
+                            PhraseZhHk = "防守球員的錯誤位置必須要糾正",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -365,6 +369,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Ако извођач води лопту после звучног сигнала за извођење почетног бацања, слободно бацање мора бити досуђено за противника",
+                            PhraseZhHk = "如果開球球員在鳴哨後運球，則判對方自由球",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -379,6 +384,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Саиграчи извођача бацања могу прећи средишњу линију пре него што је бацање изведено",
+                            PhraseZhHk = "開球球員的隊友可以在擲球完成前越過中線",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -463,6 +469,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "(Са простором за почетно бацање) БЕЛА екипа постиже гол. ЦРНА екипа жели брзо да изведе почетно бацање. ЦРНИ 9 је у исправној позицији унутар простора за почетно бацање. Након звиждука за извођење бацања, ЦРНИ 9 прави 6 корака са лоптом унутар простора за почетно бацање. У року од 3 секунде након звиждука за извођење, ЦРНИ 9 баца лопту у празан гол БЕЛЕ екипе. Која је исправна одлука?",
+                    PhraseZhHk = "(有開球位置)白隊得分。黑隊想快速開球，黑隊9號在開球區內正確的位置，裁判鳴哨後，黑隊9號在開球位置內走了6步。在開球哨聲後3秒內，黑隊9號將球擲進白隊的空門。如何判決？",
                     QuestionNumber = "10.8",
                     Answers =
                     [
@@ -474,6 +481,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊得分",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -485,6 +493,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -495,6 +504,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Корекција, понављање почетног бацања након звиждука",
+                            PhraseZhHk = "修正，裁判鳴哨後重擲",
                             AnswerNumber = "c"
                         }
                     ]
