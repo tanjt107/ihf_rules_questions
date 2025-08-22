@@ -504,7 +504,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Корекција, понављање почетног бацања након звиждука",
-                            PhraseZhHk = "修正，裁判鳴哨後重擲",
+                            PhraseZhHk = "更正，鳴哨後重擲開球",
                             AnswerNumber = "c"
                         }
                     ]
@@ -520,6 +520,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "(Са простором за почетно бацање) БЕЛА екипа постиже гол. ЦРНА екипа жели брзо да изведе почетно бацање. ЦРНИ 9 хвата лопту. ЦРНИ 9 је са једним стопалом и лоптом унутар простора за почетно бацање. Друго стопало је ван простора за почетно бацање. Судије дају знак за ивођење бацања. Пре него што ЦРНИ 9 помери друго стопало унутар простора за почетно бацање, он баца лопту у празан гол БЕЛЕ екипе. Која је исправна одлука?",
+                    PhraseZhHk = "(有開球位置)白隊得分。黑隊想快速開球，黑隊9號接到球，球和一隻腳完全站在發球位置內，另一隻腳還在發球位置外，裁判鳴哨開球。在黑隊9號將另一隻腳移入發球位置前，他將球直接擲進白隊空門。如何判決？",
                     QuestionNumber = "10.9",
                     Answers =
                     [
@@ -531,6 +532,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊得分",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -541,6 +543,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -553,6 +556,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Корекција, понављање почетног бацања након звиждука",
+                            PhraseZhHk = "更正，鳴哨後黑隊重擲開球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -566,6 +570,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Бацање је исправно изведено зато што су судије својим звиждуком одобрили правилну позицију играча за извођење бацања",
+                            PhraseZhHk = "擲球正確，裁判鳴哨代表允許了擲球位置",
                             AnswerNumber = "d"
                         }
                     ]
@@ -581,6 +586,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "(Са простором за почетно бацање) ЦРНА екипа жели брзо да изведе почетно бацање. У исто време док ЦРНИ 8 трчи са једним стопалом и лоптом потпуно унутар простора за почетно бацање, БЕЛИ 7 се такође налази у простору за почетно бацање и трчи у правцу свог гола. Без саиграча у правцу БЕЛОГ 7 а након знака за извођење, ЦРНИ 8 баца лопту у леђа БЕЛОГ 7 који се налази у простору за почетно бацање у том тренутку. Која је исправна одлука?",
+                    PhraseZhHk = "(有開球位置)黑隊想在開球位置快速開球。此時，黑隊8號跑動中一隻腳和球在開球位置內，白隊7號還在開球位置內朝着自己的球門方向跑動。白隊7號附近沒有黑隊隊員的情況下，黑隊8號將球擲向白隊7號的背部，白隊7號仍在開球位置內。如何判決？",
                     QuestionNumber = "10.10",
                     Answers =
                     [
@@ -592,6 +598,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -603,6 +610,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -613,6 +621,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -623,6 +632,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна за БЕЛОГ 7",
+                            PhraseZhHk = "漸進處罰白隊7號",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -633,6 +643,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна за ЦРНОГ 8",
+                            PhraseZhHk = "漸進處罰黑隊8號",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -643,6 +654,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Искључење на 2 минута за ЦРНОГ 8",
+                            PhraseZhHk = "黑隊8號退場兩分鐘",
                             AnswerNumber = "f",
                             Correct = true
                         }
@@ -659,6 +671,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "(Са простором за почетно бацање) Које од наведених тврдњи везаних за простор за почетно бацање нису тачне?",
+                    PhraseZhHk = "(有開球位置) 關於開球位置的說法，下列哪些說法是不正確的？",
                     QuestionNumber = "10.11",
                     Answers =
                     [
@@ -673,6 +686,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Знак за извођење почетног бацања може бити дат када извођач има неки део тела унутар простора за почетно бацање",
+                            PhraseZhHk = "開球球員的身體在開球位置內，即可鳴哨開球",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -686,6 +700,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Нема ограничења код позиција саиграча извођача током извођења почетног бацања",
+                            PhraseZhHk = "開球時，開球球員隊友的位置沒有任何限制",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -700,6 +715,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Извођачу је дозвољено да закорачи ван простора за почетно бацање током извођења бацања",
+                            PhraseZhHk = "開球時，允許開球球員離開開球位置",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -714,6 +730,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Играчу одбрамбене екипе је дозвољено да пресече додавање након извођења чак и ако је лопта још увек унутар простора за почетно бацање",
+                            PhraseZhHk = "開球後防守球員可以攔截球，即使球仍在開球位置內",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -728,6 +745,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Извођачу није дозвољено да води лопту након знака за иозвођење почетног бацања",
+                            PhraseZhHk = "鳴哨開球後，開球球員不允許運球",
                             AnswerNumber = "e"
                         }
                     ]
@@ -743,6 +761,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "(Са простором за почетно бацање) БЕЛА екипа игра са 7 играча у пољу и постиже гол. ЦРНА екипа жели брзо да изведе почетно бацање. ЦРНИ 6 има једно стопало и лопту потпуно унутар простора за почетно бацање. Судије дају знак за извођење. БЕЛИ 8 видно улази у простор за почетно бацање и са рукама активно жели да спречи извођење бацања. Упркос томе, ЦРНИ 6, који има цело тело и лопту потпуно унутар простора за почетно бацање, изводи бацање као директан шут на празан гол. Лопта након тога прелази спољашњу гол аут линију. Која је исправна одлука?",
+                    PhraseZhHk = "(有開球位置) 白隊使用7名場內球員進攻並得分，黑隊想快速開球。黑隊6號兩隻腳和球都在開球位置內，隨後裁判鳴哨，白隊8號明顯進入開球位置，並試圖用手臂阻擋球，儘管如此，黑隊6號將球擲向對方空門，隨後球偏出了球門線。如何判決？",
                     QuestionNumber = "10.12",
                     Answers =
                     [
@@ -754,6 +773,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊守門員球",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -764,6 +784,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Ново почетно бацање након звиждука",
+                            PhraseZhHk = "鳴哨後重擲開球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -774,6 +795,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊自由球",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -784,6 +806,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊七米球",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -795,6 +818,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -806,6 +830,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна за БЕЛОГ 8",
+                            PhraseZhHk = "漸進處罰白隊8號",
                             AnswerNumber = "f"
                         },
                         new AnswerDto
@@ -816,6 +841,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Искључење на 2 минута за БЕЛОГ 8",
+                            PhraseZhHk = "白隊8號退場兩分鐘",
                             AnswerNumber = "g",
                             Correct = true
                         },
@@ -827,6 +853,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Дисквалификација за БЕЛОГ 8 (црвени картон)",
+                            PhraseZhHk = "取消白隊8號資格（裁判出示紅牌）",
                             AnswerNumber = "h"
                         }
                     ]
@@ -927,6 +954,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "(Са простором за почетно бацање) Када судија може дати знак за извођење почетног бацања?",
+                    PhraseZhHk = "(有開球位置) 甚麼情況下裁判可以鳴哨開球？",
                     QuestionNumber = "10.14",
                     Answers =
                     [
@@ -941,6 +969,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Када извођач има бар једно стопало и лопту унутар простора за почетно бацање, а друго стопало није ван простора и на противничкој половини терена",
+                            PhraseZhHk = "當開球球員至少有一隻腳和球在開球位置內，另一隻腳不在對方半場的開球位置外時",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -955,6 +984,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Када извођач има бар једно стопало унутар простора за почетно бацање, друго стопало није ван простора нити на противничкој половини терена, али је лопта ван простора за почетно бацање",
+                            PhraseZhHk = "當開球球員至少有一隻腳在開球位置內，另一隻腳不在對方半場的開球位置外時，但球仍在開球位置外",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -968,6 +998,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Када извођач има бар једно стопало и лопту унутар простора за почетно бацање а друго стопало је ван простора и на противничкој половини терена",
+                            PhraseZhHk = "當開球球員至少有一隻腳和球在開球位置內，另一隻腳在對方半場的開球位置外時",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -981,6 +1012,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Када извођач има бар једно стопало и лопту унутар простора за почетно бацање, друго стопало није ван простора нити на противничкој половини терена, али су саиграчи извођача унутар простора за почетно бацање на противничкој половини терена",
+                            PhraseZhHk = "當開球球員至少有一隻腳和球在開球位置內，另一隻腳不在對方半場的開球位置外時，但他的隊友在對方半場的開球位置內",
                             AnswerNumber = "d",
                             Correct = true
                         }
