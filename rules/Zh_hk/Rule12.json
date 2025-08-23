@@ -1,0 +1,287 @@
+﻿{
+    "RuleNumber": "12",
+    "Name": "守門員球",
+    "Questions": [
+        {
+            "Number": "12.1",
+            "Phrase": "擲守門員球時，白隊守門員1號一隻腳踏在禁區線上(未有踏出禁區線)，如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "鳴哨後重擲守門員球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "比賽繼續",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "12.2",
+            "Phrase": "在鳴哨執行七米球時，白隊守門員12號一隻腳踏在守門員限制線(四米線)上防守(未有踏出四米線)。該七米球從球門橫樑上方越過(不入)。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "鳴哨後重擲七米球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "由於球未射進球門，比賽以守門員球繼續進行",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "守門員的位置是正確的",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "12.3",
+            "Phrase": "白隊守門員1號擋了一個射門的球後，球滾動向比賽場區方向，黑隊7號正處於無人防守的情況下等候拾得此球，在最後關頭，守門員1號用手把球打出己方的外底線。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊界外球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊守門員球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "12.4",
+            "Phrase": "白隊守門員12號擲守門員球時，球不慎脫手並碰到腳，接着球從禁區滾動到比賽場內。白隊12號追上去並將球拾起帶回禁區，準備重擲守門員球。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊七米球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "暫停",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "更正後，鳴哨重擲守門員球",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "12.5",
+            "Phrase": "什麼時候視為完成擲守門員球？ 場內球員何時可以觸球？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "當球仍在禁區上空時",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "當球越過了禁區線進入比賽場區時",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "當球離開守門員的手時",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "在守門員的隊友接觸球後",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "12.6",
+            "Phrase": "白隊守門員12號擲守門員球時，黑隊10號站在禁區線外，合法地成功搶球，並把球射入白隊的球門內。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊得分",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊守門員球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "漸進處罰黑隊10號",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "12.7",
+            "Phrase": "白隊守門員12號擋了一次射門，球被打出外底線，底線裁判應做什麼手號？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "手號8(守門員球)",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "手號9(自由球方向)",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "先做手號9(自由球方向)，然後做手號8(守門員球)",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "先做手號8(守門員球)，然後做手號9(自由球方向)",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "12.8",
+            "Phrase": "白隊守門員1號擲守門員球時，球跌到地上彈向場內。黑隊6號正等着接球，白隊2號跳入禁區上空，將在空中的球拍出邊線外。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "鳴哨後，白隊擲守門員球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊界外球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊七米球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "12.9",
+            "Phrase": "下列那些有關守門員球的說法是正確的？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "擲守門員球時，球離開守門員的手即視為擲球完成",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "對隊隊員必須保持離球三米",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "當球離開守門員的手，並已越過禁區線時，即視為擲球完成",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "容許對方隊員站立在禁區線外防守",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "12.10",
+            "Phrase": "球越過底線，黑隊守門員1號擲守門員球，由於黑隊比賽成績落後，黑隊1號一時心急，使球甩手，向仍在禁區內的隊友黑隊6號方向滾去，黑隊6號用腳把球踢回黑隊1號。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "鳴哨後，黑隊擲守門員球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊七米球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "12.11",
+            "Phrase": "下列那些關於擲守門員球的說法是正確的？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "球擲出前，對隊球員必須站在九米線外",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "對隊球員必須站在禁區線外，與擲守門員球時守門員所在的位置保持3米距離",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "球越過禁區線前，容許對隊球員觸球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "擲守門員球時，守門員不能將球擲入己方球門得分",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "擲守門員球時，守門員不能將球直接擲入對方球門得分",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "擲守門員球時，不容許守門員觸及禁區線",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

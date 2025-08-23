@@ -1,0 +1,115 @@
+﻿{
+    "RuleNumber": "1",
+    "Name": "球場",
+    "Questions": [
+        {
+            "Number": "1.1",
+            "Phrase": "根據球例規定，比賽場地的大小是：",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "40 × 20米",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "42 × 20米",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "38 × 18米",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "長38 - 42米，寬18 - 22米",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "1.2",
+            "Phrase": "球門的內徑是：",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "1.92 × 2.92米",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "2.00 × 3.00米",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "2.05 × 3.05米",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "2.08 × 3.08米",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "1.3",
+            "Phrase": "球門柱間的球門線闊度是：",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "5厘米",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "6厘米",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "8厘米",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "10厘米",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "1.4",
+            "Phrase": "關於開球位置，下列哪些說法是正確的？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "它由一個直徑3米的圓組成",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "它由一個直徑4米的圓組成",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "開球位置的顏色可以與比賽場區不同顏色",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "開球位置可以是一個圓形的線",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "所有手球賽事都必須設有開球位置",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

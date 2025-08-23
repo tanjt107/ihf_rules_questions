@@ -1,0 +1,629 @@
+﻿{
+    "RuleNumber": "16",
+    "Name": null,
+    "Questions": [
+        {
+            "Number": "16.1",
+            "Phrase": "白隊球隊職員B因抗議而被判退場兩分鐘。在恢復比賽前，他再次抗議而被判取消比賽資格。如何處理？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊兩名球員退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊一名球員退場四分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊一名球員退場兩分鐘",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "16.2",
+            "Phrase": "白隊8號由於推人被判退場兩分鐘，他走過去辱駡裁判：“你這個蠢材、白痴，你唔識吹波的。”在離場前還向裁判臉上吐口水。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "取消白隊8號比賽資格，白隊場內減少一人兩分鐘（裁判出示紅牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "取消白隊8號比賽資格，白隊場內減少兩人兩分鐘（裁判出示紅牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "取消白隊8號比賽資格，A隊場內減少一人四分鐘，及需作出書面報告（裁判出示紅牌及藍牌）",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "取消白隊8號比賽資格，白隊場內減少兩人兩分鐘，及需作出書面報告（裁判出示紅牌及藍牌）",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "16.3",
+            "Phrase": "一場比賽中，一隊球隊的職員最多可有多少次警告？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "0次",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "一次",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "兩次",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "三次",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "16.4",
+            "Phrase": "球員被罰退場兩分鐘，受罰時間是由何時開始計算？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "裁判出示退場兩分鐘的手號時",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "受罰球員離開邊線時",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "裁判鳴哨恢復比賽時",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "計時員開計時器時",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "16.5",
+            "Phrase": "球員被罰退場時，裁判應向誰出示手號？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "受罰球員、計時員和記錄員",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "“球隊職員代表”和計時員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "計時員和記錄員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "受罰球員、“球隊職員代表”和記錄員",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "16.6",
+            "Phrase": "黑隊5號已兩次被罰退場兩分鐘，一次是因爲犯規被漸進處罰，另一次是判對方擲自由球時掉球。現在他又犯了球隊的第二次替補犯規，並在比賽恢復前又作出極端不君子行為。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊5號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "取消黑隊5號比賽資格，需作出書面報告（裁判出示紅牌及藍牌），黑隊場內減少一人四分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "取消黑隊5號比賽資格，需作出書面報告（裁判出示紅牌及藍牌），黑隊場內減少兩人兩分鐘",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "16.7",
+            "Phrase": "白隊5號因犯規被判退場兩分鐘，在離開場地時他辱駡裁判，裁判因此向他出示紅牌，白隊5號因而感到憤怒並打裁判。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "提交書面報告（裁判出示藍牌）",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊場內減少一名球員比賽兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊場內減少兩名球員比賽兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊場內減少一名球員比賽四分鐘",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "16.8",
+            "Phrase": "白隊7號由於犯規而被判退場兩分鐘，他立即對裁判說：“你個白痴一定是盲的”。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊7號加罰另一次退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "取消白隊7號比賽資格（裁判出示紅牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊場內減少兩名球員比賽兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊場內減少一名球員比賽四分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "取消白隊7號比賽資格及提交書面報告（裁判出示紅牌及藍牌）",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "16.9",
+            "Phrase": "白隊3號被判退場兩分鐘並已返回替補席。在比賽恢復前，及沒有暫停的情況下，黑隊球隊職員B進入場內。在還未有對這教練作出處理時，白隊3號又在替補區對黑隊球隊職員B作出嚴重不君子行爲。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "取消白隊3號比賽資格（裁判出示紅牌）",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "警告黑隊球隊職員B",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊場內減少兩名球員比賽兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊場內減少一名球員比賽四分鐘",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "16.10",
+            "Phrase": "當一個球員被取消比賽資格時，該隊的場內球員人數就應減少一名。惟下列情况除外：",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "半場休息時，作出嚴重不君子行為",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "在比賽場外犯規",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "比賽開始前",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "因侮辱裁判時",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "16.11",
+            "Phrase": "中場休息時，白隊7號在場內襲擊黑隊守門員12號。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "取消白隊7號比賽資格，提交書面報告（裁判出示紅牌及藍牌），白隊場內減少一名球員兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "警告白隊7號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "口頭警告白隊7號，因為騷擾比賽",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "16.12",
+            "Phrase": "中場休息時，裁判在去休息室的途中受到黑隊7號侮辱。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "取消黑隊7號比賽資格（裁判出示紅牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊7號退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊場內減少一名球員比賽兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "取消黑隊7號比賽資格，提交書面報告（裁判出示紅牌及藍牌）",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "16.13",
+            "Phrase": "上半場結束訊號響後，黑隊9號和白隊5號在場內發生碰撞並因而對駡起來。黑隊9號用雙手推白隊5號的胸部致使白隊5號差點失平衡。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "下半場開始時白隊9號被判退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "取消白隊9號比賽資格（裁判出示紅牌），下半場開始時白隊減少一名場內球員兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "取消白隊9號比賽資格，下半場開始時白隊不減少球員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "取消白隊9號比賽資格，提交書面報告（裁判出示紅牌及藍牌），下半場開始時白隊減少一名場內球員兩分鐘",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "16.14",
+            "Phrase": "比賽結束後，白隊10號向裁判大叫“你個白痴吹輸我們！”，如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "警告白隊10號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "取消白隊10號比賽資格，提交書面報告（裁判出示紅牌及藍牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "提交書面報告",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "警告白隊10號，提交書面報告",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "16.15",
+            "Phrase": "半場休息期間，白隊9號在場內毆打黑隊球隊職員B，黑隊球隊職員B隨即辱罵白隊9號。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "取消白隊9號比賽資格，提交書面報告（裁判出示紅牌及藍牌），下半場開始時白隊減少一名場內球員兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "取消黑隊球隊職員B比賽資格，提交書面報告（裁判出示紅牌及藍牌），下半場開始時黑隊減少一名場內球員兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "取消白隊9號比賽資格（裁判出示紅牌），下半場開始時白隊不減少球員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "取消黑隊球隊職員B比賽資格（裁判出示紅牌），下半場開始時黑隊不減少球員",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "16.16",
+            "Phrase": "白隊7號剛剛因第三次被罰退場兩分鐘而被取消比賽資格，他立即與裁判理論，並不願離開比賽場地。如何判決?",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "無須進一步處理",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊場內減少一名球員四分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊場內減少兩名球員兩分鐘",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "16.17",
+            "Phrase": "白隊11號在比賽中已被警告；在中場休息時，他又違反不君子行為。如何判決?",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "警告白隊11號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊11號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊11號取消比賽資格",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "下半場首兩分鐘白隊場內球員人數比上半場結束時減少一人",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "下半場白隊出場球員人數與上半場結束時一樣",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "16.18",
+            "Phrase": "白隊4號受傷，裁判暫停，並出示手號允許白隊職員進場援助受傷隊員，白隊球隊職員A和B及黑隊球隊職員A進入場內，隊球隊職員A曾經被警告。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "不作處理",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "在比賽恢復後，黑隊場內不減少球員繼續比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊球隊職員A退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "取消黑隊球隊職員A比賽資格（裁判出示紅牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "在比賽恢復後，黑隊場內減少一名球員比賽兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "於球場內接受治理後，白隊4號必須離開球場，並且於其球隊完成3次進攻後，才可以進場比賽",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "16.19",
+            "Phrase": "黑隊9號對白隊9號作出嚴重犯規而被判取消比賽資格，在比賽恢復前，黑隊9號又打了白隊球隊職員A面部一下。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "取消黑隊9號比賽資格（裁判出示紅牌），黑隊場內減少兩名球員比賽兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "取消黑隊9號比賽資格（裁判出示紅牌），黑隊場內減少一名球員比賽四分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "無需進一步處罰",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "取消黑隊9號比賽資格，提交書面報告（裁判出示紅牌及藍牌），黑隊場內減少兩名球員比賽兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "取消黑隊9號比賽資格，提交書面報告（裁判出示紅牌及藍牌），黑隊場內減少一名球員比賽四分鐘",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "16.20",
+            "Phrase": "暫停後，黑隊8號被罰退場兩分鐘。當離開場地後，在比賽恢復前，他又向裁判說了些不君子的說話。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊8號退場兩分鐘，黑隊場內減少兩名球員比賽兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊8號退場兩分鐘，黑隊場內減少一名球員比賽四分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "取消黑隊8號比賽資格（裁判出示紅牌），黑隊場內減少兩名球員比賽兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "取消黑隊8號比賽資格（裁判出示紅牌），黑隊場內減少一名球員比賽四分鐘",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "16.21",
+            "Phrase": "下列那些情況，球隊場內須減少球員四分鐘？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "一名球員剛被取消比賽資格，在離開場地時，他抗議裁判的判罰，而該行為一般會被判罰退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "一名球員剛被罰退場兩分鐘，在離開場地時，他再侮辱裁判而被判取消比賽資格",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "一名球員，因對對隊犯不君子行為而被罰退場兩分鐘，當他還在場內時，他再打對隊球員的面而被裁判取消資格及提交書面報告",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "一名球員因不君子行為而被罰退場兩分鐘，他越過邊線後又走回場內提出抗議，裁判對他再加罰一次退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "一名球員因向對方吐口水而被取消比賽資格及提交書面報告，在離開場地時又推裁判",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "一名球員因嚴重犯規而被取消比賽資格，離開場地後，在比賽重新恢復後，他坐在觀眾席又侮辱裁判",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "16.22",
+            "Phrase": "比賽進行到7:00時，白隊5號被罰退場兩分鐘，比賽恢復前，他因抗議而被加罰另一次退場兩分鐘。比賽過一分鐘後，他跑進場內；計時員鳴哨，由於他非法進場內而再一次被罰退場兩分鐘。這樣白隊5號便被取消比賽資格，這時他再侮辱裁判。如何處理？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊7:00至8:00，場內減少一名球員；8:00至10:00場內減少兩名球員；10:00至11:00場內減少一名球員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊7:00至8:00，場內減少一名球員；8:00至11:00場內減少兩名球員；11:00至12:00場內減少一名球員",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊7:00至8:00，場內減少兩名球員；8:00至10:00場內減少三名球員；10:00至11:00場內減少兩名球員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊7:00至8:00，場內減少兩名球員；8:00至10:00場內減少四名球員；10:00至11:00場內減少兩名球員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "取消白隊5號比賽資格，提交書面報告（裁判出示紅牌及藍牌）",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "16.23",
+            "Phrase": "白隊球隊職員C在上半場時因不君子行為被警告。比賽時間是35:50，白隊球隊職員B用力的手勢抗議裁判的判決。因此他得到退場兩分鐘。在比賽結束前3分鐘，白隊球隊職員A在未經裁判允許進場。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "警告白隊球隊職員A",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊球隊職員A退場兩分鐘；白隊場內減少一名球員兩分鐘；白隊球隊職員A可以留在替補席",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊球隊職員A退場兩分鐘；白隊場內減少一名球員兩分鐘；白隊球隊職員A必須離開替補席",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "取消白隊球隊職員A資格（裁判出示紅牌），白隊場內減少一名球員兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "取消白隊球隊職員A資格，及作出書面報告（裁判出示紅牌和藍牌），白隊場內減少一名球員兩分鐘",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

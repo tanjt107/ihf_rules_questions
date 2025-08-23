@@ -1,0 +1,344 @@
+﻿{
+    "RuleNumber": "5",
+    "Name": "守門員",
+    "Questions": [
+        {
+            "Number": "5.1",
+            "Phrase": "黑隊守門員1號擋住射門的球後並發動反擊，但在擲球時他的左腳越過了禁區線。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "比賽繼續",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "鳴哨後重擲守門員球",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "5.2",
+            "Phrase": "白隊守門員12號站在禁區前的比賽場地，接到隊友的傳球後，向後一移，一隻腳踏入了己方的禁區內，另一隻腳還在禁區外。如何判决？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊七米球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "比賽繼續",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊守門員12號退場兩分鐘",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "5.3",
+            "Phrase": "白隊守門員12號擋了射門的球後，球彈向場內，白隊12號飛撲接球。在接着球時，他的身體亦同時正滑出禁區線外，躺在比賽場內的地上將球傳給隊友。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "比賽繼續",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "鳴哨後由白隊擲守門員球",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "5.4",
+            "Phrase": "黑隊守門員1號擋了射門的球，球滾動向比賽場地，爲了不讓靠近禁區線的白隊15號接到球，守門員用腳將球踢出底線外。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊七米球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "比賽繼續",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "漸進處罰黑隊守門員1號，因為他危及對方安全",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "5.5",
+            "Phrase": "白隊守門員12號未能把球控制住，球在禁區內滾動向邊線，守門員用腳將球踢出底線外。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊守門員球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊界外球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "漸進處罰守門員",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "5.6",
+            "Phrase": "白隊守門員1號擋了射門的球後，球滾動向比賽場地。在禁區線外只有黑隊6號獨自等候接球。白隊守門員1號在球滾動到禁區線上時用腳把球截停。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "鳴哨後白隊擲守門員球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "漸進處罰白隊守門員1號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊七米球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "5.7",
+            "Phrase": "白隊7號擋了黑隊18號射門的球後，球改變方向，明顯地向外底線方向(禁區內)滾去，白隊守門員1號追上去用腳使球越出外底線。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊守門員球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊界外球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "警告白隊1號",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "5.8",
+            "Phrase": "黑隊守門員12號在禁區內跳起截取對隊長傳給白隊7號的球，他在空中接球後落地，一腳落在禁區內，另一腳落在禁區外，在該位置上傳球給黑隊3號。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊七米球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "比賽繼續",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "更正位置，鳴哨後擲守門員球",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "5.9",
+            "Phrase": "白隊9號傳球給站在比賽場內的白隊守門員1號，由於防守的壓迫，白隊9號將球傳得過高，白隊1號必須退後接球，以致一隻腳進入了禁區才能把球接住。如何判決?",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "比賽繼續",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "暫停",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊七米球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊自由球",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "5.10",
+            "Phrase": "裁判判由白隊在白隊禁區線處擲自由球。白隊守門員1號一腳站在禁區內，另一腳站在禁區外，將球傳給白隊8號並射門得分。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊得分",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "在白隊禁區外重擲自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊在白隊的禁區線處擲自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊守門員球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "白隊七米球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "5.11",
+            "Phrase": "裁判鳴哨判黑隊21號走步，球員將球放在白隊的禁區線旁。白隊守門員16號為了迅速擲球，他用一手支撐在禁區線外的地上，一腳仍在禁區內，把球擲給白隊3號發動反攻，並射進黑隊的球門內。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "鳴哨後白隊重擲自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊得分",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊自由球，因為白隊12號擲自由球違規",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "暫停",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "5.12",
+            "Phrase": "黑隊守門員1號離開了禁區，他從比賽場地跳起，在空中接住隊友回傳的球後，雙腳落在禁區內。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "比賽繼續",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊守門員球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊七米球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "暫停",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "5.13",
+            "Phrase": "球在白隊禁區外緊貼禁區線的地上，站在禁區內的白隊守門員1號為了阻止對方獲球而將球拾起。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊七米球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "漸進處罰白隊1號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "不作處理，因為這是容許的",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

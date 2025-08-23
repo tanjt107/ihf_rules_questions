@@ -1,0 +1,932 @@
+﻿{
+    "RuleNumber": "7",
+    "Name": "對球的動作、消極比賽",
+    "Questions": [
+        {
+            "Number": "7.1",
+            "Phrase": "白隊3號將一個在空中快要出界的球，用手撥給白隊7號；此時，他一隻腳踏出了場外。白隊7號接球後射入球門。如何判决？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊界外球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "得分",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊3號退場兩分鐘",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.2",
+            "Phrase": "黑隊3號傳球給底線的黑隊11號，球在空中時，黑隊11號知道自己難以把球接住，於是他用拳頭將球擊給在場中央的黑隊9號。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "比賽繼續",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊在黑隊9號的位置擲自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊在黑隊11號的位置擲自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊11號退場2分鐘",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.3",
+            "Phrase": "白隊4號站着接球，跳起先以右腳着地，再以左腳起跳射門。白隊4號走了多少步？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "1",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "2",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "3",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "4",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.4",
+            "Phrase": "一名球員跳起接球後，雙腳同時着地，然後抬起右脚，向旁邊行了一步，跟着左腳移到右腳。他走了多少步？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "1",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "3",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "0",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "2",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.5",
+            "Phrase": "一個球員在空中接球後，先以右腳着地，再以右腳起跳，接着以左、右腳分別先後着地，再把球傳出。該球員共走了多少步？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "3",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "2",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "1",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "0",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.6",
+            "Phrase": "白隊5號接球不穩，但最終接住了。然後他走了三步，運球一次，再走三步後射入球門。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "得分",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊守門員球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊界外球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.7",
+            "Phrase": "白隊5號想發動反擊，他連續拍球(運球)並同時走了五步，然後把球接回，再將球傳出。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "比賽繼續",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊七米球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.8",
+            "Phrase": "黑隊6號將球接住後滑倒在地上，他躺在地上把球傳給黑隊9號。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "比賽繼續",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.9",
+            "Phrase": "白隊3號在兩個防守球員之間運球穿過，當他把球向跑動方向推進時，球在未觸及地面前又把球接住。他再拍了一下球，然後射入球門。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "得分",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊守門員球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.10",
+            "Phrase": "白隊7號運球後想傳球給白隊5號，但白隊5號被對隊包圍着。白隊7號在慌亂中球脫手，但在球觸及地面前又把球接住。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "比賽繼續",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.11",
+            "Phrase": "重覆消極比賽，如何處罰?",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "自由球和警告",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "自由球和退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "自由球和取消資格（裁判出示紅牌）",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.12",
+            "Phrase": "白隊4號射門，球擊中黑隊門柱後，碰到了站在禁區內球門旁邊的裁判，球因此沒有飛出外底線而是出了邊線。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊界外球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊守門員球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.13",
+            "Phrase": "白隊5號擲界外球，球擊中站在場內的裁判後進入了黑隊的球門。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "鳴哨後重新擲球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊得分",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "7.14",
+            "Phrase": "黑隊3號跳起射門，球被白隊9號封擋落地。接着，白隊9號雙手把球拾起及開始運球反擊，並將球射入黑隊球門。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊得分",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊9號退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "暫停",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.15",
+            "Phrase": "白隊5號沿邊線運球，黑隊2號正確地阻擋他的路線；爲了繞過黑隊2號，白隊5號運球時腳越出了邊線。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊界外球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "比賽繼續",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.16",
+            "Phrase": "白隊3號傳球給白隊9號，由於傳得差，球滾向白隊替補席附近的邊線，球員黑隊10號距離球1米，準備要拾球時，白隊9號飛身撲球，用拳頭將球擊向球場中央的白隊3號，因衝力過大，白隊9號隨後飛出邊線。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "比賽繼續",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "漸進處罰白隊9號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊界外球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.17",
+            "Phrase": "黑隊7號進攻時，在沒有球的情况下離開球場，裁判向他作出指示返回場內，但沒有回應。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "繼續比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "漸進處罰黑隊7號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊界外球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.18",
+            "Phrase": "一名球員跳起在對方禁區上空，完全控制球和平衡身體，並處於良好的射門位置。但他沒有作出射門，而是在空中轉身將球回傳給其隊友。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "出示消極比賽警告手號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "消極比賽，立即判自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "不君子行為，立即判自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "漸進處罰",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.19",
+            "Phrase": "白隊3號射門，球擊中黑隊球門柱後滾動出禁區外。位於九米線附近的白隊3號和黑隊4號同時撲向球，互相間沒有危害動作，黑隊4號將球拍給黑隊6號並發動反擊，最後黑隊6號將球射進球門。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "警告黑隊4號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊得分",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "根據當時的情況判白隊或黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊守門員球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.20",
+            "Phrase": "白隊10號試圖傳球給站在黑隊禁區邊線的A8，但球擊中站在白隊8號前方黑隊10號的腳上。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "比賽繼續",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "視乎是誰奪得球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.21",
+            "Phrase": "白隊15號阻擋黑隊12號的傳球後，球在地上滾動。白隊15號與黑隊12號同時撲向球，白隊15號把球接住後站起來，然後他走了三步並將球傳給隊友射入球門。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊得分",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.22",
+            "Phrase": "白隊在比賽至57分鐘時，比對方少一名場內球員下，暫以24:23領先。場內裁判判白隊得一自由球。裁判清晰地指出擲球位置，但白隊6號仍然在距離正確位置外數米處執行擲球。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "更正位置，鳴哨恢復比賽，沒有其他動作",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "更正位置，鳴哨恢復比賽，出示消極進攻警告手號",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "更正位置，漸進處罰白隊6號，鳴哨恢復比賽，出示消極進攻警告手號",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.23",
+            "Phrase": "黑隊場內減少一人比賽，當黑隊球員都已站在進攻位置，並開始組織進攻時，黑隊6號和黑隊8號決定離開場地進行替換。如何判決?",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "出示消極進攻警告手號",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "假如在5秒鐘內沒有加快進攻節奏，便出示消極進攻警告手號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "立即判消極比賽，由白隊擲自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "因重覆替補則警告黑隊6號或黑隊8號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "因重覆替補則判黑隊6號或黑隊8號退場兩分鐘",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.24",
+            "Phrase": "下列那些情況須取消「消極進攻警告手號」？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "重新接回被守門員擋出的七米球時",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "重新接回從球門橫楣或門柱彈回的球時",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "球隊暫停時",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "在球隊出現更消極的進攻時",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "以上所說明的a-d皆非",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.25",
+            "Phrase": "下列那些關於消極進攻警告手號 (手號17) 的說法是正確的？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "如果出現消極比賽傾向時，由場內裁判先做出手號17，底線裁判跟着做相同手號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "如在出示了警告手號之後，控球隊要求暫停，那麼在恢復比賽時，裁判必須繼續出示警告手號",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "如在出示了警告手號之後，控球隊仍沒有明顯改變進攻模式，其中一名裁判員可鳴哨判消極比賽，由對方擲自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "在出示了警告手號之後，裁判可在最多4次傳球後仍無法射門的情況下，判消極比賽",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "7.26",
+            "Phrase": "白隊拖延執行開球，該隊先前已有這種行為。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "比賽繼續",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "暫停；鳴哨後擲開球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "暫停；鳴哨後擲開球；即時展示消極進攻警告手號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "鳴哨擲開球；即時展示消極進攻警告手號",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "漸進處罰白隊“球隊職員代表”",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.27",
+            "Phrase": "下列那些關於使用消極進攻警告手號的說法是正確的？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "當防守隊球隊職員時被漸進處罰時，消極進攻警告手號結束",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "第一次出示警告手號時，約十秒後便應放下手臂",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "警告手號後，第一次比賽中斷後，在比賽重新開始時應再次出示警告手號作為提示",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "當防守隊球員被漸進處罰時，消極進攻警告手號結束",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "裁判必須在球員明顯控制球時，才能出示消極進攻警告手號",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "7.28",
+            "Phrase": "下列那些關於消極比賽的說法是正確的？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "球隊由組織陣地進攻，到進攻結束，不許超過5秒",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "裁判必須注意開球後的緩慢替補",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "裁判應留意球隊在組織進攻時，是否有加快進攻節奏或獲取更大的進攻空間",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "球隊在己方半場控球時，裁判便應密切注意消極比賽的出現",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "試圖反擊快攻的球隊，在轉變為陣地進攻時，容許進行正常的替補",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "7.29",
+            "Phrase": "白隊在控球。裁判出示消極進攻警告手號。經過一次傳球，白隊5號射門，黑隊2號封堵，球彈回白隊5號，然後傳給白隊9號。總共完成了多少次傳球？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "3",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "4",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "5",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.30",
+            "Phrase": "白隊控球，裁判出示消極進攻警告手號。白隊9號嘗試傳球給白隊2號，但被黑隊8號封擋，球回到白隊9號手上。白隊9號嘗試突破，獲得自由球。白隊8號擲自由球球傳給白隊2號。總共多少次傳球？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "1",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "2",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "3",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.31",
+            "Phrase": "白隊控球，裁判認為白隊有消極進攻的傾向，出示消極進攻警告手號。黑隊見此情況，防守變得更有侵略性，試圖製造自由球機會。3次傳球後，白隊獲得自由球。總共多少次傳球？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊還有4次傳球機會",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊還有2次傳球機會",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊還有1次傳球機會",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊必須罰球直接射門",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.32",
+            "Phrase": "白隊進攻，裁判認為白隊有消極進攻的傾向，出示消極進攻警告手號。白隊傳球4次後，白隊9號射門，黑隊3號封擋出邊線，白隊獲得界外球。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "消極進攻警告手號結束",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊還有4次傳球機會",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊還有2次傳球機會",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊還有1次傳球機會",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "7.33",
+            "Phrase": "白隊控球，裁判出示消極進攻警告手號。白隊5號在4次傳球後射門，球被黑隊3號封擋後回到白隊5號手上。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊還有1次傳球機會",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "消極進攻警告手號繼續",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "消極進攻警告手號結束",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "白隊沒有傳球機會，需直接射門",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.34",
+            "Phrase": "黑隊進攻，裁判出示消極進攻警告手號。黑隊7號傳球給黑隊11號，黑隊11號嘗試突破被白隊3號成功防守。黑隊11號擲自由球傳給黑隊2號，黑隊2號射門，被防守球員白隊4號封擋，球回到黑隊11號手上，黑隊11號射門被白隊5號輕輕地推了一下，白隊守門員1號成功守住了球。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊自由球；新的進攻回合，因為守門員封擋了球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊自由球；消極進攻警告手號繼續，黑隊已經傳球2次",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊自由球；消極進攻警告手號繼續，黑隊已經傳球3次",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊自由球；消極進攻警告手號繼續，黑隊已經傳球4次",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "7.35",
+            "Phrase": "比分為27:27，比賽時間尚餘20秒，白隊沒有守門員。裁判出示消極進攻警告手號，三次傳球後，白隊8號將球傳給白隊7號，隨後白隊7號射門，被防守球員黑隊2號封擋出邊線，在擲界外球後，桌上的哨音響了，因為白隊要求隊暫停。應該如何恢復比賽？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊界外球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "擲界外球必須直接射門",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "除了接射門外，擲球者還可以傳球給他的隊友",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "7.36",
+            "Phrase": "白隊進攻，裁判出示消極進攻警告手號，兩次傳球後白隊7號射門，被黑隊8號封擋，白隊8號獲得反彈球後嘗試射門，再次被黑隊8號封擋，白隊8號在接到球後將球傳給有明顯的得分機會的白隊6號。白隊6號被黑隊7號從背後拉倒，完全失去身體平衡。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊七米球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊7號退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "取消黑隊7號資格（裁判出示紅牌）",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "暫停",
+                    "Correct": true
+                }
+            ]
+        }
+    ]
+}

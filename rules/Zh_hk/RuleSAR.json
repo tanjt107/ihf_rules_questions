@@ -1,0 +1,63 @@
+﻿{
+    "RuleNumber": "SAR",
+    "Name": "替補區規則",
+    "Questions": [
+        {
+            "Number": "SAR1",
+            "Phrase": "替補席與中線應最少有多遠距離？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "1米",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "2米",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "3米",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "3.5米",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "SAR2",
+            "Phrase": "白隊球隊職員A已經在替補席上被警告過，現在他離開替補區，坐在觀眾席上，繼續抗議裁判的判罰。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "不作處理",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊球隊職員A退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "取消白隊球隊職員A比賽資格（裁判出示紅牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "取消白隊球隊職員A比賽資格，提交書面報告（裁判出示紅牌及藍牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "白隊場內減少一名球員比賽兩分鐘",
+                    "Correct": true
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+  "home": {
+    "alert": "目前只提供英文，中文（香港）版本。暫時未能自動加入其他語言，因為時間有限。如果你願意協助，歡迎加入！;-)",
+    "all_questions_card": {
+      "button": "回答所有問題",
+      "content": "前往所有問題列表。",
+      "title": "所有問題"
+    },
+    "collaborate": "協助支援其他語言",
+    "random_questions_card": {
+      "button": "回答 {{count}} 條問題",
+      "content": "前往隨機問題列表",
+      "count": "問題數量",
+      "title": "隨機問題"
+    },
+    "rules_card": {
+      "button": "前往規則",
+      "content": "前往所有規則列表。你可以在這裡找到與所選規則相關的所有問題。",
+      "title": "規則"
+    },
+    "subtitle": "測試你對比賽規則的認識。<br> 有關 IHF 比賽規則的問題，適用於 <b>{{version}}</b>",
+    "title": "歡迎"
+  },
+  "languages": {
+    "en": "英文",
+    "label": "語言",
+    "nl": "荷蘭文",
+    "zh_hk": "中文（香港）"
+  },
+  "main": {
+    "title": "IHF 規則問題"
+  },
+  "navigation": {
+    "home": "主頁",
+    "questions": "問題",
+    "rules": "規則"
+  },
+  "questions": {
+    "calculate_score": "計算分數",
+    "title": "所有問題"
+  },
+  "questions_random_new": "{{count}} 條新問題",
+  "random_questions": {
+    "title": "隨機問題"
+  },
+  "rules": {
+    "title": "規則"
+  },
+  "score_overview": {
+    "score": "你的分數：",
+    "title": "結果",
+    "wrong_questionNumbers": "你答錯的問題編號："
+  }
+}

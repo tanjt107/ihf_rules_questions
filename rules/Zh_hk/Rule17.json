@@ -1,0 +1,275 @@
+﻿{
+    "RuleNumber": "17",
+    "Name": "裁判",
+    "Questions": [
+        {
+            "Number": "17.1",
+            "Phrase": "兩名裁判判由哪隊擲界外球意見不一，如何處理？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "由場內裁判决定",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "由底線裁判决定",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "兩名裁判經協商後取得一致意見",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "暫停",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "不用暫停，鳴哨後擲界外球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "17.2",
+            "Phrase": "由於公開計時器故障無法自動發出完場訊號，雖然比賽時間已經結束，但計時員未注意到該故障而沒有做出任何反應。在這種情況下，應由誰人發出比賽結束訊號？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "紀錄員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "場內裁判",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "技術委員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "兩位裁判中的任何一位",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "計時員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "計時員、技術委員或兩位裁判中的任何一位",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "17.3",
+            "Phrase": "黑隊2號犯規，埸內裁判判斷為取消資格和自由球，底線裁判判斷為退場兩分鐘和七米球。應如何執行罰則及如何恢復比賽？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊2號退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "取消黑隊2號資格（裁判出示紅牌）",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "七米球",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "17.4",
+            "Phrase": "如對比賽計時有疑惑時，由誰確定時間？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "計時員和紀錄員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "兩名裁判一同確定時間",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "計時員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "兩名裁判和計時員一同確定時間",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "17.5",
+            "Phrase": "那些判罰要提交書面報告？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "所有被判取消比賽資格的判罰(被判三次退場除外)",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "除警告外的所有處罰",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "所有退場兩分鐘和取消比賽資格",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "比賽至接近完場時，因危害性犯規或嚴重不君子行為被取消比賽資格者，其動作是阻止對方射門或獲得明顯得分機會時",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "因極端不君子行為而被判取消比賽資格時",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "比賽至接近完場時，因作不君子行為被判淅進處罰者，其動作是示圖阻止對方獲得明顯得分機會時",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "17.6",
+            "Phrase": "比賽期間，誰可以向裁判表達意見？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "每位參賽球員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "教練",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "“球隊職員代表”",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "隊長",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "17.7",
+            "Phrase": "裁判對比賽的剩餘時間意見不一，底線裁判（分紙上填第一的裁判）認為還有50秒，場內裁判認為還有42秒。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "以較長的時間為准，即50秒",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "由分紙上填第一的裁判決定，即50秒",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "以場內裁判員為準，即42秒",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "兩名裁判員必須達成一致意見",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "17.8",
+            "Phrase": "比賽開始時，誰是場內裁判，誰是底線裁判？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "分紙上填第一的裁判為場內裁判",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "分紙上填第一的裁判為底線裁判",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "擲亳決定",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "兩者均可，裁判自行決定",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "17.9",
+            "Phrase": "兩名裁判同時對兩名球員的互相碰撞鳴哨，場內裁判判進攻犯規，但底線裁判判防守犯規。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "由底線裁判決定",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "由場內裁判決定",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "兩名裁判員經過協商後，達成一致判決",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "必須暫停",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "只是在判罰進攻隊達成一致時，才有必要暫停",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "如裁判使用電子儀器作內部通訊時，無須暫停",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

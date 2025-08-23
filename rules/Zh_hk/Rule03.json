@@ -1,0 +1,110 @@
+﻿{
+    "RuleNumber": "3",
+    "Name": "球",
+    "Questions": [
+        {
+            "Number": "3.1",
+            "Phrase": "手球可有多少種顔色?",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "1",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "2",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "3",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "無限",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "3.2",
+            "Phrase": "裁判應選用以下那一個球作為男子比賽用的球？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "圓周57厘米，重450克",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "圓周58厘米，重400克",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "圓周59厘米，重425克",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "圓周60厘米，重500克",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "3.3",
+            "Phrase": "裁判應選用以下那一個球作為女子比賽用的球？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "圓周53厘米，重350克",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "圓周54厘米，重300克",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "圓周55厘米，重425克",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "圓周56厘米，重375克",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "3.4",
+            "Phrase": "裁判決定使用備用球比賽後，何時應該再使用原來的球？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "下一次比賽中斷時",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "不再使用，除非備用球不能被繼續使用",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "裁判認為有必要再次使用時",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "若其中一隊提出要求時",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

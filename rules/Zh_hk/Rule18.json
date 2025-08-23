@@ -1,0 +1,209 @@
+﻿{
+    "RuleNumber": "18",
+    "Name": "計時員及記錄員",
+    "Questions": [
+        {
+            "Number": "18.1",
+            "Phrase": "下列那些是屬於規則內關於計時員和記錄員的分工？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "進出替補區的情況，僅屬於計時員的職責",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "一般而言，只有計時員才可以在必要時打擾比賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "如發現替補球員過早進場，記錄員必須鳴哨",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "若沒有使用公開計時器，計時員必須讓球隊知道比賽進行了多少時間或剩餘時間",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "數算受傷球員在場內接受治理後完成的進攻次數是計時員及記錄員的共同責任",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "18.2",
+            "Phrase": "白隊5號有一明顯得分機會，當白隊5號正準備射門時，計時員因被白隊球隊職員A侮辱而鳴哨。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "漸進處罰白隊球隊職員A",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊七米球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "作出書面報告",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "18.3",
+            "Phrase": "白隊“球隊職員代表”侮辱記錄員，但裁判沒有發覺；在接着的比賽中斷時，記錄員將事件知會了裁判。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "取消白隊“球隊職員代表”資格，作出書面報告（裁判出示紅牌及藍牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊“球隊職員代表”退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "提交書面報告",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "警告白隊“球隊職員代表”",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "不會進行個人處罰",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "18.4",
+            "Phrase": "白隊在黑隊自由球線處控球；這時，技術代表中斷比賽，並告訴裁判黑隊球隊職員A辱罵他。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "警告黑隊球隊職員A，提交書面報告",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "取消黑隊球隊職員A資格，提交書面報告（裁判出示紅牌及藍牌）",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "由白隊在黑隊替補區擲自由球恢復比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "由白隊在黑隊自由球線擲自由球恢復比賽",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "18.5",
+            "Phrase": "白隊在黑隊自由球線處控球，計時員鳴哨中斷比賽，並告訴裁判白隊球隊職員A侮辱他，但這個行為只有計時員本人注意到。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "提交書面報告",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊球隊職員A被判退場兩分鐘，提交書面報告",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "由黑隊在白隊替補區擲自由球恢復比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "由白隊在黑隊自由球線擲自由球恢復比賽",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "18.6",
+            "Phrase": "比賽期間，白隊球隊職員A重覆地移向紀錄台旁教授其球員戰術，同時亦抗議裁判的判決。由於比賽場館嘈吵，裁判未有聽到有關抗議，如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "計時員必需即時鳴哨暫停比賽，通知裁判有關白隊球隊職員A的行為",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "計時員需等待下一次比賽中斷時，通知裁判有關白隊球隊職員A的行為",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "漸進處罰白隊球隊職員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "不用判罰",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "18.7",
+            "Phrase": "如果裁判不知道球隊違犯替補區規則時(非替補犯規)，計時員或記錄員應何時通知裁判？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "立即",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "下一次比賽中斷時",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "18.8",
+            "Phrase": "若技術代表因白隊犯規而中斷比賽，比賽應由黑隊擲球恢復比賽嗎？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "是",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "不是",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

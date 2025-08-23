@@ -1,0 +1,426 @@
+﻿{
+    "RuleNumber": "13",
+    "Name": "自由球",
+    "Questions": [
+        {
+            "Number": "13.1",
+            "Phrase": "白隊擲自由球，在白隊5號拿到球前，黑隊6號拾起球，以手臂夾着球向自己的球門區跑去，跑了幾步後，他把球滾回給白隊5號。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊6號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "鳴哨後白隊擲自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "警告黑隊6號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "比賽繼續",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "暫停",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "13.2",
+            "Phrase": "白隊17號抱住試圖反攻的黑隊7號，在裁判準備鳴哨時，黑隊8號已經把球接住。根據得益原則，裁判沒有鳴哨。黑隊8號接球後射門，球被白隊守門員12號擋住，並準備作出反擊。在此之前，兩隊均已被警告三次。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "比賽繼續",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊17號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊守門員球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "暫停",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "13.3",
+            "Phrase": "白隊得自由球時，黑隊6號持球跑離犯規地點4米處。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "警告黑隊6號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊6號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "取消黑隊6號比賽資格（裁判出示紅牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊在原犯規地點擲自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "白隊在球所在位置擲自由球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "13.4",
+            "Phrase": "因白隊4號犯規判黑隊擲自由球，白隊4號拿着球走進禁區，然後放下球。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊4號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "警告白隊4號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊七米球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊自由球",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "13.5",
+            "Phrase": "白隊5號持球時，白隊職員B正在向裁判抗議，裁判鳴哨暫停並警告白隊職員B。比賽應如何恢復？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "鳴哨後由黑隊在白隊替補區處擲自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "鳴哨後由白隊在白隊替補區處擲自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "鳴哨後由白隊在比賽中斷時球所在地點擲自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊在白隊替補區擲界外球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "13.6",
+            "Phrase": "在雙方球員都沒有違例，亦沒有球隊申請暫停的情況下，裁判中斷了比賽。就在中斷比賽的訊號發出前，黑隊13號將球直接射向白隊球門，訊號發出時，球仍在空中，守門員來不及擋球，球進入了球門。比賽應如何恢復？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊七米球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊得分",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "13.7",
+            "Phrase": "白隊7號在快速反擊中射門，有一名黑隊球員在守門員和他之間，球擊中跳起的黑隊守門員12號守門員的頭部，黑隊12號昏倒地，需要接受治理。從黑隊12號頭彈回的球向禁區外的白隊9號飛去，白隊9號接到球後立即將球射進空門。若果球在禁區上空飛行途中，未進入球門前，裁判作出了鳴哨，如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊得分",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊七米球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "鳴哨後白隊擲自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "暫停",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "黑隊12號必須離開球場，並且於其球隊完成3次進攻後，才可以進場比賽",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "13.8",
+            "Phrase": "黑隊自由球，但球還在白隊5號的手中。白隊5號持球走向裁判並“禮貌”地將球交給裁判。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊5號退場兩分鐘，黑隊在球所在地點擲自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "警告白隊5號，黑隊在球所在地點擲自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊5號退場兩分鐘，黑隊在犯規地點擲自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "警告白隊5號，黑隊在犯規地點擲自由球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "13.9",
+            "Phrase": "當裁判判白隊得七米球後，白隊5號出現替補犯規。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊七米球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊5號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "警告白隊“球隊職員代表”",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "13.10",
+            "Phrase": "有關擲自由球的位置，下列那些說法是正確的?",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "判自由球後，若球沒有立即放下，容許對隊在球所在的位置擲自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "替補犯規後，若在比賽中斷時球所在的位置比在替補區擲球更為有利時，擲球隊可在該位置擲自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "因消極比賽而判的自由球，總是在判罰時，球所在的位置執行擲球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "在中線擲自由球的位置，其誤差範圍如同開球",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "13.11",
+            "Phrase": "黑隊11號持球進攻，並試圖擺脫防守球員白隊2號。由於觀眾席傳來哨子聲，白隊2號停了下來，沒有繼續防守，黑隊11號在無人防守下射門。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊七米球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "暫停，詢問計時員",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊自由球",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "13.12",
+            "Phrase": "白隊在黑隊九米線附近控球進攻，黑隊球隊職員A強烈抗議裁判判决，使比賽中斷。比賽應如何恢復？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "漸進處罰黑隊球隊職員A",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊在黑隊的替補區擲自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊在黑隊九米線前擲自由球",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "13.13",
+            "Phrase": "警告黑隊6號後，裁判即鳴哨由白隊擲自由球。鳴哨時，場內裁判沒有發現白隊11號站在九米線與禁區線之間，白隊11號接球後有明顯得分機會，底線裁判發現了這個情況。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "繼續比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "更正位置後，鳴哨重擲自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "由底線裁判判黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "由底線裁判警告白隊11號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "暫停",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "13.14",
+            "Phrase": "白隊持球，黑隊已經在防守位置。白隊4號傳球給在邊線附近跑動的白隊8號，白隊8號撞倒了站在邊線的一名攝影師，白隊8號失去身體平衡，未能接住球。在裁判中斷比賽之前，球已經越過邊線。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊界外球恢復比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊自由球恢復比賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "暫停",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "在記錄表上註明",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "13.15",
+            "Phrase": "黑隊進攻，黑隊2號擲自由球。在黑隊2號擲球前，黑隊11號拉倒了白隊8號。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "鳴哨後黑隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "鳴哨後白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "暫停",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "漸進處罰黑隊11號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "黑隊11號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "取消黑隊11號資格（裁判出示紅牌）",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

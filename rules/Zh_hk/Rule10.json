@@ -1,0 +1,400 @@
+﻿{
+    "RuleNumber": "10",
+    "Name": "開球",
+    "Questions": [
+        {
+            "Number": "10.1",
+            "Phrase": "白隊擲毫得勝，選擇執行開球，黑隊代表要求轉換場區 (換邊)。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "轉換場區",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "如果白隊同意便轉換場區",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "重新擲毫",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "不能轉換場區",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "10.2",
+            "Phrase": "白隊擲毫得勝，要求轉換場區，黑隊代表要求白隊開球。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊開球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "轉換場區，黑隊開球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "重新擲毫",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "兩隊代表必須達成一致意見",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "10.3",
+            "Phrase": "（沒有開球位置）什麼地方可執行開球？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "在己方比賽場區，距離中線三米內",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "在對方比賽場區，延伸中線三米內",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "一隻腳踏在球場的中線，打橫延伸至離中央不多於1.5米處",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "10.4",
+            "Phrase": "（沒有開球位置）比賽快結束，比分是15：15。這時，黑隊得分以15：16領先，白隊欲迅速開球，擲球球員準備開球時一腳站在中線前方，另一腳站在中線後方。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "更正位置；然後鳴哨開球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "位置正確，鳴哨開球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "暫停；更正位置；然後鳴哨開球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "10.5",
+            "Phrase": "（沒有開球位置）白隊準備開球，但黑隊守門員1號還未到達禁區內。場內裁判鳴哨開球，白隊9號直接將球擲入球門內。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊在中線擲自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "重新開球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊得分",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊擲自由球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "10.6",
+            "Phrase": "（沒有開球位置）關於開球，下列哪些說法是正確的？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "開球必須在鳴哨後三秒內必須在場地中心投擲到對方半場",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "開球可以直接得分",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "防守球員的錯誤位置必須要糾正",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "如果開球球員在鳴哨後運球，則判對方自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "開球球員的隊友可以在擲球完成前越過中線",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "10.7",
+            "Phrase": "（沒有開球位置）白隊得分後，由黑隊開球，黑隊1號迅速將球擲向中線，位於場地中央的黑隊6號接球後，一腳踩在球場中線的中央，另一腳站在己方的半場。此時，還有幾名白隊球員在黑隊的半場。裁判鳴哨開球後，球未離手前，黑隊6號越過中線。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "比賽繼續",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "更正白隊位置，鳴哨後重擲開球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "更正黑隊6號位置，鳴哨後重擲開球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "10.8",
+            "Phrase": "(有開球位置)白隊得分。黑隊想快速開球，黑隊9號在開球區內正確的位置，裁判鳴哨後，黑隊9號在開球位置內走了6步。在開球哨聲後3秒內，黑隊9號將球擲進白隊的空門。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊得分",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "更正，鳴哨後重擲開球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "10.9",
+            "Phrase": "(有開球位置)白隊得分。黑隊想快速開球，黑隊9號接到球，球和一隻腳完全站在發球位置內，另一隻腳還在發球位置外，裁判鳴哨開球。在黑隊9號將另一隻腳移入發球位置前，他將球直接擲進白隊空門。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊得分",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "更正，鳴哨後黑隊重擲開球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "擲球正確，裁判鳴哨代表允許了擲球位置",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "10.10",
+            "Phrase": "(有開球位置)黑隊想在開球位置快速開球。此時，黑隊8號跑動中一隻腳和球在開球位置內，白隊7號還在開球位置內朝着自己的球門方向跑動。白隊7號附近沒有黑隊隊員的情況下，黑隊8號將球擲向白隊7號的背部，白隊7號仍在開球位置內。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊七米球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "漸進處罰白隊7號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "漸進處罰黑隊8號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "黑隊8號退場兩分鐘",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "10.11",
+            "Phrase": "(有開球位置) 關於開球位置的說法，下列哪些說法是不正確的？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "開球球員的身體在開球位置內，即可鳴哨開球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "開球時，開球球員隊友的位置沒有任何限制",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "開球時，允許開球球員離開開球位置",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "開球後防守球員可以攔截球，即使球仍在開球位置內",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "鳴哨開球後，開球球員不允許運球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "10.12",
+            "Phrase": "(有開球位置) 白隊使用7名場內球員進攻並得分，黑隊想快速開球。黑隊6號兩隻腳和球都在開球位置內，隨後裁判鳴哨，白隊8號明顯進入開球位置，並試圖用手臂阻擋球，儘管如此，黑隊6號將球擲向對方空門，隨後球偏出了球門線。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊守門員球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "鳴哨後重擲開球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊七米球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "暫停",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "漸進處罰白隊8號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "g",
+                    "Phrase": "白隊8號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "h",
+                    "Phrase": "取消白隊8號資格（裁判出示紅牌）",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "10.13",
+            "Phrase": "（有開球位置）下列關於開球的說法，那些是正確的？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "開球必須在裁判鳴哨後3秒內擲出",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "開球可以直接射門得分",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "開球時，如果對方球員位置不正確，裁判必需予以糾正",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "擲開球的球員，如在裁判鳴哨後跳起開球，應判對隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "開球隊的其他球員，在裁判鳴哨前不能越過中線",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "10.14",
+            "Phrase": "(有開球位置) 甚麼情況下裁判可以鳴哨開球？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "當開球球員至少有一隻腳和球在開球位置內，另一隻腳不在對方半場的開球位置外時",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "當開球球員至少有一隻腳在開球位置內，另一隻腳不在對方半場的開球位置外時，但球仍在開球位置外",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "當開球球員至少有一隻腳和球在開球位置內，另一隻腳在對方半場的開球位置外時",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "當開球球員至少有一隻腳和球在開球位置內，另一隻腳不在對方半場的開球位置外時，但他的隊友在對方半場的開球位置內",
+                    "Correct": true
+                }
+            ]
+        }
+    ]
+}

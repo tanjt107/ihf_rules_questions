@@ -1,0 +1,162 @@
+﻿{
+    "RuleNumber": "11",
+    "Name": "界外球",
+    "Questions": [
+        {
+            "Number": "11.1",
+            "Phrase": "白隊3號在邊線外2米處擲界外球。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "不作處理，因這是容許的",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "重擲界外球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "鳴哨後重擲界外球",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "11.2",
+            "Phrase": "黑隊4號擲界外球時，他一隻腳踏在邊線上，另一隻腳踏在比賽場地內，直接將球擲入球門。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊得分",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "鳴哨後由黑隊重擲界外球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊守門員球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "11.3",
+            "Phrase": "白隊6號擲界外球時，他一隻腳踏在比賽場地內，另一隻腳踏在邊線外，他把球擲入了黑隊的球門。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "鳴哨後由白隊重擲界外球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊得分",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊守門員球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "11.4",
+            "Phrase": "白隊11號射門，射中球門橫楣反彈，碰到黑隊禁區上空懸掛的設施，恰好落到黑隊守門員1號的手中。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊守門員球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊界外球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊於鳴哨後擲自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊於鳴哨後擲界外球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "必須暫停",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "11.5",
+            "Phrase": "比賽中斷後的擲球，在什麼情形下，容許防守隊離開擲球球員少於三米？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "裁判員示意擲球後",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "當球離開擲球球員的手時",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "擲界外球，防守球員沿己方禁區線站立時",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "擲守門員球或開球，防守球員於禁區外或開球位置外站立時",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "11.6",
+            "Phrase": "白隊5號接球失誤，他追上去，並在球出邊線前將球截住；這時，他的腳卻出了邊線外。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "比賽繼續",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊界外球",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

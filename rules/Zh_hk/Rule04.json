@@ -1,0 +1,1677 @@
+﻿{
+    "RuleNumber": "4",
+    "Name": null,
+    "Questions": [
+        {
+            "Number": "4.1",
+            "Phrase": "比賽即將開始，白隊11號因嚴重受傷不能作賽。如何處理？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊11號不能替換",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "如對方同意，白隊11號可以替換",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊11號可以替換，替補的球員可以穿着11號球衣，但必須在記錄表上登記",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊11號可以替換，替補的球員不可穿着11號球衣",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.2",
+            "Phrase": "比賽開始時，黑隊場內只有五名球員，守門員不在，黑隊指派黑隊5號爲守門員。隨後黑隊5號可以：",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "經正確替補後，黑隊5號可成爲場內球員",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊5號不能再成爲場內球員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "如果白隊同意，黑隊5號可以再成爲場內球員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "如果黑隊守門員到場，黑隊5號可成爲場內球員",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.3",
+            "Phrase": "比賽開始後，白隊的球會主席到來，並與兩名職員、一名物理治療師及一名教練一同坐在替補席上，如何處理？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "替補守門員需站在替補席後面",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "球會主席必須離開替補席",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "其中一名職員必須離開替補席",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "記錄表上沒有登記的人必須離開替補席",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "漸進處罰“球隊職員代表”",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.4",
+            "Phrase": "比賽開始時，在記錄表上登記並到場的球員最少要多少人?",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "五名球員",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "四名場內球員和一名守門員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "五名場內球員和一名守門員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "六名場內球員",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.5",
+            "Phrase": "以下四個情況，誰合乎資格比賽？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "比賽開始時已在場，並已在記錄表上登記的球員",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "比賽開始時沒有到場，但已在記錄表上登記的球員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "比賽開始時到場，但沒有在記錄表上登記的球員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "得到計時員准許作賽，但沒有記錄表上登記的球員",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.6",
+            "Phrase": "比賽開始時，白隊只有6名球員到場。比賽剛開始，遲到的球員來了。白隊7號從替補區直接跑入場內，惟白隊7號沒有在記錄表上登記。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "取消白隊7號的比賽資格（裁判出示紅牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊7號必須在記錄表上登記，並罰退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "如果符合比賽章程，讓白隊7號在記錄表上登記",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "漸進處罰白隊“球隊職員代表”",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.7",
+            "Phrase": "裁判判白隊在黑隊九米線處得一自由球，此時，計時員鳴哨並按停計時器，裁判向其查詢鳴哨原因，計時員通知裁判白隊9號替補犯規，如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊在黑隊九米線處擲自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊在己方九米線處擲自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊在白隊替補區處擲自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊9號退場兩分鐘",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.8",
+            "Phrase": "比賽中斷時，黑隊14號正確替補後進場。然而計時員鳴哨通知裁判，黑隊14號並沒有在記錄表上登記，該球員在記錄表上登記了18號。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "漸進處罰黑隊“球隊職員代表”",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊在記錄台旁擲自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "修改記錄表上的號碼",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "比賽按中斷的原因擲球恢復比賽，並作出書面報告",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.9",
+            "Phrase": "什麼時候允許“兩人”(球員及/或職員)進入比賽場地？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "比賽暫停時",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "比賽暫停時，並得到裁判允許",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "球員受傷時",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "得到計時員允許時",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.10",
+            "Phrase": "裁判鳴哨暫停，判罰白隊2號第三次退場兩分鐘。當裁判到記錄台向記錄員和計時員示意該球員被取消資格時，白隊球隊職員進入場內抗議裁判的判决。在這之前，白隊球隊職員已被警告一次。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "取消白隊球隊職員資格，場內減少一名球員兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "個人警告白隊球隊職員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "取消白隊球隊職員資格，及作出書面報告（裁判出示紅牌及藍牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊球隊職員退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "白隊場內減少一名球員兩分鐘",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.11",
+            "Phrase": "在一名球員受傷後暫停時，裁判還沒有作出允許進入場地的手號，白隊2號作為一名額外球員進入場內。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "警告白隊2號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "漸進處罰白隊“球隊職員代表”",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "取消白隊2號的比賽資格（裁判出示紅牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊2號退場兩分鐘，白隊“另一球員”替罰",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.12",
+            "Phrase": "白隊一名球員受傷，埸內裁判暫停，並允許兩名白隊球隊職員進場；此時，黑隊職員B也進入場內並指導其守門員。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "不用處理，因為允許進場的手號適用於雙方球隊職員及球員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "警告黑隊全部四名職員，如有重犯則取消資格",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "警告黑隊“球隊職員代表”",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "漸進處罰黑隊職員B",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "於球場內接受治理後，白隊5號必須離開球場，並且於其球隊完成3次進攻後，才可以進場比賽",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.13",
+            "Phrase": "白隊守門員16號受傷後需要由白隊5號替換，白隊5號更換守門員球衣。20分鐘後，教練認為白隊16號可以繼續比賽，於是替換白隊5號。白隊5號更換球衣後，經由正常替補但沒有通知記錄台就作爲場內球員進行比賽。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "不作處理，因這是允許的",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊5號退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "取消白隊5號比賽資格（裁判出示紅牌）",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.14",
+            "Phrase": "白隊4號從替補線外離開比賽場地，在白隊4號越過邊線但未抵達替補區時，白隊11號即經由替補區進入場內參加比賽，計時員發出訊號。如何判决？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊在白隊4號離開球場的位置擲自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊在白隊替補線位置擲自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊4號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊11號退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "白隊4號和白隊11號退場兩分鐘",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.15",
+            "Phrase": "裁判中斷比賽，判黑隊擲自由球。這時，黑隊3號第一次換人違例。在此之前，黑隊3號沒有被警告或退場記錄。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "警告黑隊3號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊3號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊自由球",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.16",
+            "Phrase": "裁判判白隊擲七米球後，白隊27號被指派進場擲此七米球，但在換人時替補犯規。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊七米球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊守門員球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊27號退場兩分鐘",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.17",
+            "Phrase": "裁判判白隊射門得分，但在鳴哨開球前，白隊10號在白隊6號離開場地前就進入了場內。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "開球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊10號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊6號退場兩分鐘",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.18",
+            "Phrase": "比賽開始時，白隊只有12名球員到場，兩名守門員都沒有到場。因為白隊從12名球員中選出一人充當守門員，下面那些句子是正確的？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "充當守門員的球員必須在記錄表上登記爲1、12或16號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "充當守門員的球員之後可以作爲場內球員參賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "遲到的兩名守門員必須在記錄表上登記爲1、12或16號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "遲到的兩名守門員中有一人只可以作為場內球員",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.19",
+            "Phrase": "比賽暫停期間，白隊5號第一次替補犯規，暫停時白隊是控球隊伍。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "不用判罰",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "警告白隊5號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊5號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "白隊仍然擁有控球權",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.20",
+            "Phrase": "白隊守門員3號想擲七米球，爲了保護空門，白隊15號穿上守門員球衣，替換一個場內球員後進入場內。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊3號退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊15號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "不用判罰",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊七米球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "黑隊在白隊替補區處擲自由球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.21",
+            "Phrase": "在白隊的一次反擊並有明顯得分機會時，黑隊3號替補犯規，記錄台沒有作出反應，但場內裁判看見事情經過。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "立即判黑隊3號退場兩分鐘，由白隊擲自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "立即判黑隊3號退場兩分鐘，由白隊擲七米球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "等待射門結果，然後將黑隊3號判罰退場兩分鐘，由白隊擲自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "等待射門結果，然後將黑隊3號判罰退場兩分鐘，並根據當時情况繼續比賽",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.22",
+            "Phrase": "黑隊的射門被白隊守門員1號擋出，球向白隊替補席方向的邊線滾動。坐在替補席上的白隊5號，一隻腳踏進場內將球按停，使白隊4號能在球出界前將球拾起。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊界外球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊5號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "取消白隊5號資格（裁判出示紅牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "白隊場內減少一名球員兩分鐘",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.23",
+            "Phrase": "在退場時間結束前30秒，白隊3號進入場內，但沒有妨礙比賽，當時由白隊控球，如何判决？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊3號退場兩分鐘，白隊“另一球員”替罰30秒",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊3號退場30秒，白隊“另一球員”退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "取消白隊3號資格（裁判出示紅牌），白隊“另一球員”替罰30秒",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.24",
+            "Phrase": "白隊5號被判退場兩分鐘，在1分45秒後，白隊球隊職員A指派白隊5號進場比賽。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊5號被判退場兩分鐘，白隊一名球員退場2分15秒",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "取消白隊15號資格（裁判出示紅牌），白隊兩名球員退場15秒，一名球員退場1分45秒",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊5號再被判退場兩分鐘，白隊兩名球員退場15秒，一名球員退場1分45秒",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.25",
+            "Phrase": "黑隊守門員1號退場兩分鐘時間完結後，穿着守門員球衣進入場內，作爲球隊的第六名球員防守翼位。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "比賽繼續",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊七米球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊守門員1號退場兩分鐘",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.26",
+            "Phrase": "關於場內球員流血的處理，下列那些句子是正確的？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "球員必須自發地即時離開比賽場地",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "球員可以留在場內直至下一次比賽中斷",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "替換流血球員的隊友，可以從替補區外進入比賽場內",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "在下一次比賽中斷前，不容許該球員再次返回比賽場內",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "如該流血球員拒絕裁判的要求離開比賽場地，將被視為不君子行為而被判罰",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.27",
+            "Phrase": "白隊5號單獨面對黑隊守門員1號並有明顯得分機會。就在黑隊5號準備射門時，計時員鳴哨通知裁判黑隊11號替補犯規。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊11號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊11號取消資格及作出書面報告（裁判出示紅牌及藍牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊七米球",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.28",
+            "Phrase": "黑隊守門員1號擋出射門的球後，把球擲給他的隊友黑隊4號。隨即他跑往接近己方替補區的邊線，並明顯地越過邊線取毛巾及拿着水樽飲水。他未有被其他守門員替補。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "繼續比賽，這是容許的",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊1號替補犯規，被判退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊在黑隊替補區擲自由球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.29",
+            "Phrase": "黑隊球隊職員A已被警告過，在裁判作出另一個判罰時，黑隊球隊職員D又跑進場內好幾米處。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "不處罰",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "警告黑隊球隊職員D",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊球隊職員D被判退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "取消黑隊球隊職員D比賽資格（裁判出示紅牌）",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.30",
+            "Phrase": "白隊6號受傷，比賽暫停；裁判作出允許進場的手號，並沒有處罰黑隊犯規球員。白隊球隊職員C對白隊6號進行護理，白隊球隊職員A則走向他認爲是傷人的黑隊5號球員，一直尾隨走到黑隊替補席處，打了黑隊5號一巴。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "取消白隊球隊職員A資格，作出書面報告（裁判出示紅牌及藍牌），白隊場內球員減少一人兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "嗚哨後以暫停時的原因恢復比賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊球隊職員A退場2分鐘，白隊場內球員減少一人兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "取消白隊球隊職員A資格（裁判出示紅牌），白隊場內球員減少一人兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "於球場內接受治理後，白隊6號必須離開球場，並且於其球隊完成3次進攻後，才可以進場比賽",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.31",
+            "Phrase": "黑隊剛執行開球，裁判發現一名沒有登記在記錄表上的人，在黑隊的替補區出現。原來他是該球會的委員，但黑隊在記錄表上已登記了四名職員。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "該人必須離開替補區",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊“球隊職員代表” 須接受個人處罰",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "另一球隊職員必須離開替補區",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "由白隊擲自由球恢復比賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "由黑隊擲自由球恢復比賽",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.32",
+            "Phrase": "球員的制服有何規定？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "同一隊所有守門員的球衣顏色必須相同",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "球衣前、後的號碼必須有至少20公分高",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "守門員容許佩戴以軟性材料製成的頭部防護物",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "球員及守門員可以使用號碼1-100",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.33",
+            "Phrase": "白隊10號在21:00被罰退場兩分鐘，在比賽恢復後，白隊10號提出強烈抗議，致使裁判於21:30暫停比賽，對白隊10號加判另一次退場兩分鐘。白隊的判罰應如何執行？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊10號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "取消白隊10號比賽資格",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊場內減少一人比賽直到25:00",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊場內減少兩人比賽到23:00，然後場內減少一人到23:30",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.34",
+            "Phrase": "下列那些事項，“球隊職員代表”需接受個人處罰？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "當他的球員離開替補區而未有知會計時/記錄員時",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "比賽開始後，替補區出現尚未有登記在記錄表上的人仕",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "額外球員進場後(多於容許的人數)",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "未有參賽資格的球員進入球場後",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "於開賽後發現場內球員的裝備不合符規則",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "替補區出現違例，但未能確認犯規球員",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "g",
+                    "Phrase": "於開賽後發現場內球員的裝備不合符規則",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.35",
+            "Phrase": "白隊一名球員受傷，裁判做出允許進場的手號。誰可以進入場內？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊兩名職員，其他不允許",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊和黑隊各兩名職員",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊兩人（職員或球員）",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊和黑隊各兩人（職員或球員）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "白隊醫生，假如他不是球隊的四名職員之一",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.36",
+            "Phrase": "白隊球隊職員C因抗議曾被警告過。後來，白隊球隊職員B未經批准進入場內，但他沒有做出任何不君子行為。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "警告白隊球隊職員B",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊球隊職員B退場兩分鐘，他必須離開替補席兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "取消白隊球隊職員B比賽資格（裁判出示紅牌），白隊場內減少一名球員比賽兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊球隊職員B退場兩分鐘，白隊場內減少一名球員比賽兩分鐘，白隊球隊職員B可以留在替補區",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.37",
+            "Phrase": "裁判因場內球員受傷而暫停比賽，並做出允許白隊進場的手號後，下列那些行為是不容許的？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊球員靠近邊線接受教練的指導",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊球員在替補區外進行替補",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊的一名職員在場內遠離受傷的球員處，向該隊的其他球員進行指導",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.38",
+            "Phrase": "比賽開始前，技術代表發現白隊7號穿着未覆蓋的硬質材料護踝。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊7號可以穿着護踝，但技術代表須向比賽組提交報告",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊7號不能穿着未覆蓋硬質部分的護踝。技術代表須向球隊職員代表，要求球員脫掉護踝或用軟質材料覆蓋",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "警告白隊7號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "警告球隊職員代表",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "以上皆非",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.39",
+            "Phrase": "於上半場29:00，白隊5號5被判退場兩分鐘。中場休息完結後，場內裁判嗚哨表示下半場比賽開始，計時員於3秒後嗚哨通知裁判白隊有7名球員在場內。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊一名球員必須退場，不用判罰",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊被判退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊額外一名球員退場，場內減少兩名球員57秒",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.40",
+            "Phrase": "當比賽至43分27秒，白隊15號射球得分。黑隊開球後，計時員鳴哨告知裁判，白隊15號未有在記錄表上登記，紀錄表上白隊已有14名球員。裁判發現白隊11號沒有到場。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "入球取消",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "得分有效",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "刪除白隊11號，登記白隊15號在紀錄表上",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊15號不允許作賽並需離開比賽場地",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "漸進處罰白隊“球隊職員代表”",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "在記錄表上註明",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.41",
+            "Phrase": "白隊守門員12號封擋黑隊射門後膝蓋受傷倒地。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊12號接受治理後可以繼續比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "在裁判作出手號15及16後，白隊兩人可進入比賽場地援助受傷白隊12號",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "在裁判作出手號15及16後，白隊一人可進入比賽場地援助受傷白隊12號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊12號於球場內接受治理後，於其球隊完成3次進攻後，才可以進場比賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "白隊12號不用數算進攻次數就可於半場後返回場內比賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "如球隊職員拒絕進場援助白隊12號，則漸進處罰白隊“球隊職員代表”",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.42",
+            "Phrase": "白隊守門員1號封擋黑隊射門時，頭部撞到球門柱，他需要在場內接受治理。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊1號可以接受治理後繼續比賽，因為他是頭部受傷",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊1號於球場內接受治理後，於其球隊完成3次進攻後，才可以進場比賽",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.43",
+            "Phrase": "於球場內接受治理後，白隊7號坐在替補補席上。在白隊進攻時，黑隊2號截取了球，他自己運球發動反擊，單獨面對白隊守門員12號，在黑隊2號準備射門前，白隊7號與白隊9號正常替補，如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "計時員等黑隊2號射門後鳴哨，指出替補犯規",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "計時員立即鳴哨，指出替補犯規",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "暫停",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊7號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "取消白隊7號資格（裁判出示紅牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "黑隊七米球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "g",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "h",
+                    "Phrase": "白隊12號不用數算進攻次數就可於兩分鐘後返回場內比賽",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.44",
+            "Phrase": "於球場內接受治理後，黑隊11號坐在替補席上抗議裁判的判決，他被判第一個退場兩分鐘，黑隊第二次進攻後，黑隊11號於兩分鐘退場後返回場內比賽。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "暫停",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊11號退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "比賽繼續",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.45",
+            "Phrase": "黑隊10號在自由球線接到球，剛接到球就被白隊3號拉倒，他手肘受傷，需要在場內接受治理。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "警告白隊3號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊3號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "在裁判作出手號15及16後，黑隊兩人可進入比賽場地援助黑隊10號",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊10號接受治理後可以繼續比賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "黑隊10號於球場內接受治理後，於其球隊完成3次進攻後，才可以進場比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "暫停",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.46",
+            "Phrase": "黑隊10號在反擊中接到黑隊9號傳球，黑隊9號剛傳完球後被白隊11號拉倒，黑隊10號接到球後跌倒，並受傷倒地。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "警告白隊11號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊11號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "在裁判作出手號15及16後，黑隊兩人可進入比賽場地援助黑隊10號",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊10號接受治理後可以繼續比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "黑隊10號於球場內接受治理後，於其球隊完成3次進攻後，才可以進場比賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "暫停",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.47",
+            "Phrase": "在比賽結束前3分鐘，比分未21:21，黑隊神射手2號扭傷腳踝倒地，裁判問黑隊2號是否需要在場內接受治理，黑隊2號沒有回答，裁判鳴哨並作出手號15及16，允許黑隊兩人進入場內援助黑隊2號，黑隊拒絕進場援助，在裁判作出判罰前，黑隊2號已經準備繼續比賽。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊2號可以繼續比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊2號必須離開場地，並於其球隊完成3次進攻後，才可以進場比賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "漸進處罰黑隊“球隊職員代表”",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.48",
+            "Phrase": "在上半場結束前30秒，白隊5號於場內接受治理，接受治理後離開場地，並於其球隊完成3次進攻後，才可以進場比賽。在下半場開始1分鐘後，白隊進行第二次進攻時，白隊5號與白隊4號正常替補進場，如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "比賽繼續",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊5號因替補犯規退場兩分鐘（在接受治理後過早進場）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "暫停",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.49",
+            "Phrase": "白隊4號與黑隊5號碰撞受傷倒地，裁判立即鳴哨暫停，作出手號15及16允許兩隊各派兩人進入場內援助，黑隊5號在球隊職員進場前已經準備好繼續比賽，白隊4號於場內接受治理，20秒後比賽繼續。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊4號於球場內接受治理後，必須離開場地，並於其球隊完成3次進攻後，才可以進場比賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊5號沒有於場內接受治理，可以繼續比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "黑隊5號必須離開場地，並於其球隊完成3次進攻後，才可以進場比賽",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.50",
+            "Phrase": "白隊2號受傷在場內接受治理，白隊完成第一次進攻後上半場結束，當裁判吹哨開始下半場比賽時，白隊2號在場內參與進攻，如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "計時員即時鳴哨暫停比賽通知裁判",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊2號退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "比賽繼續",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊在替補區自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "因為計時員/技術代表失誤，白隊2號必須離開場地但不判罰退場兩分鐘，由白隊擲球恢復比賽",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.51",
+            "Phrase": "白隊4號於場內接受治理，他必須離開球場3次進攻，在白隊第二次進攻後，白隊球隊職員A安排白隊4號進場參與防守，白隊4號與白隊6號正常替補進場防守。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "比賽繼續（白隊4號允許參與防守）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "警告白隊4號，因為他過早進場",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "因替補犯規判罰白隊4號退場兩分鐘",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.52",
+            "Phrase": "白隊11號在替補席對面邊線外滑出場外，頭撞到了廣告板，裁判立即暫停比賽，並允許球隊職員援助白隊11號，20秒後白隊11號準備好繼續比賽。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊11號因接受治療時在場外，所以允許繼續比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊11號必須離開場地，並於其球隊完成3次進攻後，才可以進場比賽",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.53",
+            "Phrase": "比賽開始一分鐘，黑隊3號與白隊6號糾纏在一起，黑隊3號受傷倒地，裁判決定對白隊6號進行口頭警告，黑隊3號在場上接受治療，在接受治療後黑隊3號準備繼續比賽。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊3號允許繼續比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊3號必須離開場地，並於其球隊完成3次進攻後，才可以進場比賽",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.54",
+            "Phrase": "黑隊發動快攻反擊，白隊10號推了正在運球的黑隊2號，黑隊2號失去了部分身體平衡，但成功傳球給黑隊4號，黑隊4號射門得分，在回防時扭傷腳踝，裁判暫停比賽判罰白隊10號退場兩分鐘，允許黑隊兩名球隊職員進場援助黑隊4號，30秒後黑隊4號準備好繼續比賽。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊4號允許繼續比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊4號必須離開場地，並於其球隊完成3次進攻後，才可以進場比賽",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.55",
+            "Phrase": "白隊11號射門，黑隊2號不幸被球打中面部，需要在場內接受治理，20秒後黑隊2號準備好繼續比賽。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊2號允許繼續比賽，因為是被球擊中面部受傷",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊2號必須離開場地，並於其球隊完成3次進攻後，才可以進場比賽",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.56",
+            "Phrase": "黑隊2號在射門之後腳部受傷倒在白隊禁區內，需要接受治理，白隊剛開始快攻反擊。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "裁判立即暫停比賽，並作出手號15及16，允許黑隊職員進場援助黑隊2號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "比賽繼續，白隊快攻結束後暫停比賽，允許黑隊職員進場援助黑隊2號",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.57",
+            "Phrase": "白隊2號熱身時沒有穿戴護肘。比賽進行5分鐘後，白隊控球。白隊2號通過正確換人程序進場比賽。裁判發現白隊2號現在穿戴着未覆蓋硬質護肘。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "比賽繼續，允許穿未覆蓋的硬質護肘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "裁判中斷比賽，白隊2號必須離開場地，在移除護肘或覆蓋硬質部分後才能重新進場",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "裁判中斷比賽，白隊2號必須離開場地，在移除護肘後才能重新進場",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "漸進處罰白隊2號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "漸進處罰白隊球隊職員代表",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "g",
+                    "Phrase": "黑隊自由球",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.58",
+            "Phrase": "白隊在九米線進攻，白隊7號在白色球衣外穿上黃色衛衣替補進場。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "暫停，白隊7號必須脫下黃色衛衣才能進場比賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊7號退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊自由球",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "Number": "4.59",
+            "Phrase": "白隊控球時，計時員暫停比賽告訴裁判，白隊11號不在記錄表上進場。因為球隊職員A錯誤地把11號登記成13號，如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊11號不允許參賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "更正號碼，白隊11號允許參賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "在記錄表上註明",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "漸進處罰白隊球隊職員A",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.60",
+            "Phrase": "比賽結束前10秒，比分為29:29，白隊守門員12號擲守門員球傳給白隊11號，白隊11號準備傳給在黑隊禁區線外沒人防守的白隊9號，在白隊11號傳球之前，計時員暫停比賽，因為黑隊2號替補犯規，在黑隊4號離場前進場。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "暫停",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊七米球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊2號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "取消黑隊2號資格（裁判出示紅牌）",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Number": "4.61",
+            "Phrase": "比賽結束前10秒，比分為29:29，白隊守門員12號擲守門員球傳給白隊11號，白隊11號傳球給在黑隊禁區線外沒人防守的白隊9號，在白隊9號準備射門之前，計時員暫停比賽，因為黑隊2號替補犯規，在黑隊4號離場前進場。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "暫停",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊七米球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黑隊2號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "取消黑隊2號資格（裁判出示紅牌）",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}
