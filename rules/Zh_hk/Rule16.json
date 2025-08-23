@@ -624,6 +624,93 @@
                     "Correct": false
                 }
             ]
+        },
+        {
+            "QuestionNumber": "16.24",
+            "Phrase": "黑隊11號入球。射門時，他被白隊10號從側面推，因而部分失去身體控制。裁判判白隊10號退場兩分鐘。白隊10號離場後，裁判鳴哨開球，但在擲球尚未完成前，白隊9號作為額外球員進入場內。技術代表隨即鳴哨暫停。此時公開計時器顯示白隊10號的退場尚餘1分鐘58秒。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊9號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊場內減少兩名球員兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊在場上減少兩名球員1分鐘58秒。1分鐘58秒後，白隊在場上減少一名球員2秒。",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "比賽由白隊擲開球恢復比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "比賽由黑隊擲自由球恢復比賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "暫停",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "QuestionNumber": "16.25",
+            "Phrase": "白隊控球，球賽進行中。白隊球隊職員B投訴裁判未有對黑隊作出退場判罰。技術代表因此中斷比賽，並向白隊球隊職員B出示黃牌。在比賽重新開始前，他再次投訴，裁判判罰他退場2分鐘。其後，白隊球隊職員B辱罵裁判為「白痴」。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "白隊場內減少一名球員四分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊場內減少兩名球員兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊場內減少一名球員兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "取消白隊球隊職員B資格（裁判出示紅牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "取消白隊球隊職員B資格，及作出書面報告（裁判出示紅牌及藍牌）",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "在比賽稍後階段，可向白隊另一名職員出示黃牌及／或退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "g",
+                    "Phrase": "黃牌、退場2分鐘及取消資格，需一併記錄於比賽報告",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "h",
+                    "Phrase": "比賽由白隊擲自由球恢復比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "i",
+                    "Phrase": "比賽由黑隊擲自由球恢復比賽",
+                    "Correct": true
+                }
+            ]
         }
     ]
 }

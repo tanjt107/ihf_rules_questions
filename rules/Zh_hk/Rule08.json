@@ -408,6 +408,11 @@
                     "AnswerNumber": "f",
                     "Phrase": "黑隊場內減少一名球員兩分鐘",
                     "Correct": true
+                },
+                {
+                    "AnswerNumber": "g",
+                    "Phrase": "技術代表或裁判可給予得益，等待該明顯得分機會結束後，才鳴哨違例",
+                    "Correct": false
                 }
             ]
         },
@@ -817,7 +822,7 @@
                 {
                     "AnswerNumber": "c",
                     "Phrase": "擲七米球時，擊中沒有移動的守門員的臉部",
-                    "Correct": true
+                    "Correct": false
                 },
                 {
                     "AnswerNumber": "d",
@@ -1131,13 +1136,13 @@
             "Answers": [
                 {
                     "AnswerNumber": "a",
-                    "Phrase": "白隊自由球",
-                    "Correct": false
+                    "Phrase": "鳴哨後白隊擲自由球",
+                    "Correct": true
                 },
                 {
                     "AnswerNumber": "b",
                     "Phrase": "鳴哨後白隊擲守門員球",
-                    "Correct": true
+                    "Correct": false
                 },
                 {
                     "AnswerNumber": "c",
@@ -1567,6 +1572,11 @@
                     "AnswerNumber": "e",
                     "Phrase": "黑隊守門員球",
                     "Correct": false
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "技術代表應等待該明顯得分機會結束後，才鳴哨換人違例",
+                    "Correct": true
                 }
             ]
         },
@@ -1598,6 +1608,11 @@
                     "AnswerNumber": "e",
                     "Phrase": "白隊得分",
                     "Correct": false
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "技術代表應等待該明顯得分機會結束後，才鳴哨換人違例",
+                    "Correct": true
                 }
             ]
         },
@@ -2447,6 +2462,83 @@
                 {
                     "AnswerNumber": "g",
                     "Phrase": "白隊1號在接受醫療援助後必須離開場地，並且只有在他的球隊完成3次進攻後才能重新進入場地。",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "QuestionNumber": "8.80",
+            "Phrase": "比賽時間尚餘10秒，黑隊進攻。在球賽進行期間，黑隊10號故意以手肘擊打白隊7號面部，白隊7號倒地並受傷。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "取消黑隊10號資格（裁判出示紅牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "取消黑隊10號資格，及作出書面報告（裁判出示紅牌及藍牌）",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "暫停",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "比賽由白隊擲自由球恢復比賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "比賽由白隊擲七米球恢復比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "允許白隊兩人進入場地，援助白隊7號",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "g",
+                    "Phrase": "在場上接受醫療援助後，白隊7號必須離開場地，並且只有在他的球隊完成3次進攻後才能重新進入場地。",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "QuestionNumber": "8.81",
+            "Phrase": "白隊空門戰術。黑隊7號攔截傳球後，向空門射門。白隊4號在禁區外跑動時將球接住，但因無法煞停，最終持球雙腳踏入禁區。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊自由球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊七米球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "漸進處罰白隊4號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "白隊4號退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "不用處罰",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "暫停",
                     "Correct": false
                 }
             ]

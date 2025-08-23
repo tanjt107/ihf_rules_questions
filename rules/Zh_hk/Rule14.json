@@ -30,7 +30,7 @@
         },
         {
             "Number": "14.2",
-            "Phrase": "黑隊界外球，黑隊7號準備好擲球時，發現白隊守門員12號正站在離開球門很遠的地方， 黑隊7號於是直接將球擲向A隊的空門，場內球員白隊3號進入禁區把球截停。如何判決？",
+            "Phrase": "黑隊界外球，黑隊7號準備好擲球時，發現白隊守門員12號在禁區外，黑隊7號於是直接將球擲向A隊的空門，場內球員白隊3號進入禁區把球截停。如何判決？",
             "Answers": [
                 {
                     "AnswerNumber": "a",
@@ -626,6 +626,37 @@
                 {
                     "AnswerNumber": "f",
                     "Phrase": "黑隊七米球",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "QuestionNumber": "14.24",
+            "Phrase": "白隊沒有守門員。黑隊9號攔截傳球並向空門射門。白隊4號在禁區外起跳，於空中越過禁區時接住球，並連人帶球落在禁區內。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "黑隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊七米球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "不用判罰",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "黃牌警告白隊4號",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "白隊4號退場兩分鐘",
                     "Correct": true
                 }
             ]

@@ -75,22 +75,27 @@
             "Answers": [
                 {
                     "AnswerNumber": "a",
-                    "Phrase": "黑隊2號退場兩分鐘",
+                    "Phrase": "如無法達成一致裁決，黑隊2號退場兩分鐘",
                     "Correct": false
                 },
                 {
                     "AnswerNumber": "b",
-                    "Phrase": "取消黑隊2號資格（裁判出示紅牌）",
+                    "Phrase": "如無法達成一致裁決，取消黑隊2號資格（裁判出示紅牌）",
                     "Correct": true
                 },
                 {
                     "AnswerNumber": "c",
-                    "Phrase": "自由球",
+                    "Phrase": "如無法達成一致裁決，自由球",
                     "Correct": false
                 },
                 {
                     "AnswerNumber": "d",
-                    "Phrase": "七米球",
+                    "Phrase": "如無法達成一致裁決，七米球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "裁判應先通過協商作出一致裁決",
                     "Correct": true
                 }
             ]

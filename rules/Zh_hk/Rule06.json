@@ -623,6 +623,57 @@
                     "AnswerNumber": "c",
                     "Phrase": "白隊10號退場兩分鐘",
                     "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "不用判罰",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "QuestionNumber": "6.25",
+            "Phrase": "黑隊5號射門，白隊守門員12號撲救成功，但在撲救過程中頭部撞到門柱倒地受傷。此時，黑隊3號在禁區線接到反彈球，並且擁有明顯得分機會。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "給予黑隊3號得益",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "立即中斷比賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "比賽由黑隊擲七米球恢復比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "比賽由黑隊擲自由球恢復比賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "暫停",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "允許白隊兩人進入場地，援助白隊12號",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "g",
+                    "Phrase": "白隊12號於球場內接受治理後，於其球隊完成3次進攻後，才可以進場比賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "h",
+                    "Phrase": "白隊12號不用數算進攻次數就可於半場後返回場內比賽",
+                    "Correct": false
                 }
             ]
         }

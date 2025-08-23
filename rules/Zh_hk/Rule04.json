@@ -564,7 +564,7 @@
                 {
                     "AnswerNumber": "b",
                     "Phrase": "立即判黑隊3號退場兩分鐘，由白隊擲七米球",
-                    "Correct": true
+                    "Correct": false
                 },
                 {
                     "AnswerNumber": "c",
@@ -574,7 +574,7 @@
                 {
                     "AnswerNumber": "d",
                     "Phrase": "等待射門結果，然後將黑隊3號判罰退場兩分鐘，並根據當時情况繼續比賽",
-                    "Correct": false
+                    "Correct": true
                 }
             ]
         },
@@ -741,6 +741,11 @@
                     "AnswerNumber": "d",
                     "Phrase": "白隊七米球",
                     "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "計時員應等待該明顯得分機會結束後，才鳴哨換人違例",
+                    "Correct": false
                 }
             ]
         },
@@ -1644,7 +1649,7 @@
         },
         {
             "Number": "4.61",
-            "Phrase": "比賽結束前10秒，比分為29:29，白隊守門員12號擲守門員球傳給白隊11號，白隊11號傳球給在黑隊禁區線外沒人防守的白隊9號，在白隊9號準備射門之前，計時員暫停比賽，因為黑隊2號替補犯規，在黑隊4號離場前進場。如何判決？",
+            "Phrase": "比賽結束前10秒，比分為29:29，白隊守門員12號擲守門員球傳給白隊11號，白隊11號傳球給在黑隊禁區線外沒人防守的白隊9號，在白隊9號準備射門之前，技術代表暫停比賽，因為黑隊2號替補犯規，在黑隊4號離場前進場。如何判決？",
             "Answers": [
                 {
                     "AnswerNumber": "a",
@@ -1670,6 +1675,57 @@
                     "AnswerNumber": "e",
                     "Phrase": "取消黑隊2號資格（裁判出示紅牌）",
                     "Correct": false
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "技術代表應等待該明顯得分機會結束後，才鳴哨換人違例",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "QuestionNumber": "4.62",
+            "Phrase": "比賽使用影片重播。白隊快攻反擊，白隊7號在中線控球。此時黑隊9號作為額外球員入場。白隊7號隨即將球傳給白隊11號，而白隊11號擁有明顯得分機會。此時，技術代表因場上多了一名球員而鳴哨中止比賽。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "可使用影片重播，以確認是誰入場以及何時入場",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊9號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "暫停",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "取消黑隊9號資格（裁判出示紅牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "取消黑隊9號資格，及作出書面報告（裁判出示紅牌及藍牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "白隊自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "g",
+                    "Phrase": "白隊七米球",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "h",
+                    "Phrase": "技術代表應等待該明顯得分機會結束後，才鳴哨換人違例",
+                    "Correct": true
                 }
             ]
         }

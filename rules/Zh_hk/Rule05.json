@@ -61,12 +61,12 @@
                 {
                     "AnswerNumber": "b",
                     "Phrase": "比賽繼續",
-                    "Correct": false
+                    "Correct": true
                 },
                 {
                     "AnswerNumber": "c",
                     "Phrase": "鳴哨後由白隊擲守門員球",
-                    "Correct": true
+                    "Correct": false
                 }
             ]
         },
@@ -186,7 +186,7 @@
                 {
                     "AnswerNumber": "b",
                     "Phrase": "比賽繼續",
-                    "Correct": false
+                    "Correct": true
                 },
                 {
                     "AnswerNumber": "c",
@@ -196,7 +196,7 @@
                 {
                     "AnswerNumber": "d",
                     "Phrase": "更正位置，鳴哨後擲守門員球",
-                    "Correct": true
+                    "Correct": false
                 }
             ]
         },

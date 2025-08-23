@@ -1645,6 +1645,133 @@
                     "Correct": false
                 }
             ]
+        },
+        {
+            "Number": "2.55",
+            "Phrase": "（使用電子隊暫停系統）。白隊進攻，比分為31:31。比賽尚餘20秒時，白隊7號進球得分。黑隊球隊職員A跑到計時員的檯面前準備按下蜂鳴器申請隊暫停，但在球隊職員A按下蜂鳴器之前，黑隊10號從替補席起身，在黑隊開球前搶先按下了蜂鳴器。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "給予黑隊隊暫停",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "不給予黑隊隊暫停",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "比賽由黑隊擲開球恢復比賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "比賽由白隊擲自由球恢復比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "比賽由白隊擲七米球恢復比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "白隊球隊職員可以選擇七米球或自由球",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "g",
+                    "Phrase": "漸進處罰黑隊球隊職員A",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "h",
+                    "Phrase": "黑隊2號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "i",
+                    "Phrase": "取消黑隊10號資格（裁判出示紅牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "j",
+                    "Phrase": "黑隊失去一次隊暫停",
+                    "Correct": true
+                }
+            ]
+        },
+        {
+            "QuestionNumber": "2.56",
+            "Phrase": "比賽使用影片重播和電子隊暫停系統。比賽尚餘20秒時，白隊7號持球跑動，裁判鳴哨判走步犯規。白隊7號在放球前握球約2秒。就在黑隊4號撿起球時，黑隊官員B按下蜂鳴器要求隊暫停。裁判決定使用VR，檢查是否違反8:11a。於重播中發現，白隊7號其實只走了三步。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "可以使用影片重播",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "黑隊隊暫停立即開始",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "隊暫停的判決推遲到VR後",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "暫停",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "VR後，給予黑隊隊暫停",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "VR後，不給予黑隊隊暫停",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "g",
+                    "Phrase": "取消白隊7號資格（裁判出示紅牌）",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "h",
+                    "Phrase": "白隊7號退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "i",
+                    "Phrase": "比賽由黑隊擲自由球恢復比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "j",
+                    "Phrase": "比賽由黑隊擲七米球恢復比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "k",
+                    "Phrase": "比賽由白隊擲自由球恢復比賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "l",
+                    "Phrase": "黑隊失去一次隊暫停",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "m",
+                    "Phrase": "漸進處罰黑隊球隊職員B",
+                    "Correct": false
+                }
+            ]
         }
     ]
 }

@@ -96,13 +96,13 @@
                 },
                 {
                     "AnswerNumber": "b",
-                    "Phrase": "白隊自由球",
-                    "Correct": false
+                    "Phrase": "鳴哨後白隊自由球",
+                    "Correct": true
                 },
                 {
                     "AnswerNumber": "c",
-                    "Phrase": "鳴哨後，重擲守門員球",
-                    "Correct": true
+                    "Phrase": "鳴哨後重擲守門員球",
+                    "Correct": false
                 },
                 {
                     "AnswerNumber": "d",
@@ -674,6 +674,42 @@
                 {
                     "AnswerNumber": "c",
                     "Phrase": "白隊自由球",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "QuestionNumber": "15.27",
+            "Phrase": "黑隊入球得分，裁判鳴笛開球。然後在開球球員手上球尚未離手前，計時員鳴哨，白隊5號在白隊6號離場前進場。如何判決？",
+            "Answers": [
+                {
+                    "AnswerNumber": "a",
+                    "Phrase": "暫停",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "b",
+                    "Phrase": "白隊5號退場兩分鐘",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "c",
+                    "Phrase": "白隊6號退場兩分鐘",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "d",
+                    "Phrase": "由於鳴笛時球仍屬於「球賽停頓」狀態，因此比賽應由白隊擲開球恢復比賽",
+                    "Correct": false
+                },
+                {
+                    "AnswerNumber": "e",
+                    "Phrase": "比賽由黑隊擲自由球恢復比賽",
+                    "Correct": true
+                },
+                {
+                    "AnswerNumber": "f",
+                    "Phrase": "比賽由白隊擲自由球恢復比賽",
                     "Correct": false
                 }
             ]
