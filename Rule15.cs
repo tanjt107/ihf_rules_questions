@@ -1601,6 +1601,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "ЦРНА екипа је спремна да изведе слободно бацање без звиждука. ЦРНИ 8 изводи бацање тако да су му оба стопала и лева шака у контакту са подлогом. ЦРНИ 6 прихвата лопту и постиже гол. Која је исправна одлука?",
+                    PhraseZhHk = "黑隊準備擲自由球（裁判沒有鳴哨）。黑隊8號雙腳和左手觸地時擲球，黑隊6號接到球並射進球門。如何判決？",
                     QuestionNumber = "15.26",
                     Answers =
                     [
@@ -1612,6 +1613,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊得分",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1622,6 +1624,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Корекција, понављање извођења слободног бацања након звиждука",
+                            PhraseZhHk = "更正，裁判鳴哨後重擲自由球",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1633,6 +1636,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球",
                             AnswerNumber = "c"
                         }
                     ]

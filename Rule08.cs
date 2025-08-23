@@ -4059,7 +4059,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за БЕЛУ екипу",
-                            PhraseZhHk = "白隊進球",
+                            PhraseZhHk = "白隊得分",
                             AnswerNumber = "e"
                         }
                     ]

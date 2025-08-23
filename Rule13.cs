@@ -926,6 +926,8 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "БЕЛА екипа има лопту у поседу. ЦРНА екипа је заузела положај у одбрани. БЕЛИ 8 трчи близу аут линије. БЕЛИ 4 додаје лопту у правцу БЕЛОГ 8. БЕЛИ 8 се судара са фотографом који се шета између трибина и простора за игру дотичући аут линију. БЕЛИ 8 не успева да ухвати лопту те губи контролу над телом. Пре него што су судије прекинуле игру, лопта је прешла аут линију. Која је исправна одлука?",
+                    PhraseZhHk =
+                        "白隊持球，黑隊已經在防守位置。白隊4號傳球給在邊線附近跑動的白隊8號，白隊8號撞倒了站在邊線的一名攝影師，白隊8號失去身體平衡，未能接住球。在裁判中斷比賽之前，球已經越過邊線。如何判決？",
                     QuestionNumber = "13.14",
                     Answers =
                     [
@@ -937,6 +939,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља аутом за ЦРНУ екипу",
+                            PhraseZhHk = "黑隊界外球恢復比賽",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -947,6 +950,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља слободним бацањем за БЕЛУ екипу",
+                            PhraseZhHk = "白隊自由球恢復比賽",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -958,6 +962,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -971,6 +976,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Забелешка у записнику у складу са прописима надлежне федерације",
+                            PhraseZhHk = "在記錄表上註明",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -987,6 +993,7 @@ public static partial class Rules
                     PhraseDe = "",
                     PhraseSrb =
                         "ЦРНА екипа је у нападу. Судије досуђују слободно бацање за ЦРНОГ 2. Пре него што ЦРНИ 2 изведе слободно бацање, ЦРНИ 11 обара БЕЛОГ 8. Која је исправна одлука?",
+                    PhraseZhHk = "黑隊進攻，黑隊2號擲自由球。在黑隊2號擲球前，黑隊11號拉倒了白隊8號。如何判決？",
                     QuestionNumber = "13.15",
                     Answers =
                     [
@@ -998,6 +1005,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за ЦРНУ екипу након звиждука",
+                            PhraseZhHk = "鳴哨後黑隊自由球",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1009,6 +1017,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу након звиждука",
+                            PhraseZhHk = "鳴哨後白隊自由球",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1019,6 +1028,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тајм-аут",
+                            PhraseZhHk = "暫停",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -1030,6 +1040,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Прогресивна казна за ЦРНОГ 11",
+                            PhraseZhHk = "漸進處罰黑隊11號",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -1040,6 +1051,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Искључење на 2 минута за ЦРНОГ 11",
+                            PhraseZhHk = "黑隊11號退場兩分鐘",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -1051,6 +1063,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Дисквалификација ЦРНОГ 11 (црвени картон)",
+                            PhraseZhHk = "取消黑隊11號資格（裁判出示紅牌）",
                             AnswerNumber = "f"
                         }
                     ]

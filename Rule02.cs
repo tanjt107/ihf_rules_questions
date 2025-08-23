@@ -1863,6 +1863,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Играч у пољу одбрамбене екипе голманом, ако екипа у том тренутку игра без голмана",
+                            PhraseZhHk = "如果此時防守隊沒有守門員，允許防守隊替補一名守門員進場",
                             AnswerNumber = "e",
                             Correct = true
                         }
