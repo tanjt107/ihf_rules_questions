@@ -3,7 +3,7 @@
     "Name": "球場",
     "Questions": [
         {
-            "Number": "1.1",
+            "QuestionNumber": "1.1",
             "Phrase": "根據球例規定，比賽場地的大小是：",
             "Answers": [
                 {
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "Number": "1.2",
+            "QuestionNumber": "1.2",
             "Phrase": "球門的內徑是：",
             "Answers": [
                 {
@@ -55,7 +55,7 @@
             ]
         },
         {
-            "Number": "1.3",
+            "QuestionNumber": "1.3",
             "Phrase": "球門柱間的球門線闊度是：",
             "Answers": [
                 {
@@ -81,7 +81,7 @@
             ]
         },
         {
-            "Number": "1.4",
+            "QuestionNumber": "1.4",
             "Phrase": "關於開球位置，下列哪些說法是正確的？",
             "Answers": [
                 {

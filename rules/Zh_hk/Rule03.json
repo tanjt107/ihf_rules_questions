@@ -3,7 +3,7 @@
     "Name": "球",
     "Questions": [
         {
-            "Number": "3.1",
+            "QuestionNumber": "3.1",
             "Phrase": "手球可有多少種顔色?",
             "Answers": [
                 {
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "Number": "3.2",
+            "QuestionNumber": "3.2",
             "Phrase": "裁判應選用以下那一個球作為男子比賽用的球？",
             "Answers": [
                 {
@@ -55,7 +55,7 @@
             ]
         },
         {
-            "Number": "3.3",
+            "QuestionNumber": "3.3",
             "Phrase": "裁判應選用以下那一個球作為女子比賽用的球？",
             "Answers": [
                 {
@@ -81,7 +81,7 @@
             ]
         },
         {
-            "Number": "3.4",
+            "QuestionNumber": "3.4",
             "Phrase": "裁判決定使用備用球比賽後，何時應該再使用原來的球？",
             "Answers": [
                 {

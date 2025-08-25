@@ -3,7 +3,7 @@
     "Name": "替補區規則",
     "Questions": [
         {
-            "Number": "SAR1",
+            "QuestionNumber": "SAR1",
             "Phrase": "替補席與中線應最少有多遠距離？",
             "Answers": [
                 {
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "Number": "SAR2",
+            "QuestionNumber": "SAR2",
             "Phrase": "白隊球隊職員A已經在替補席上被警告過，現在他離開替補區，坐在觀眾席上，繼續抗議裁判的判罰。如何判決？",
             "Answers": [
                 {
